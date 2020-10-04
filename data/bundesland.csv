@@ -1,4 +1,4 @@
-"ObjectId","Bundesland","Infektionen","Infektionsrate","Neuinfektionen pro 100k EW","Todesfälle","Letalitätsrate","Aktualisiert"
+﻿"ObjectId","Bundesland","Infektionen","Infektionsrate","Neuinfektionen pro 100k EW","Todesfälle","Letalitätsrate","Aktualisiert"
 "1","Schleswig-Holstein","4914","0.0","169.640613219402","162","0.0","52727-10-31"
 "2","Hamburg","8176","0.0","444.063287708582","272","0.0","52727-10-31"
 "3","Niedersachsen","20954","0.0","262.500927033912","690","0.0","52727-10-31"
