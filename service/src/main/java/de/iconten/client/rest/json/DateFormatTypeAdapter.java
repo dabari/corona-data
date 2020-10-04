@@ -32,7 +32,7 @@ public class DateFormatTypeAdapter extends TypeAdapter<Date> {
 				return df.parse(value.trim());
 			} else {
 				final long timestamp = Long.parseLong(nextValue);
-				final Date date = new Date(timestamp * 1000);
+				final Date date = new Date(timestamp);
 				return date;
 			}
 		} catch (final ParseException e) {
