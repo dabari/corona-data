@@ -17,7 +17,12 @@ public class CsvProvider {
 
 	public static void writeData(String filePath, List<String[]> data) {
 		final File file = new File(filePath);
-		try (final FileOutputStream fos = new FileOutputStream(file); final Writer fw = new OutputStreamWriter(fos, StandardCharsets.ISO_8859_1)) {
+		try (final FileOutputStream fos = new FileOutputStream(file)) {
+			fos.write(0xef);
+			fos.write(0xbb);
+			fos.write(0xbf);
+
+			final Writer fw = new OutputStreamWriter(fos, StandardCharsets.UTF_8);
 			final CSVWriter writer = new CSVWriter(fw);
 			writer.writeAll(data);
 			writer.close();
