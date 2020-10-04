@@ -1,4 +1,4 @@
-"ObjectId","Landkreis","Bundesland","Infektionen","Infektionsrate","Neuinfektionen pro 100k EW","Todesfälle","Letalitätsrate","Aktualisiert"
+﻿"ObjectId","Landkreis","Bundesland","Infektionen","Infektionsrate","Neuinfektionen pro 100k EW","Todesfälle","Letalitätsrate","Aktualisiert"
 "1","Flensburg","Schleswig-Holstein","125","0.139658562745799","139.658562745799","3","2.4","2020-10-04"
 "2","Kiel","Schleswig-Holstein","474","0.191478016384701","191.478016384701","12","2.53164556962025","2020-10-04"
 "3","Lübeck","Schleswig-Holstein","297","0.136741590622381","136.741590622381","1","0.336700336700337","2020-10-04"
