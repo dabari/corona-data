@@ -1,0 +1,69 @@
+package de.iconten.client.rest.model;
+
+import java.util.Date;
+
+import com.google.gson.annotations.SerializedName;
+
+import lombok.Data;
+
+@Data
+public class FeatureBundesland {
+
+	/*
+	"OBJECTID_1" : 1, 
+	"LAN_ew_AGS" : "01", 
+	"LAN_ew_GEN" : "Schleswig-Holstein", 
+	"LAN_ew_BEZ" : "Land", 
+	"LAN_ew_EWZ" : 2896712, 
+	"OBJECTID" : 15, 
+	"Fallzahl" : 4914, 
+	"Aktualisierung" : 1601762400000, 
+	"faelle_100000_EW" : 169.640613219402, 
+	"Death" : 162
+	*/
+
+	@SerializedName(value = "OBJECTID")
+	private long objectId;
+
+	@SerializedName(value = "OBJECTID_1")
+	private long objectId1;
+
+	@SerializedName(value = "LAN_ew_AGS")
+	private String ags;
+
+	@SerializedName(value = "LAN_ew_GEN")
+	private String gen;
+
+	@SerializedName(value = "LAN_ew_BEZ")
+	private String bez;
+
+	/**
+	 * Einwohnerzahl
+	 */
+	@SerializedName(value = "LAN_ew_EWZ")
+	private int ewz;
+
+	/**
+	 * Infektionen
+	 */
+	@SerializedName(value = "Fallzahl")
+	private int cases;
+
+	/**
+	 * Todesfälle
+	 */
+	@SerializedName(value = "Death")
+	private int deaths;
+
+	/**
+	 * Fälle/100.000 EW
+	 */
+	@SerializedName(value = "faelle_100000_EW")
+	private double casesPer100k;
+
+	/**
+	 * Aktualisiert
+	 */
+	@SerializedName(value = "Aktualisierung")
+	private Date lastUpdate;
+}
