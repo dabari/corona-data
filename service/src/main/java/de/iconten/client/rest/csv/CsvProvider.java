@@ -28,7 +28,7 @@ public class CsvProvider {
 			writer.close();
 		} catch (final IOException e) {
 			e.printStackTrace();
-			log.error("", e);
+			log.error(e.getLocalizedMessage(), e);
 		}
 	}
 
