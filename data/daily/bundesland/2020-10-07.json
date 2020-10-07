@@ -1,0 +1,242 @@
+[
+  {
+    "OBJECTID": 15,
+    "OBJECTID_1": 1,
+    "LAN_ew_AGS": "01",
+    "LAN_ew_GEN": "Schleswig-Holstein",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 2896712,
+    "Fallzahl": 5032,
+    "Death": 162,
+    "faelle_100000_EW": 173.714197338223,
+    "cases7day": [
+      54
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 6,
+    "OBJECTID_1": 2,
+    "LAN_ew_AGS": "02",
+    "LAN_ew_GEN": "Hamburg",
+    "LAN_ew_BEZ": "Freie und Hansestadt",
+    "LAN_ew_EWZ": 1841179,
+    "Fallzahl": 8451,
+    "Death": 274,
+    "faelle_100000_EW": 458.999369425786,
+    "cases7day": [
+      112
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 9,
+    "OBJECTID_1": 3,
+    "LAN_ew_AGS": "03",
+    "LAN_ew_GEN": "Niedersachsen",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 7982448,
+    "Fallzahl": 21456,
+    "Death": 691,
+    "faelle_100000_EW": 268.789724655895,
+    "cases7day": [
+      172
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 5,
+    "OBJECTID_1": 4,
+    "LAN_ew_AGS": "04",
+    "LAN_ew_GEN": "Bremen",
+    "LAN_ew_BEZ": "Freie Hansestadt",
+    "LAN_ew_EWZ": 682986,
+    "Fallzahl": 2702,
+    "Death": 59,
+    "faelle_100000_EW": 395.615722723453,
+    "cases7day": [
+      70
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 10,
+    "OBJECTID_1": 5,
+    "LAN_ew_AGS": "05",
+    "LAN_ew_GEN": "Nordrhein-Westfalen",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 17932651,
+    "Fallzahl": 74615,
+    "Death": 1891,
+    "faelle_100000_EW": 416.084604557352,
+    "cases7day": [
+      773
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 7,
+    "OBJECTID_1": 6,
+    "LAN_ew_AGS": "06",
+    "LAN_ew_GEN": "Hessen",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 6265809,
+    "Fallzahl": 20355,
+    "Death": 556,
+    "faelle_100000_EW": 324.858290445815,
+    "cases7day": [
+      242
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 11,
+    "OBJECTID_1": 7,
+    "LAN_ew_AGS": "07",
+    "LAN_ew_GEN": "Rheinland-Pfalz",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 4084844,
+    "Fallzahl": 11308,
+    "Death": 256,
+    "faelle_100000_EW": 276.828197111077,
+    "cases7day": [
+      93
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 1,
+    "OBJECTID_1": 8,
+    "LAN_ew_AGS": "08",
+    "LAN_ew_GEN": "Baden-Württemberg",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 11069533,
+    "Fallzahl": 51579,
+    "Death": 1894,
+    "faelle_100000_EW": 465.95461615228,
+    "cases7day": [
+      388
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 2,
+    "OBJECTID_1": 9,
+    "LAN_ew_AGS": "09",
+    "LAN_ew_GEN": "Bayern",
+    "LAN_ew_BEZ": "Freistaat",
+    "LAN_ew_EWZ": 13076721,
+    "Fallzahl": 70381,
+    "Death": 2680,
+    "faelle_100000_EW": 538.215964078457,
+    "cases7day": [
+      375
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 12,
+    "OBJECTID_1": 10,
+    "LAN_ew_AGS": "10",
+    "LAN_ew_GEN": "Saarland",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 990509,
+    "Fallzahl": 3489,
+    "Death": 177,
+    "faelle_100000_EW": 352.243139638307,
+    "cases7day": [
+      40
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 3,
+    "OBJECTID_1": 11,
+    "LAN_ew_AGS": "11",
+    "LAN_ew_GEN": "Berlin",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 3644826,
+    "Fallzahl": 16237,
+    "Death": 231,
+    "faelle_100000_EW": 445.480799357775,
+    "cases7day": [
+      288
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 4,
+    "OBJECTID_1": 12,
+    "LAN_ew_AGS": "12",
+    "LAN_ew_GEN": "Brandenburg",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 2511917,
+    "Fallzahl": 4483,
+    "Death": 169,
+    "faelle_100000_EW": 178.469272671032,
+    "cases7day": [
+      36
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 8,
+    "OBJECTID_1": 13,
+    "LAN_ew_AGS": "13",
+    "LAN_ew_GEN": "Mecklenburg-Vorpommern",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 1609675,
+    "Fallzahl": 1304,
+    "Death": 20,
+    "faelle_100000_EW": 81.0101417988103,
+    "cases7day": [
+      11
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 13,
+    "OBJECTID_1": 14,
+    "LAN_ew_AGS": "14",
+    "LAN_ew_GEN": "Sachsen",
+    "LAN_ew_BEZ": "Freistaat",
+    "LAN_ew_EWZ": 4077937,
+    "Fallzahl": 7679,
+    "Death": 243,
+    "faelle_100000_EW": 188.305998842062,
+    "cases7day": [
+      146
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 14,
+    "OBJECTID_1": 15,
+    "LAN_ew_AGS": "15",
+    "LAN_ew_GEN": "Sachsen-Anhalt",
+    "LAN_ew_BEZ": "Land",
+    "LAN_ew_EWZ": 2208321,
+    "Fallzahl": 2774,
+    "Death": 68,
+    "faelle_100000_EW": 125.615795891992,
+    "cases7day": [
+      10
+    ],
+    "Aktualisierung": 1602021600000
+  },
+  {
+    "OBJECTID": 16,
+    "OBJECTID_1": 16,
+    "LAN_ew_AGS": "16",
+    "LAN_ew_GEN": "Thüringen",
+    "LAN_ew_BEZ": "Freistaat",
+    "LAN_ew_EWZ": 2143145,
+    "Fallzahl": 4241,
+    "Death": 191,
+    "faelle_100000_EW": 197.88675054651,
+    "cases7day": [
+      18
+    ],
+    "Aktualisierung": 1602021600000
+  }
+]

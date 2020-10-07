@@ -1,0 +1,7806 @@
+[
+  {
+    "OBJECTID": 1,
+    "RS": "01001",
+    "AGS": "01001",
+    "GEN": "Flensburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 89504,
+    "AGS_0": "01001000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 2.4,
+    "cases": 125,
+    "deaths": 3,
+    "cases_per_100k": 139.658562745799,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.139658562745799,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 2,
+    "RS": "01002",
+    "AGS": "01002",
+    "GEN": "Kiel",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 247548,
+    "AGS_0": "01002000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 2.50521920668058,
+    "cases": 479,
+    "deaths": 12,
+    "cases_per_100k": 193.497826684118,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.193497826684118,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 3,
+    "RS": "01003",
+    "AGS": "01003",
+    "GEN": "Lübeck",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 217198,
+    "AGS_0": "01003000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 0.321543408360129,
+    "cases": 311,
+    "deaths": 1,
+    "cases_per_100k": 143.187322166871,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.143187322166871,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 4,
+    "RS": "01004",
+    "AGS": "01004",
+    "GEN": "Neumünster",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 79487,
+    "AGS_0": "01004000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 1.74418604651163,
+    "cases": 172,
+    "deaths": 3,
+    "cases_per_100k": 216.387585391322,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.216387585391322,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 5,
+    "RS": "01051",
+    "AGS": "01051",
+    "GEN": "Dithmarschen",
+    "BEZ": "Kreis",
+    "EWZ": 133210,
+    "AGS_0": "01051000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 2.14592274678112,
+    "cases": 233,
+    "deaths": 5,
+    "cases_per_100k": 174.911793408903,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.174911793408903,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 6,
+    "RS": "01053",
+    "AGS": "01053",
+    "GEN": "Herzogtum Lauenburg",
+    "BEZ": "Kreis",
+    "EWZ": 197264,
+    "AGS_0": "01053000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 4.89130434782609,
+    "cases": 368,
+    "deaths": 18,
+    "cases_per_100k": 186.552031794955,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.186552031794955,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 7,
+    "RS": "01054",
+    "AGS": "01054",
+    "GEN": "Nordfriesland",
+    "BEZ": "Kreis",
+    "EWZ": 165507,
+    "AGS_0": "01054000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 1.33333333333333,
+    "cases": 150,
+    "deaths": 2,
+    "cases_per_100k": 90.6306077688557,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.0906306077688557,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 8,
+    "RS": "01055",
+    "AGS": "01055",
+    "GEN": "Ostholstein",
+    "BEZ": "Kreis",
+    "EWZ": 200581,
+    "AGS_0": "01055000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 0.0,
+    "cases": 145,
+    "deaths": 0,
+    "cases_per_100k": 72.2899975570966,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.0722899975570966,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 9,
+    "RS": "01056",
+    "AGS": "01056",
+    "GEN": "Pinneberg",
+    "BEZ": "Kreis",
+    "EWZ": 314391,
+    "AGS_0": "01056000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 5.18763796909492,
+    "cases": 906,
+    "deaths": 47,
+    "cases_per_100k": 288.176188249664,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.288176188249664,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 10,
+    "RS": "01057",
+    "AGS": "01057",
+    "GEN": "Plön",
+    "BEZ": "Kreis",
+    "EWZ": 128647,
+    "AGS_0": "01057000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 4.73372781065089,
+    "cases": 169,
+    "deaths": 8,
+    "cases_per_100k": 131.367229706095,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.131367229706095,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 11,
+    "RS": "01058",
+    "AGS": "01058",
+    "GEN": "Rendsburg-Eckernförde",
+    "BEZ": "Kreis",
+    "EWZ": 272775,
+    "AGS_0": "01058000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 3.7940379403794,
+    "cases": 369,
+    "deaths": 14,
+    "cases_per_100k": 135.276326642838,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.135276326642838,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 12,
+    "RS": "01059",
+    "AGS": "01059",
+    "GEN": "Schleswig-Flensburg",
+    "BEZ": "Kreis",
+    "EWZ": 200025,
+    "AGS_0": "01059000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 2.0,
+    "cases": 200,
+    "deaths": 4,
+    "cases_per_100k": 99.9875015623047,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0999875015623047,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 13,
+    "RS": "01060",
+    "AGS": "01060",
+    "GEN": "Segeberg",
+    "BEZ": "Kreis",
+    "EWZ": 276032,
+    "AGS_0": "01060000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 1.41987829614604,
+    "cases": 493,
+    "deaths": 7,
+    "cases_per_100k": 178.602480871783,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.178602480871783,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 14,
+    "RS": "01061",
+    "AGS": "01061",
+    "GEN": "Steinburg",
+    "BEZ": "Kreis",
+    "EWZ": 131347,
+    "AGS_0": "01061000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 1.28755364806867,
+    "cases": 233,
+    "deaths": 3,
+    "cases_per_100k": 177.392707865425,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.177392707865425,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 15,
+    "RS": "01062",
+    "AGS": "01062",
+    "GEN": "Stormarn",
+    "BEZ": "Kreis",
+    "EWZ": 243196,
+    "AGS_0": "01062000",
+    "BL": "Schleswig-Holstein",
+    "death_rate": 5.15463917525773,
+    "cases": 679,
+    "deaths": 35,
+    "cases_per_100k": 279.198671030774,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.279198671030774,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 16,
+    "RS": "02000",
+    "AGS": "02000",
+    "GEN": "Hamburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 1841179,
+    "AGS_0": "02000000",
+    "BL": "Hamburg",
+    "death_rate": 3.24221985563839,
+    "cases": 8451,
+    "deaths": 274,
+    "cases_per_100k": 458.999369425786,
+    "cases7day": [
+      112
+    ],
+    "cases_per_population": 0.458999369425786,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 17,
+    "RS": "03101",
+    "AGS": "03101",
+    "GEN": "Braunschweig",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 248292,
+    "AGS_0": "03101000",
+    "BL": "Niedersachsen",
+    "death_rate": 3.6144578313253,
+    "cases": 498,
+    "deaths": 18,
+    "cases_per_100k": 200.570296264076,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.200570296264076,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 18,
+    "RS": "03102",
+    "AGS": "03102",
+    "GEN": "Salzgitter",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 104948,
+    "AGS_0": "03102000",
+    "BL": "Niedersachsen",
+    "death_rate": 3.71747211895911,
+    "cases": 269,
+    "deaths": 10,
+    "cases_per_100k": 256.31741433853,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.25631741433853,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 19,
+    "RS": "03103",
+    "AGS": "03103",
+    "GEN": "Wolfsburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 124151,
+    "AGS_0": "03103000",
+    "BL": "Niedersachsen",
+    "death_rate": 11.6228070175439,
+    "cases": 456,
+    "deaths": 53,
+    "cases_per_100k": 367.294665367174,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.367294665367174,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 20,
+    "RS": "03151",
+    "AGS": "03151",
+    "GEN": "Gifhorn",
+    "BEZ": "Landkreis",
+    "EWZ": 175920,
+    "AGS_0": "03151000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.93050193050193,
+    "cases": 259,
+    "deaths": 5,
+    "cases_per_100k": 147.226011823556,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.147226011823556,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 21,
+    "RS": "03153",
+    "AGS": "03153",
+    "GEN": "Goslar",
+    "BEZ": "Landkreis",
+    "EWZ": 137014,
+    "AGS_0": "03153000",
+    "BL": "Niedersachsen",
+    "death_rate": 8.46394984326019,
+    "cases": 319,
+    "deaths": 27,
+    "cases_per_100k": 232.822923204928,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.232822923204928,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 22,
+    "RS": "03154",
+    "AGS": "03154",
+    "GEN": "Helmstedt",
+    "BEZ": "Landkreis",
+    "EWZ": 91307,
+    "AGS_0": "03154000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.14942528735632,
+    "cases": 174,
+    "deaths": 2,
+    "cases_per_100k": 190.565893085963,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.190565893085963,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 23,
+    "RS": "03155",
+    "AGS": "03155",
+    "GEN": "Northeim",
+    "BEZ": "Landkreis",
+    "EWZ": 132765,
+    "AGS_0": "03155000",
+    "BL": "Niedersachsen",
+    "death_rate": 3.26086956521739,
+    "cases": 184,
+    "deaths": 6,
+    "cases_per_100k": 138.590743042217,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.138590743042217,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 24,
+    "RS": "03157",
+    "AGS": "03157",
+    "GEN": "Peine",
+    "BEZ": "Landkreis",
+    "EWZ": 133965,
+    "AGS_0": "03157000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.09556313993174,
+    "cases": 293,
+    "deaths": 12,
+    "cases_per_100k": 218.713843167992,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.218713843167992,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 25,
+    "RS": "03158",
+    "AGS": "03158",
+    "GEN": "Wolfenbüttel",
+    "BEZ": "Landkreis",
+    "EWZ": 119960,
+    "AGS_0": "03158000",
+    "BL": "Niedersachsen",
+    "death_rate": 5.88235294117647,
+    "cases": 238,
+    "deaths": 14,
+    "cases_per_100k": 198.39946648883,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.19839946648883,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 26,
+    "RS": "03159",
+    "AGS": "03159",
+    "GEN": "Göttingen",
+    "BEZ": "Landkreis",
+    "EWZ": 328074,
+    "AGS_0": "03159000",
+    "BL": "Niedersachsen",
+    "death_rate": 5.36320434487441,
+    "cases": 1473,
+    "deaths": 79,
+    "cases_per_100k": 448.984070666984,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.448984070666984,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 27,
+    "RS": "03241",
+    "AGS": "03241",
+    "GEN": "Region Hannover",
+    "BEZ": "Landkreis",
+    "EWZ": 1157624,
+    "AGS_0": "03241000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.92887029288703,
+    "cases": 4541,
+    "deaths": 133,
+    "cases_per_100k": 392.268992349848,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.392268992349848,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 28,
+    "RS": "03251",
+    "AGS": "03251",
+    "GEN": "Diepholz",
+    "BEZ": "Landkreis",
+    "EWZ": 216886,
+    "AGS_0": "03251000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.01188707280832,
+    "cases": 673,
+    "deaths": 27,
+    "cases_per_100k": 310.301264258643,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.310301264258643,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 29,
+    "RS": "03252",
+    "AGS": "03252",
+    "GEN": "Hameln-Pyrmont",
+    "BEZ": "Landkreis",
+    "EWZ": 148559,
+    "AGS_0": "03252000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.9535864978903,
+    "cases": 237,
+    "deaths": 7,
+    "cases_per_100k": 159.532576282824,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.159532576282824,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 30,
+    "RS": "03254",
+    "AGS": "03254",
+    "GEN": "Hildesheim",
+    "BEZ": "Landkreis",
+    "EWZ": 276594,
+    "AGS_0": "03254000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.68350168350168,
+    "cases": 594,
+    "deaths": 10,
+    "cases_per_100k": 214.755200763574,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.214755200763574,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 31,
+    "RS": "03255",
+    "AGS": "03255",
+    "GEN": "Holzminden",
+    "BEZ": "Landkreis",
+    "EWZ": 70975,
+    "AGS_0": "03255000",
+    "BL": "Niedersachsen",
+    "death_rate": 5.07246376811594,
+    "cases": 138,
+    "deaths": 7,
+    "cases_per_100k": 194.434660091582,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.194434660091582,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 32,
+    "RS": "03256",
+    "AGS": "03256",
+    "GEN": "Nienburg (Weser)",
+    "BEZ": "Landkreis",
+    "EWZ": 121386,
+    "AGS_0": "03256000",
+    "BL": "Niedersachsen",
+    "death_rate": 3.1496062992126,
+    "cases": 127,
+    "deaths": 4,
+    "cases_per_100k": 104.624915558631,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.104624915558631,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 33,
+    "RS": "03257",
+    "AGS": "03257",
+    "GEN": "Schaumburg",
+    "BEZ": "Landkreis",
+    "EWZ": 157781,
+    "AGS_0": "03257000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.16049382716049,
+    "cases": 324,
+    "deaths": 7,
+    "cases_per_100k": 205.347918950951,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.205347918950951,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 34,
+    "RS": "03351",
+    "AGS": "03351",
+    "GEN": "Celle",
+    "BEZ": "Landkreis",
+    "EWZ": 178936,
+    "AGS_0": "03351000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.62962962962963,
+    "cases": 324,
+    "deaths": 15,
+    "cases_per_100k": 181.070326820763,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.181070326820763,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 35,
+    "RS": "03352",
+    "AGS": "03352",
+    "GEN": "Cuxhaven",
+    "BEZ": "Landkreis",
+    "EWZ": 198213,
+    "AGS_0": "03352000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.77272727272727,
+    "cases": 440,
+    "deaths": 21,
+    "cases_per_100k": 221.983421874448,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.221983421874448,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 36,
+    "RS": "03353",
+    "AGS": "03353",
+    "GEN": "Harburg",
+    "BEZ": "Landkreis",
+    "EWZ": 252776,
+    "AGS_0": "03353000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.82025028441411,
+    "cases": 879,
+    "deaths": 16,
+    "cases_per_100k": 347.738709371143,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.347738709371143,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 37,
+    "RS": "03354",
+    "AGS": "03354",
+    "GEN": "Lüchow-Dannenberg",
+    "BEZ": "Landkreis",
+    "EWZ": 48424,
+    "AGS_0": "03354000",
+    "BL": "Niedersachsen",
+    "death_rate": 6.38297872340426,
+    "cases": 47,
+    "deaths": 3,
+    "cases_per_100k": 97.0593094333388,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0970593094333388,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 38,
+    "RS": "03355",
+    "AGS": "03355",
+    "GEN": "Lüneburg",
+    "BEZ": "Landkreis",
+    "EWZ": 183372,
+    "AGS_0": "03355000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.0,
+    "cases": 252,
+    "deaths": 0,
+    "cases_per_100k": 137.425561154375,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.137425561154375,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 39,
+    "RS": "03356",
+    "AGS": "03356",
+    "GEN": "Osterholz",
+    "BEZ": "Landkreis",
+    "EWZ": 113517,
+    "AGS_0": "03356000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.0,
+    "cases": 188,
+    "deaths": 0,
+    "cases_per_100k": 165.613960904534,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.165613960904534,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 40,
+    "RS": "03357",
+    "AGS": "03357",
+    "GEN": "Rotenburg (Wümme)",
+    "BEZ": "Landkreis",
+    "EWZ": 163455,
+    "AGS_0": "03357000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.634920634920635,
+    "cases": 315,
+    "deaths": 2,
+    "cases_per_100k": 192.713590896577,
+    "cases7day": [
+      16
+    ],
+    "cases_per_population": 0.192713590896577,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 41,
+    "RS": "03358",
+    "AGS": "03358",
+    "GEN": "Heidekreis",
+    "BEZ": "Landkreis",
+    "EWZ": 139755,
+    "AGS_0": "03358000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.6,
+    "cases": 125,
+    "deaths": 2,
+    "cases_per_100k": 89.4422382025688,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.0894422382025688,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 42,
+    "RS": "03359",
+    "AGS": "03359",
+    "GEN": "Stade",
+    "BEZ": "Landkreis",
+    "EWZ": 203102,
+    "AGS_0": "03359000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.37467018469657,
+    "cases": 379,
+    "deaths": 9,
+    "cases_per_100k": 186.605744896653,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.186605744896653,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 43,
+    "RS": "03360",
+    "AGS": "03360",
+    "GEN": "Uelzen",
+    "BEZ": "Landkreis",
+    "EWZ": 92572,
+    "AGS_0": "03360000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.0,
+    "cases": 99,
+    "deaths": 0,
+    "cases_per_100k": 106.943784297628,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.106943784297628,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 44,
+    "RS": "03361",
+    "AGS": "03361",
+    "GEN": "Verden",
+    "BEZ": "Landkreis",
+    "EWZ": 136792,
+    "AGS_0": "03361000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.11081794195251,
+    "cases": 379,
+    "deaths": 8,
+    "cases_per_100k": 277.06298613954,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.27706298613954,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 45,
+    "RS": "03401",
+    "AGS": "03401",
+    "GEN": "Delmenhorst",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 77607,
+    "AGS_0": "03401000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.9047619047619,
+    "cases": 210,
+    "deaths": 4,
+    "cases_per_100k": 270.594147435154,
+    "cases7day": [
+      12
+    ],
+    "cases_per_population": 0.270594147435154,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 46,
+    "RS": "03402",
+    "AGS": "03402",
+    "GEN": "Emden",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 50195,
+    "AGS_0": "03402000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.0,
+    "cases": 48,
+    "deaths": 0,
+    "cases_per_100k": 95.6270544874988,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.0956270544874988,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 47,
+    "RS": "03403",
+    "AGS": "03403",
+    "GEN": "Oldenburg (Oldb)",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 168210,
+    "AGS_0": "03403000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.943396226415094,
+    "cases": 318,
+    "deaths": 3,
+    "cases_per_100k": 189.049402532549,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.189049402532549,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 48,
+    "RS": "03404",
+    "AGS": "03404",
+    "GEN": "Osnabrück",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 164748,
+    "AGS_0": "03404000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.28716645489199,
+    "cases": 787,
+    "deaths": 18,
+    "cases_per_100k": 477.69927404278,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.477699274042781,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 49,
+    "RS": "03405",
+    "AGS": "03405",
+    "GEN": "Wilhelmshaven",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 76278,
+    "AGS_0": "03405000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.5625,
+    "cases": 64,
+    "deaths": 1,
+    "cases_per_100k": 83.90361572144,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.08390361572144,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 50,
+    "RS": "03451",
+    "AGS": "03451",
+    "GEN": "Ammerland",
+    "BEZ": "Landkreis",
+    "EWZ": 124071,
+    "AGS_0": "03451000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.11864406779661,
+    "cases": 236,
+    "deaths": 5,
+    "cases_per_100k": 190.213667980431,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.190213667980431,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 51,
+    "RS": "03452",
+    "AGS": "03452",
+    "GEN": "Aurich",
+    "BEZ": "Landkreis",
+    "EWZ": 189848,
+    "AGS_0": "03452000",
+    "BL": "Niedersachsen",
+    "death_rate": 3.52422907488987,
+    "cases": 227,
+    "deaths": 8,
+    "cases_per_100k": 119.569339682272,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.119569339682272,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 52,
+    "RS": "03453",
+    "AGS": "03453",
+    "GEN": "Cloppenburg",
+    "BEZ": "Landkreis",
+    "EWZ": 169348,
+    "AGS_0": "03453000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.145560407569141,
+    "cases": 687,
+    "deaths": 1,
+    "cases_per_100k": 405.673524340411,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.405673524340411,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 53,
+    "RS": "03454",
+    "AGS": "03454",
+    "GEN": "Emsland",
+    "BEZ": "Landkreis",
+    "EWZ": 325657,
+    "AGS_0": "03454000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.84090909090909,
+    "cases": 880,
+    "deaths": 25,
+    "cases_per_100k": 270.222964652994,
+    "cases7day": [
+      18
+    ],
+    "cases_per_population": 0.270222964652994,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 54,
+    "RS": "03455",
+    "AGS": "03455",
+    "GEN": "Friesland",
+    "BEZ": "Landkreis",
+    "EWZ": 98460,
+    "AGS_0": "03455000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.70940170940171,
+    "cases": 117,
+    "deaths": 2,
+    "cases_per_100k": 118.829981718464,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.118829981718464,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 55,
+    "RS": "03456",
+    "AGS": "03456",
+    "GEN": "Grafschaft Bentheim",
+    "BEZ": "Landkreis",
+    "EWZ": 136511,
+    "AGS_0": "03456000",
+    "BL": "Niedersachsen",
+    "death_rate": 5.37313432835821,
+    "cases": 335,
+    "deaths": 18,
+    "cases_per_100k": 245.40146947865,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.24540146947865,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 56,
+    "RS": "03457",
+    "AGS": "03457",
+    "GEN": "Leer",
+    "BEZ": "Landkreis",
+    "EWZ": 169809,
+    "AGS_0": "03457000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.31660231660232,
+    "cases": 259,
+    "deaths": 6,
+    "cases_per_100k": 152.524306721081,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.152524306721081,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 57,
+    "RS": "03458",
+    "AGS": "03458",
+    "GEN": "Oldenburg",
+    "BEZ": "Landkreis",
+    "EWZ": 130144,
+    "AGS_0": "03458000",
+    "BL": "Niedersachsen",
+    "death_rate": 2.7027027027027,
+    "cases": 518,
+    "deaths": 14,
+    "cases_per_100k": 398.02065404475,
+    "cases7day": [
+      21
+    ],
+    "cases_per_population": 0.39802065404475,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 58,
+    "RS": "03459",
+    "AGS": "03459",
+    "GEN": "Osnabrück",
+    "BEZ": "Landkreis",
+    "EWZ": 357343,
+    "AGS_0": "03459000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.37622468974526,
+    "cases": 1531,
+    "deaths": 67,
+    "cases_per_100k": 428.439902278763,
+    "cases7day": [
+      15
+    ],
+    "cases_per_population": 0.428439902278763,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 59,
+    "RS": "03460",
+    "AGS": "03460",
+    "GEN": "Vechta",
+    "BEZ": "Landkreis",
+    "EWZ": 141598,
+    "AGS_0": "03460000",
+    "BL": "Niedersachsen",
+    "death_rate": 1.89959294436906,
+    "cases": 737,
+    "deaths": 14,
+    "cases_per_100k": 520.487577508157,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.520487577508157,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 60,
+    "RS": "03461",
+    "AGS": "03461",
+    "GEN": "Wesermarsch",
+    "BEZ": "Landkreis",
+    "EWZ": 88624,
+    "AGS_0": "03461000",
+    "BL": "Niedersachsen",
+    "death_rate": 4.06091370558376,
+    "cases": 197,
+    "deaths": 8,
+    "cases_per_100k": 222.287416501174,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.222287416501173,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 61,
+    "RS": "03462",
+    "AGS": "03462",
+    "GEN": "Wittmund",
+    "BEZ": "Landkreis",
+    "EWZ": 56882,
+    "AGS_0": "03462000",
+    "BL": "Niedersachsen",
+    "death_rate": 0.0,
+    "cases": 81,
+    "deaths": 0,
+    "cases_per_100k": 142.400056256812,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.142400056256812,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 62,
+    "RS": "04011",
+    "AGS": "04011",
+    "GEN": "Bremen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 569352,
+    "AGS_0": "04011000",
+    "BL": "Bremen",
+    "death_rate": 2.18646864686469,
+    "cases": 2424,
+    "deaths": 53,
+    "cases_per_100k": 425.747165198331,
+    "cases7day": [
+      70
+    ],
+    "cases_per_population": 0.425747165198331,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 63,
+    "RS": "04012",
+    "AGS": "04012",
+    "GEN": "Bremerhaven",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 113634,
+    "AGS_0": "04012000",
+    "BL": "Bremen",
+    "death_rate": 2.15827338129496,
+    "cases": 278,
+    "deaths": 6,
+    "cases_per_100k": 244.645088617843,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.244645088617843,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 64,
+    "RS": "05111",
+    "AGS": "05111",
+    "GEN": "Düsseldorf",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 619294,
+    "AGS_0": "05111000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.51021616819662,
+    "cases": 3377,
+    "deaths": 51,
+    "cases_per_100k": 545.298355869748,
+    "cases7day": [
+      39
+    ],
+    "cases_per_population": 0.545298355869749,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 65,
+    "RS": "05112",
+    "AGS": "05112",
+    "GEN": "Duisburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 498590,
+    "AGS_0": "05112000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.39579914670167,
+    "cases": 3047,
+    "deaths": 73,
+    "cases_per_100k": 611.123367897471,
+    "cases7day": [
+      29
+    ],
+    "cases_per_population": 0.611123367897471,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 66,
+    "RS": "05113",
+    "AGS": "05113",
+    "GEN": "Essen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 583109,
+    "AGS_0": "05113000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.11920529801325,
+    "cases": 2265,
+    "deaths": 48,
+    "cases_per_100k": 388.435095325231,
+    "cases7day": [
+      41
+    ],
+    "cases_per_population": 0.388435095325231,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 67,
+    "RS": "05114",
+    "AGS": "05114",
+    "GEN": "Krefeld",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 227020,
+    "AGS_0": "05114000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.64150943396226,
+    "cases": 1060,
+    "deaths": 28,
+    "cases_per_100k": 466.919214166153,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.466919214166153,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 68,
+    "RS": "05116",
+    "AGS": "05116",
+    "GEN": "Mönchengladbach",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 261454,
+    "AGS_0": "05116000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.49339207048458,
+    "cases": 1135,
+    "deaths": 51,
+    "cases_per_100k": 434.110780481461,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.434110780481461,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 69,
+    "RS": "05117",
+    "AGS": "05117",
+    "GEN": "Mülheim an der Ruhr",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 170880,
+    "AGS_0": "05117000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.11480362537764,
+    "cases": 662,
+    "deaths": 14,
+    "cases_per_100k": 387.406367041199,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.387406367041199,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 70,
+    "RS": "05119",
+    "AGS": "05119",
+    "GEN": "Oberhausen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 210829,
+    "AGS_0": "05119000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.18068535825545,
+    "cases": 642,
+    "deaths": 14,
+    "cases_per_100k": 304.512187602275,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.304512187602275,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 71,
+    "RS": "05120",
+    "AGS": "05120",
+    "GEN": "Remscheid",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 110994,
+    "AGS_0": "05120000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.2312925170068,
+    "cases": 588,
+    "deaths": 19,
+    "cases_per_100k": 529.758365317044,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.529758365317044,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 72,
+    "RS": "05122",
+    "AGS": "05122",
+    "GEN": "Solingen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 159360,
+    "AGS_0": "05122000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.81818181818182,
+    "cases": 715,
+    "deaths": 13,
+    "cases_per_100k": 448.669678714859,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.448669678714859,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 73,
+    "RS": "05124",
+    "AGS": "05124",
+    "GEN": "Wuppertal",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 354382,
+    "AGS_0": "05124000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.69333333333333,
+    "cases": 1875,
+    "deaths": 88,
+    "cases_per_100k": 529.090077938496,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.529090077938496,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 74,
+    "RS": "05154",
+    "AGS": "05154",
+    "GEN": "Kleve",
+    "BEZ": "Kreis",
+    "EWZ": 310974,
+    "AGS_0": "05154000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.10142497904443,
+    "cases": 1193,
+    "deaths": 37,
+    "cases_per_100k": 383.633358415816,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.383633358415816,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 75,
+    "RS": "05158",
+    "AGS": "05158",
+    "GEN": "Mettmann",
+    "BEZ": "Kreis",
+    "EWZ": 485684,
+    "AGS_0": "05158000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.11153119092628,
+    "cases": 2116,
+    "deaths": 87,
+    "cases_per_100k": 435.674224392815,
+    "cases7day": [
+      27
+    ],
+    "cases_per_population": 0.435674224392815,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 76,
+    "RS": "05162",
+    "AGS": "05162",
+    "GEN": "Rhein-Kreis Neuss",
+    "BEZ": "Kreis",
+    "EWZ": 451007,
+    "AGS_0": "05162000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.6271186440678,
+    "cases": 1475,
+    "deaths": 24,
+    "cases_per_100k": 327.045921681925,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.327045921681925,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 77,
+    "RS": "05166",
+    "AGS": "05166",
+    "GEN": "Viersen",
+    "BEZ": "Kreis",
+    "EWZ": 298935,
+    "AGS_0": "05166000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.4547152194211,
+    "cases": 1071,
+    "deaths": 37,
+    "cases_per_100k": 358.27186512118,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.35827186512118,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 78,
+    "RS": "05170",
+    "AGS": "05170",
+    "GEN": "Wesel",
+    "BEZ": "Kreis",
+    "EWZ": 459809,
+    "AGS_0": "05170000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.1783526208305,
+    "cases": 1469,
+    "deaths": 32,
+    "cases_per_100k": 319.480479938409,
+    "cases7day": [
+      15
+    ],
+    "cases_per_population": 0.319480479938409,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 79,
+    "RS": "05314",
+    "AGS": "05314",
+    "GEN": "Bonn",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 327258,
+    "AGS_0": "05314000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 0.672645739910314,
+    "cases": 1338,
+    "deaths": 9,
+    "cases_per_100k": 408.851731661258,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.408851731661258,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 80,
+    "RS": "05315",
+    "AGS": "05315",
+    "GEN": "Köln",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 1085664,
+    "AGS_0": "05315000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.29399889888053,
+    "cases": 5449,
+    "deaths": 125,
+    "cases_per_100k": 501.904825065582,
+    "cases7day": [
+      72
+    ],
+    "cases_per_population": 0.501904825065582,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 81,
+    "RS": "05316",
+    "AGS": "05316",
+    "GEN": "Leverkusen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 163838,
+    "AGS_0": "05316000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.42405063291139,
+    "cases": 632,
+    "deaths": 9,
+    "cases_per_100k": 385.746896324418,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.385746896324418,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 82,
+    "RS": "05334",
+    "AGS": "05334",
+    "GEN": "Städteregion Aachen",
+    "BEZ": "Kreis",
+    "EWZ": 555465,
+    "AGS_0": "05334000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.70883882149047,
+    "cases": 2885,
+    "deaths": 107,
+    "cases_per_100k": 519.384659699531,
+    "cases7day": [
+      23
+    ],
+    "cases_per_population": 0.519384659699531,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 83,
+    "RS": "05358",
+    "AGS": "05358",
+    "GEN": "Düren",
+    "BEZ": "Kreis",
+    "EWZ": 263722,
+    "AGS_0": "05358000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.94366197183099,
+    "cases": 1065,
+    "deaths": 42,
+    "cases_per_100k": 403.83434070726,
+    "cases7day": [
+      15
+    ],
+    "cases_per_population": 0.40383434070726,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 84,
+    "RS": "05362",
+    "AGS": "05362",
+    "GEN": "Rhein-Erft-Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 470089,
+    "AGS_0": "05362000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.27720628045479,
+    "cases": 1847,
+    "deaths": 79,
+    "cases_per_100k": 392.904322372997,
+    "cases7day": [
+      18
+    ],
+    "cases_per_population": 0.392904322372997,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 85,
+    "RS": "05366",
+    "AGS": "05366",
+    "GEN": "Euskirchen",
+    "BEZ": "Kreis",
+    "EWZ": 192840,
+    "AGS_0": "05366000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.47043701799486,
+    "cases": 778,
+    "deaths": 27,
+    "cases_per_100k": 403.443269031321,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.403443269031321,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 86,
+    "RS": "05370",
+    "AGS": "05370",
+    "GEN": "Heinsberg",
+    "BEZ": "Kreis",
+    "EWZ": 254322,
+    "AGS_0": "05370000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.31621990004543,
+    "cases": 2201,
+    "deaths": 95,
+    "cases_per_100k": 865.438302624232,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.865438302624232,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 87,
+    "RS": "05374",
+    "AGS": "05374",
+    "GEN": "Oberbergischer Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 272471,
+    "AGS_0": "05374000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.01271186440678,
+    "cases": 944,
+    "deaths": 19,
+    "cases_per_100k": 346.458889202888,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.346458889202888,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 88,
+    "RS": "05378",
+    "AGS": "05378",
+    "GEN": "Rheinisch-Bergischer Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 283455,
+    "AGS_0": "05378000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.66666666666667,
+    "cases": 825,
+    "deaths": 22,
+    "cases_per_100k": 291.051489654442,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.291051489654443,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 89,
+    "RS": "05382",
+    "AGS": "05382",
+    "GEN": "Rhein-Sieg-Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 599780,
+    "AGS_0": "05382000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.37571491421029,
+    "cases": 2273,
+    "deaths": 54,
+    "cases_per_100k": 378.972289839608,
+    "cases7day": [
+      31
+    ],
+    "cases_per_population": 0.378972289839608,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 90,
+    "RS": "05512",
+    "AGS": "05512",
+    "GEN": "Bottrop",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 117383,
+    "AGS_0": "05512000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.78117048346056,
+    "cases": 393,
+    "deaths": 7,
+    "cases_per_100k": 334.801461881192,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.334801461881192,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 91,
+    "RS": "05513",
+    "AGS": "05513",
+    "GEN": "Gelsenkirchen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 260654,
+    "AGS_0": "05513000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.4937106918239,
+    "cases": 1272,
+    "deaths": 19,
+    "cases_per_100k": 488.003253355022,
+    "cases7day": [
+      28
+    ],
+    "cases_per_population": 0.488003253355022,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 92,
+    "RS": "05515",
+    "AGS": "05515",
+    "GEN": "Münster",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 314319,
+    "AGS_0": "05515000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.14035087719298,
+    "cases": 1140,
+    "deaths": 13,
+    "cases_per_100k": 362.688860679755,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.362688860679755,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 93,
+    "RS": "05554",
+    "AGS": "05554",
+    "GEN": "Borken",
+    "BEZ": "Kreis",
+    "EWZ": 370676,
+    "AGS_0": "05554000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.63888888888889,
+    "cases": 1440,
+    "deaths": 38,
+    "cases_per_100k": 388.479426777024,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.388479426777024,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 94,
+    "RS": "05558",
+    "AGS": "05558",
+    "GEN": "Coesfeld",
+    "BEZ": "Kreis",
+    "EWZ": 219929,
+    "AGS_0": "05558000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.46791707798618,
+    "cases": 1013,
+    "deaths": 25,
+    "cases_per_100k": 460.60319466737,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.46060319466737,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 95,
+    "RS": "05562",
+    "AGS": "05562",
+    "GEN": "Recklinghausen",
+    "BEZ": "Kreis",
+    "EWZ": 615261,
+    "AGS_0": "05562000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.9271051529116,
+    "cases": 2387,
+    "deaths": 46,
+    "cases_per_100k": 387.965432556265,
+    "cases7day": [
+      24
+    ],
+    "cases_per_population": 0.387965432556265,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 96,
+    "RS": "05566",
+    "AGS": "05566",
+    "GEN": "Steinfurt",
+    "BEZ": "Kreis",
+    "EWZ": 447614,
+    "AGS_0": "05566000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.93107104984093,
+    "cases": 1886,
+    "deaths": 93,
+    "cases_per_100k": 421.345176871143,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.421345176871143,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 97,
+    "RS": "05570",
+    "AGS": "05570",
+    "GEN": "Warendorf",
+    "BEZ": "Kreis",
+    "EWZ": 277783,
+    "AGS_0": "05570000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.89359783588819,
+    "cases": 1109,
+    "deaths": 21,
+    "cases_per_100k": 399.232494429105,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.399232494429105,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 98,
+    "RS": "05711",
+    "AGS": "05711",
+    "GEN": "Bielefeld",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 333786,
+    "AGS_0": "05711000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 0.906344410876133,
+    "cases": 993,
+    "deaths": 9,
+    "cases_per_100k": 297.496000431414,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.297496000431414,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 99,
+    "RS": "05754",
+    "AGS": "05754",
+    "GEN": "Gütersloh",
+    "BEZ": "Kreis",
+    "EWZ": 364083,
+    "AGS_0": "05754000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 0.651890482398957,
+    "cases": 3068,
+    "deaths": 20,
+    "cases_per_100k": 842.664996717781,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.842664996717781,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 100,
+    "RS": "05758",
+    "AGS": "05758",
+    "GEN": "Herford",
+    "BEZ": "Kreis",
+    "EWZ": 250783,
+    "AGS_0": "05758000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.17820324005891,
+    "cases": 679,
+    "deaths": 8,
+    "cases_per_100k": 270.752004721213,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.270752004721213,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 101,
+    "RS": "05762",
+    "AGS": "05762",
+    "GEN": "Höxter",
+    "BEZ": "Kreis",
+    "EWZ": 140667,
+    "AGS_0": "05762000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 4.01785714285714,
+    "cases": 448,
+    "deaths": 18,
+    "cases_per_100k": 318.482657624034,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.318482657624034,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 102,
+    "RS": "05766",
+    "AGS": "05766",
+    "GEN": "Lippe",
+    "BEZ": "Kreis",
+    "EWZ": 348391,
+    "AGS_0": "05766000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.00387596899225,
+    "cases": 1032,
+    "deaths": 31,
+    "cases_per_100k": 296.218903473396,
+    "cases7day": [
+      12
+    ],
+    "cases_per_population": 0.296218903473396,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 103,
+    "RS": "05770",
+    "AGS": "05770",
+    "GEN": "Minden-Lübbecke",
+    "BEZ": "Kreis",
+    "EWZ": 310710,
+    "AGS_0": "05770000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.5511892450879,
+    "cases": 967,
+    "deaths": 15,
+    "cases_per_100k": 311.222683531267,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.311222683531267,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 104,
+    "RS": "05774",
+    "AGS": "05774",
+    "GEN": "Paderborn",
+    "BEZ": "Kreis",
+    "EWZ": 306890,
+    "AGS_0": "05774000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.7117903930131,
+    "cases": 916,
+    "deaths": 34,
+    "cases_per_100k": 298.47828212063,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.29847828212063,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 105,
+    "RS": "05911",
+    "AGS": "05911",
+    "GEN": "Bochum",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 364628,
+    "AGS_0": "05911000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.99572344975053,
+    "cases": 1403,
+    "deaths": 28,
+    "cases_per_100k": 384.775716620775,
+    "cases7day": [
+      18
+    ],
+    "cases_per_population": 0.384775716620775,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 106,
+    "RS": "05913",
+    "AGS": "05913",
+    "GEN": "Dortmund",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 587010,
+    "AGS_0": "05913000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 0.952380952380952,
+    "cases": 2205,
+    "deaths": 21,
+    "cases_per_100k": 375.632442377472,
+    "cases7day": [
+      30
+    ],
+    "cases_per_population": 0.375632442377472,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 107,
+    "RS": "05914",
+    "AGS": "05914",
+    "GEN": "Hagen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 188814,
+    "AGS_0": "05914000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.6,
+    "cases": 875,
+    "deaths": 14,
+    "cases_per_100k": 463.419026131537,
+    "cases7day": [
+      28
+    ],
+    "cases_per_population": 0.463419026131537,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 108,
+    "RS": "05915",
+    "AGS": "05915",
+    "GEN": "Hamm",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 179111,
+    "AGS_0": "05915000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 3.10204081632653,
+    "cases": 1225,
+    "deaths": 38,
+    "cases_per_100k": 683.933426757709,
+    "cases7day": [
+      21
+    ],
+    "cases_per_population": 0.683933426757709,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 109,
+    "RS": "05916",
+    "AGS": "05916",
+    "GEN": "Herne",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 156374,
+    "AGS_0": "05916000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.17647058823529,
+    "cases": 595,
+    "deaths": 7,
+    "cases_per_100k": 380.498036758029,
+    "cases7day": [
+      17
+    ],
+    "cases_per_population": 0.380498036758029,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 110,
+    "RS": "05954",
+    "AGS": "05954",
+    "GEN": "Ennepe-Ruhr-Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 324296,
+    "AGS_0": "05954000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.60771704180064,
+    "cases": 933,
+    "deaths": 15,
+    "cases_per_100k": 287.700125810988,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.287700125810987,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 111,
+    "RS": "05958",
+    "AGS": "05958",
+    "GEN": "Hochsauerlandkreis",
+    "BEZ": "Kreis",
+    "EWZ": 260475,
+    "AGS_0": "05958000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.08333333333333,
+    "cases": 912,
+    "deaths": 19,
+    "cases_per_100k": 350.129570976101,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.350129570976101,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 112,
+    "RS": "05962",
+    "AGS": "05962",
+    "GEN": "Märkischer Kreis",
+    "BEZ": "Kreis",
+    "EWZ": 412120,
+    "AGS_0": "05962000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.69814502529511,
+    "cases": 1186,
+    "deaths": 32,
+    "cases_per_100k": 287.78025817723,
+    "cases7day": [
+      29
+    ],
+    "cases_per_population": 0.28778025817723,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 113,
+    "RS": "05966",
+    "AGS": "05966",
+    "GEN": "Olpe",
+    "BEZ": "Kreis",
+    "EWZ": 134775,
+    "AGS_0": "05966000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 6.95121951219512,
+    "cases": 820,
+    "deaths": 57,
+    "cases_per_100k": 608.421443145984,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.608421443145984,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 114,
+    "RS": "05970",
+    "AGS": "05970",
+    "GEN": "Siegen-Wittgenstein",
+    "BEZ": "Kreis",
+    "EWZ": 278210,
+    "AGS_0": "05970000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.0498687664042,
+    "cases": 762,
+    "deaths": 8,
+    "cases_per_100k": 273.893821214191,
+    "cases7day": [
+      15
+    ],
+    "cases_per_population": 0.273893821214191,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 115,
+    "RS": "05974",
+    "AGS": "05974",
+    "GEN": "Soest",
+    "BEZ": "Kreis",
+    "EWZ": 301902,
+    "AGS_0": "05974000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 1.5025041736227,
+    "cases": 599,
+    "deaths": 9,
+    "cases_per_100k": 198.408755158959,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.198408755158959,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 116,
+    "RS": "05978",
+    "AGS": "05978",
+    "GEN": "Unna",
+    "BEZ": "Kreis",
+    "EWZ": 394782,
+    "AGS_0": "05978000",
+    "BL": "Nordrhein-Westfalen",
+    "death_rate": 2.93706293706294,
+    "cases": 1430,
+    "deaths": 42,
+    "cases_per_100k": 362.225228100572,
+    "cases7day": [
+      26
+    ],
+    "cases_per_population": 0.362225228100572,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 117,
+    "RS": "06411",
+    "AGS": "06411",
+    "GEN": "Darmstadt",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 159207,
+    "AGS_0": "06411000",
+    "BL": "Hessen",
+    "death_rate": 3.79746835443038,
+    "cases": 474,
+    "deaths": 18,
+    "cases_per_100k": 297.725602517477,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.297725602517477,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 118,
+    "RS": "06412",
+    "AGS": "06412",
+    "GEN": "Frankfurt am Main",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 753056,
+    "AGS_0": "06412000",
+    "BL": "Hessen",
+    "death_rate": 1.91133528006371,
+    "cases": 3767,
+    "deaths": 72,
+    "cases_per_100k": 500.228402668593,
+    "cases7day": [
+      23
+    ],
+    "cases_per_population": 0.500228402668593,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 119,
+    "RS": "06413",
+    "AGS": "06413",
+    "GEN": "Offenbach am Main",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 128744,
+    "AGS_0": "06413000",
+    "BL": "Hessen",
+    "death_rate": 1.5527950310559,
+    "cases": 644,
+    "deaths": 10,
+    "cases_per_100k": 500.217485863419,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.500217485863419,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 120,
+    "RS": "06414",
+    "AGS": "06414",
+    "GEN": "Wiesbaden",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 278342,
+    "AGS_0": "06414000",
+    "BL": "Hessen",
+    "death_rate": 1.92982456140351,
+    "cases": 1140,
+    "deaths": 22,
+    "cases_per_100k": 409.568085305128,
+    "cases7day": [
+      24
+    ],
+    "cases_per_population": 0.409568085305128,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 121,
+    "RS": "06431",
+    "AGS": "06431",
+    "GEN": "Bergstraße",
+    "BEZ": "Landkreis",
+    "EWZ": 269694,
+    "AGS_0": "06431000",
+    "BL": "Hessen",
+    "death_rate": 0.443786982248521,
+    "cases": 676,
+    "deaths": 3,
+    "cases_per_100k": 250.6544454085,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.2506544454085,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 122,
+    "RS": "06432",
+    "AGS": "06432",
+    "GEN": "Darmstadt-Dieburg",
+    "BEZ": "Landkreis",
+    "EWZ": 297399,
+    "AGS_0": "06432000",
+    "BL": "Hessen",
+    "death_rate": 2.74869109947644,
+    "cases": 764,
+    "deaths": 21,
+    "cases_per_100k": 256.893937101335,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.256893937101335,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 123,
+    "RS": "06433",
+    "AGS": "06433",
+    "GEN": "Groß-Gerau",
+    "BEZ": "Landkreis",
+    "EWZ": 274526,
+    "AGS_0": "06433000",
+    "BL": "Hessen",
+    "death_rate": 1.38662316476346,
+    "cases": 1226,
+    "deaths": 17,
+    "cases_per_100k": 446.587937026001,
+    "cases7day": [
+      17
+    ],
+    "cases_per_population": 0.446587937026001,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 124,
+    "RS": "06434",
+    "AGS": "06434",
+    "GEN": "Hochtaunuskreis",
+    "BEZ": "Landkreis",
+    "EWZ": 236564,
+    "AGS_0": "06434000",
+    "BL": "Hessen",
+    "death_rate": 1.08499095840868,
+    "cases": 553,
+    "deaths": 6,
+    "cases_per_100k": 233.763379043303,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.233763379043303,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 125,
+    "RS": "06435",
+    "AGS": "06435",
+    "GEN": "Main-Kinzig-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 418950,
+    "AGS_0": "06435000",
+    "BL": "Hessen",
+    "death_rate": 3.66350067842605,
+    "cases": 1474,
+    "deaths": 54,
+    "cases_per_100k": 351.831960854517,
+    "cases7day": [
+      17
+    ],
+    "cases_per_population": 0.351831960854517,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 126,
+    "RS": "06436",
+    "AGS": "06436",
+    "GEN": "Main-Taunus-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 237735,
+    "AGS_0": "06436000",
+    "BL": "Hessen",
+    "death_rate": 2.14646464646465,
+    "cases": 792,
+    "deaths": 17,
+    "cases_per_100k": 333.144046943025,
+    "cases7day": [
+      20
+    ],
+    "cases_per_population": 0.333144046943025,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 127,
+    "RS": "06437",
+    "AGS": "06437",
+    "GEN": "Odenwaldkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 96798,
+    "AGS_0": "06437000",
+    "BL": "Hessen",
+    "death_rate": 12.7272727272727,
+    "cases": 495,
+    "deaths": 63,
+    "cases_per_100k": 511.374201946321,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.511374201946321,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 128,
+    "RS": "06438",
+    "AGS": "06438",
+    "GEN": "Offenbach",
+    "BEZ": "Landkreis",
+    "EWZ": 354092,
+    "AGS_0": "06438000",
+    "BL": "Hessen",
+    "death_rate": 3.28571428571429,
+    "cases": 1400,
+    "deaths": 46,
+    "cases_per_100k": 395.377472521266,
+    "cases7day": [
+      27
+    ],
+    "cases_per_population": 0.395377472521266,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 129,
+    "RS": "06439",
+    "AGS": "06439",
+    "GEN": "Rheingau-Taunus-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 187157,
+    "AGS_0": "06439000",
+    "BL": "Hessen",
+    "death_rate": 1.48148148148148,
+    "cases": 540,
+    "deaths": 8,
+    "cases_per_100k": 288.527813546915,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.288527813546915,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 130,
+    "RS": "06440",
+    "AGS": "06440",
+    "GEN": "Wetteraukreis",
+    "BEZ": "Landkreis",
+    "EWZ": 306460,
+    "AGS_0": "06440000",
+    "BL": "Hessen",
+    "death_rate": 1.99386503067485,
+    "cases": 652,
+    "deaths": 13,
+    "cases_per_100k": 212.752072048554,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.212752072048554,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 131,
+    "RS": "06531",
+    "AGS": "06531",
+    "GEN": "Gießen",
+    "BEZ": "Landkreis",
+    "EWZ": 268876,
+    "AGS_0": "06531000",
+    "BL": "Hessen",
+    "death_rate": 1.13636363636364,
+    "cases": 528,
+    "deaths": 6,
+    "cases_per_100k": 196.37304928666,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.19637304928666,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 132,
+    "RS": "06532",
+    "AGS": "06532",
+    "GEN": "Lahn-Dill-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 253777,
+    "AGS_0": "06532000",
+    "BL": "Hessen",
+    "death_rate": 3.85964912280702,
+    "cases": 570,
+    "deaths": 22,
+    "cases_per_100k": 224.606642839974,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.224606642839974,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 133,
+    "RS": "06533",
+    "AGS": "06533",
+    "GEN": "Limburg-Weilburg",
+    "BEZ": "Landkreis",
+    "EWZ": 172083,
+    "AGS_0": "06533000",
+    "BL": "Hessen",
+    "death_rate": 1.37795275590551,
+    "cases": 508,
+    "deaths": 7,
+    "cases_per_100k": 295.206382966359,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.295206382966359,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 134,
+    "RS": "06534",
+    "AGS": "06534",
+    "GEN": "Marburg-Biedenkopf",
+    "BEZ": "Landkreis",
+    "EWZ": 246648,
+    "AGS_0": "06534000",
+    "BL": "Hessen",
+    "death_rate": 0.782778864970646,
+    "cases": 511,
+    "deaths": 4,
+    "cases_per_100k": 207.177840485226,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.207177840485226,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 135,
+    "RS": "06535",
+    "AGS": "06535",
+    "GEN": "Vogelsbergkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 105878,
+    "AGS_0": "06535000",
+    "BL": "Hessen",
+    "death_rate": 3.125,
+    "cases": 192,
+    "deaths": 6,
+    "cases_per_100k": 181.340788454636,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.181340788454636,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 136,
+    "RS": "06611",
+    "AGS": "06611",
+    "GEN": "Kassel",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 201585,
+    "AGS_0": "06611000",
+    "BL": "Hessen",
+    "death_rate": 1.47058823529412,
+    "cases": 612,
+    "deaths": 9,
+    "cases_per_100k": 303.59401741201,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.30359401741201,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 137,
+    "RS": "06631",
+    "AGS": "06631",
+    "GEN": "Fulda",
+    "BEZ": "Landkreis",
+    "EWZ": 222584,
+    "AGS_0": "06631000",
+    "BL": "Hessen",
+    "death_rate": 2.67295597484277,
+    "cases": 636,
+    "deaths": 17,
+    "cases_per_100k": 285.734823707005,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.285734823707005,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 138,
+    "RS": "06632",
+    "AGS": "06632",
+    "GEN": "Hersfeld-Rotenburg",
+    "BEZ": "Landkreis",
+    "EWZ": 120829,
+    "AGS_0": "06632000",
+    "BL": "Hessen",
+    "death_rate": 6.02094240837696,
+    "cases": 382,
+    "deaths": 23,
+    "cases_per_100k": 316.149268801364,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.316149268801364,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 139,
+    "RS": "06633",
+    "AGS": "06633",
+    "GEN": "Kassel",
+    "BEZ": "Landkreis",
+    "EWZ": 236633,
+    "AGS_0": "06633000",
+    "BL": "Hessen",
+    "death_rate": 5.48885077186964,
+    "cases": 583,
+    "deaths": 32,
+    "cases_per_100k": 246.37307560653,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.24637307560653,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 140,
+    "RS": "06634",
+    "AGS": "06634",
+    "GEN": "Schwalm-Eder-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 180222,
+    "AGS_0": "06634000",
+    "BL": "Hessen",
+    "death_rate": 5.60344827586207,
+    "cases": 696,
+    "deaths": 39,
+    "cases_per_100k": 386.190365216233,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.386190365216233,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 141,
+    "RS": "06635",
+    "AGS": "06635",
+    "GEN": "Waldeck-Frankenberg",
+    "BEZ": "Landkreis",
+    "EWZ": 156953,
+    "AGS_0": "06635000",
+    "BL": "Hessen",
+    "death_rate": 1.86567164179104,
+    "cases": 268,
+    "deaths": 5,
+    "cases_per_100k": 170.751753709709,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.170751753709709,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 142,
+    "RS": "06636",
+    "AGS": "06636",
+    "GEN": "Werra-Meißner-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 101017,
+    "AGS_0": "06636000",
+    "BL": "Hessen",
+    "death_rate": 5.88235294117647,
+    "cases": 272,
+    "deaths": 16,
+    "cases_per_100k": 269.261609432076,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.269261609432076,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 143,
+    "RS": "07111",
+    "AGS": "07111",
+    "GEN": "Koblenz",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 114024,
+    "AGS_0": "07111000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 5.55555555555556,
+    "cases": 360,
+    "deaths": 20,
+    "cases_per_100k": 315.723005683014,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.315723005683014,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 144,
+    "RS": "07131",
+    "AGS": "07131",
+    "GEN": "Ahrweiler",
+    "BEZ": "Landkreis",
+    "EWZ": 129727,
+    "AGS_0": "07131000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.797872340425532,
+    "cases": 376,
+    "deaths": 3,
+    "cases_per_100k": 289.839432038049,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.289839432038049,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 145,
+    "RS": "07132",
+    "AGS": "07132",
+    "GEN": "Altenkirchen (Westerwald)",
+    "BEZ": "Landkreis",
+    "EWZ": 128705,
+    "AGS_0": "07132000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 4.51127819548872,
+    "cases": 266,
+    "deaths": 12,
+    "cases_per_100k": 206.674177382386,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.206674177382386,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 146,
+    "RS": "07133",
+    "AGS": "07133",
+    "GEN": "Bad Kreuznach",
+    "BEZ": "Landkreis",
+    "EWZ": 158080,
+    "AGS_0": "07133000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.94444444444444,
+    "cases": 360,
+    "deaths": 7,
+    "cases_per_100k": 227.732793522267,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.227732793522267,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 147,
+    "RS": "07134",
+    "AGS": "07134",
+    "GEN": "Birkenfeld",
+    "BEZ": "Landkreis",
+    "EWZ": 80720,
+    "AGS_0": "07134000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.41935483870968,
+    "cases": 124,
+    "deaths": 3,
+    "cases_per_100k": 153.617443012884,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.153617443012884,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 148,
+    "RS": "07135",
+    "AGS": "07135",
+    "GEN": "Cochem-Zell",
+    "BEZ": "Landkreis",
+    "EWZ": 61587,
+    "AGS_0": "07135000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.574712643678161,
+    "cases": 174,
+    "deaths": 1,
+    "cases_per_100k": 282.527156705149,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.282527156705149,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 149,
+    "RS": "07137",
+    "AGS": "07137",
+    "GEN": "Mayen-Koblenz",
+    "BEZ": "Landkreis",
+    "EWZ": 214259,
+    "AGS_0": "07137000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 3.35305719921105,
+    "cases": 507,
+    "deaths": 17,
+    "cases_per_100k": 236.629499810976,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.236629499810976,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 150,
+    "RS": "07138",
+    "AGS": "07138",
+    "GEN": "Neuwied",
+    "BEZ": "Landkreis",
+    "EWZ": 181941,
+    "AGS_0": "07138000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.02249488752556,
+    "cases": 489,
+    "deaths": 5,
+    "cases_per_100k": 268.76844691411,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.26876844691411,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 151,
+    "RS": "07140",
+    "AGS": "07140",
+    "GEN": "Rhein-Hunsrück-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 102937,
+    "AGS_0": "07140000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.62008733624454,
+    "cases": 229,
+    "deaths": 6,
+    "cases_per_100k": 222.466168627413,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.222466168627413,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 152,
+    "RS": "07141",
+    "AGS": "07141",
+    "GEN": "Rhein-Lahn-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 122308,
+    "AGS_0": "07141000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.77777777777778,
+    "cases": 216,
+    "deaths": 6,
+    "cases_per_100k": 176.6033292998,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.1766033292998,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 153,
+    "RS": "07143",
+    "AGS": "07143",
+    "GEN": "Westerwaldkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 201597,
+    "AGS_0": "07143000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 3.61842105263158,
+    "cases": 608,
+    "deaths": 22,
+    "cases_per_100k": 301.591789560361,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.30159178956036,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 154,
+    "RS": "07211",
+    "AGS": "07211",
+    "GEN": "Trier",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 110636,
+    "AGS_0": "07211000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.440528634361234,
+    "cases": 227,
+    "deaths": 1,
+    "cases_per_100k": 205.177338298565,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.205177338298565,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 155,
+    "RS": "07231",
+    "AGS": "07231",
+    "GEN": "Bernkastel-Wittlich",
+    "BEZ": "Landkreis",
+    "EWZ": 112262,
+    "AGS_0": "07231000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.701754385964912,
+    "cases": 285,
+    "deaths": 2,
+    "cases_per_100k": 253.870410290214,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.253870410290214,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 156,
+    "RS": "07232",
+    "AGS": "07232",
+    "GEN": "Eifelkreis Bitburg-Prüm",
+    "BEZ": "Landkreis",
+    "EWZ": 98561,
+    "AGS_0": "07232000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.86915887850467,
+    "cases": 321,
+    "deaths": 6,
+    "cases_per_100k": 325.686630614543,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.325686630614543,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 157,
+    "RS": "07233",
+    "AGS": "07233",
+    "GEN": "Vulkaneifel",
+    "BEZ": "Landkreis",
+    "EWZ": 60603,
+    "AGS_0": "07233000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 3.37837837837838,
+    "cases": 148,
+    "deaths": 5,
+    "cases_per_100k": 244.212332722803,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.244212332722803,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 158,
+    "RS": "07235",
+    "AGS": "07235",
+    "GEN": "Trier-Saarburg",
+    "BEZ": "Landkreis",
+    "EWZ": 148945,
+    "AGS_0": "07235000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.64423076923077,
+    "cases": 416,
+    "deaths": 11,
+    "cases_per_100k": 279.297727349021,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.279297727349021,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 159,
+    "RS": "07311",
+    "AGS": "07311",
+    "GEN": "Frankenthal (Pfalz)",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 48561,
+    "AGS_0": "07311000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.1505376344086,
+    "cases": 93,
+    "deaths": 2,
+    "cases_per_100k": 191.51170692531,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.19151170692531,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 160,
+    "RS": "07312",
+    "AGS": "07312",
+    "GEN": "Kaiserslautern",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 99845,
+    "AGS_0": "07312000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.89274447949527,
+    "cases": 317,
+    "deaths": 6,
+    "cases_per_100k": 317.492112774801,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.317492112774801,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 161,
+    "RS": "07313",
+    "AGS": "07313",
+    "GEN": "Landau in der Pfalz",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 46677,
+    "AGS_0": "07313000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.22222222222222,
+    "cases": 90,
+    "deaths": 2,
+    "cases_per_100k": 192.814448229321,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.192814448229321,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 162,
+    "RS": "07314",
+    "AGS": "07314",
+    "GEN": "Ludwigshafen am Rhein",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 171061,
+    "AGS_0": "07314000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.300751879699248,
+    "cases": 665,
+    "deaths": 2,
+    "cases_per_100k": 388.75021191271,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.38875021191271,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 163,
+    "RS": "07315",
+    "AGS": "07315",
+    "GEN": "Mainz",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 217118,
+    "AGS_0": "07315000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.55241567912489,
+    "cases": 1097,
+    "deaths": 28,
+    "cases_per_100k": 505.255206846047,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.505255206846047,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 164,
+    "RS": "07316",
+    "AGS": "07316",
+    "GEN": "Neustadt an der Weinstraße",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 53148,
+    "AGS_0": "07316000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.25786163522013,
+    "cases": 159,
+    "deaths": 2,
+    "cases_per_100k": 299.164596974486,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.299164596974486,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 165,
+    "RS": "07317",
+    "AGS": "07317",
+    "GEN": "Pirmasens",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 40403,
+    "AGS_0": "07317000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.0,
+    "cases": 51,
+    "deaths": 0,
+    "cases_per_100k": 126.228250377447,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.126228250377447,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 166,
+    "RS": "07318",
+    "AGS": "07318",
+    "GEN": "Speyer",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 50378,
+    "AGS_0": "07318000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.581395348837209,
+    "cases": 172,
+    "deaths": 1,
+    "cases_per_100k": 341.418873317718,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.341418873317718,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 167,
+    "RS": "07319",
+    "AGS": "07319",
+    "GEN": "Worms",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 83330,
+    "AGS_0": "07319000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.35294117647059,
+    "cases": 340,
+    "deaths": 8,
+    "cases_per_100k": 408.016320652826,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.408016320652826,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 168,
+    "RS": "07320",
+    "AGS": "07320",
+    "GEN": "Zweibrücken",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 34209,
+    "AGS_0": "07320000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.53846153846154,
+    "cases": 65,
+    "deaths": 1,
+    "cases_per_100k": 190.008477301295,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.190008477301295,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 169,
+    "RS": "07331",
+    "AGS": "07331",
+    "GEN": "Alzey-Worms",
+    "BEZ": "Landkreis",
+    "EWZ": 129244,
+    "AGS_0": "07331000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.71604938271605,
+    "cases": 405,
+    "deaths": 11,
+    "cases_per_100k": 313.360774968277,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.313360774968277,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 170,
+    "RS": "07332",
+    "AGS": "07332",
+    "GEN": "Bad Dürkheim",
+    "BEZ": "Landkreis",
+    "EWZ": 132660,
+    "AGS_0": "07332000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 3.04568527918782,
+    "cases": 394,
+    "deaths": 12,
+    "cases_per_100k": 296.999849238655,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.296999849238655,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 171,
+    "RS": "07333",
+    "AGS": "07333",
+    "GEN": "Donnersbergkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 75101,
+    "AGS_0": "07333000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 4.89130434782609,
+    "cases": 184,
+    "deaths": 9,
+    "cases_per_100k": 245.003395427491,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.245003395427491,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 172,
+    "RS": "07334",
+    "AGS": "07334",
+    "GEN": "Germersheim",
+    "BEZ": "Landkreis",
+    "EWZ": 129075,
+    "AGS_0": "07334000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.53452685421995,
+    "cases": 391,
+    "deaths": 6,
+    "cases_per_100k": 302.924656207631,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.302924656207631,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 173,
+    "RS": "07335",
+    "AGS": "07335",
+    "GEN": "Kaiserslautern",
+    "BEZ": "Landkreis",
+    "EWZ": 106057,
+    "AGS_0": "07335000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.436681222707424,
+    "cases": 229,
+    "deaths": 1,
+    "cases_per_100k": 215.921627049605,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.215921627049605,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 174,
+    "RS": "07336",
+    "AGS": "07336",
+    "GEN": "Kusel",
+    "BEZ": "Landkreis",
+    "EWZ": 70526,
+    "AGS_0": "07336000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 0.735294117647059,
+    "cases": 136,
+    "deaths": 1,
+    "cases_per_100k": 192.836684343363,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.192836684343363,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 175,
+    "RS": "07337",
+    "AGS": "07337",
+    "GEN": "Südliche Weinstraße",
+    "BEZ": "Landkreis",
+    "EWZ": 110356,
+    "AGS_0": "07337000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.09424083769634,
+    "cases": 191,
+    "deaths": 4,
+    "cases_per_100k": 173.076226032114,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.173076226032114,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 176,
+    "RS": "07338",
+    "AGS": "07338",
+    "GEN": "Rhein-Pfalz-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 154201,
+    "AGS_0": "07338000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 1.16822429906542,
+    "cases": 428,
+    "deaths": 5,
+    "cases_per_100k": 277.559808302151,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.277559808302151,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 177,
+    "RS": "07339",
+    "AGS": "07339",
+    "GEN": "Mainz-Bingen",
+    "BEZ": "Landkreis",
+    "EWZ": 210889,
+    "AGS_0": "07339000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 3.86996904024768,
+    "cases": 646,
+    "deaths": 25,
+    "cases_per_100k": 306.322283286468,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.306322283286468,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 178,
+    "RS": "07340",
+    "AGS": "07340",
+    "GEN": "Südwestpfalz",
+    "BEZ": "Landkreis",
+    "EWZ": 95113,
+    "AGS_0": "07340000",
+    "BL": "Rheinland-Pfalz",
+    "death_rate": 2.01342281879195,
+    "cases": 149,
+    "deaths": 3,
+    "cases_per_100k": 156.655767350415,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.156655767350415,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 179,
+    "RS": "08111",
+    "AGS": "08111",
+    "GEN": "Stuttgart",
+    "BEZ": "Stadtkreis",
+    "EWZ": 634830,
+    "AGS_0": "08111000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.15946843853821,
+    "cases": 3010,
+    "deaths": 65,
+    "cases_per_100k": 474.142683868122,
+    "cases7day": [
+      38
+    ],
+    "cases_per_population": 0.474142683868122,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 180,
+    "RS": "08115",
+    "AGS": "08115",
+    "GEN": "Böblingen",
+    "BEZ": "Landkreis",
+    "EWZ": 391640,
+    "AGS_0": "08115000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.21619176843057,
+    "cases": 2211,
+    "deaths": 49,
+    "cases_per_100k": 564.549075681748,
+    "cases7day": [
+      21
+    ],
+    "cases_per_population": 0.564549075681749,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 181,
+    "RS": "08116",
+    "AGS": "08116",
+    "GEN": "Esslingen",
+    "BEZ": "Landkreis",
+    "EWZ": 533859,
+    "AGS_0": "08116000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.09336941813261,
+    "cases": 2956,
+    "deaths": 121,
+    "cases_per_100k": 553.704255243426,
+    "cases7day": [
+      56
+    ],
+    "cases_per_population": 0.553704255243426,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 182,
+    "RS": "08117",
+    "AGS": "08117",
+    "GEN": "Göppingen",
+    "BEZ": "Landkreis",
+    "EWZ": 257253,
+    "AGS_0": "08117000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 3.27332242225859,
+    "cases": 1222,
+    "deaths": 40,
+    "cases_per_100k": 475.018755855131,
+    "cases7day": [
+      16
+    ],
+    "cases_per_population": 0.475018755855131,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 183,
+    "RS": "08118",
+    "AGS": "08118",
+    "GEN": "Ludwigsburg",
+    "BEZ": "Landkreis",
+    "EWZ": 543984,
+    "AGS_0": "08118000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.64758497316637,
+    "cases": 2795,
+    "deaths": 74,
+    "cases_per_100k": 513.80187652578,
+    "cases7day": [
+      41
+    ],
+    "cases_per_population": 0.51380187652578,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 184,
+    "RS": "08119",
+    "AGS": "08119",
+    "GEN": "Rems-Murr-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 426158,
+    "AGS_0": "08119000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.1405269761606,
+    "cases": 2391,
+    "deaths": 99,
+    "cases_per_100k": 561.05951313832,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.56105951313832,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 185,
+    "RS": "08121",
+    "AGS": "08121",
+    "GEN": "Heilbronn",
+    "BEZ": "Stadtkreis",
+    "EWZ": 125960,
+    "AGS_0": "08121000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.24570673712021,
+    "cases": 757,
+    "deaths": 17,
+    "cases_per_100k": 600.984439504605,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.600984439504605,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 186,
+    "RS": "08125",
+    "AGS": "08125",
+    "GEN": "Heilbronn",
+    "BEZ": "Landkreis",
+    "EWZ": 343068,
+    "AGS_0": "08125000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 3.14285714285714,
+    "cases": 1400,
+    "deaths": 44,
+    "cases_per_100k": 408.082362680285,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.408082362680285,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 187,
+    "RS": "08126",
+    "AGS": "08126",
+    "GEN": "Hohenlohekreis",
+    "BEZ": "Landkreis",
+    "EWZ": 112010,
+    "AGS_0": "08126000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 5.35917901938426,
+    "cases": 877,
+    "deaths": 47,
+    "cases_per_100k": 782.965806624409,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.782965806624409,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 188,
+    "RS": "08127",
+    "AGS": "08127",
+    "GEN": "Schwäbisch Hall",
+    "BEZ": "Landkreis",
+    "EWZ": 195861,
+    "AGS_0": "08127000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 5.17687661777394,
+    "cases": 1159,
+    "deaths": 60,
+    "cases_per_100k": 591.746187347149,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.591746187347149,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 189,
+    "RS": "08128",
+    "AGS": "08128",
+    "GEN": "Main-Tauber-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 132321,
+    "AGS_0": "08128000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.91972076788831,
+    "cases": 573,
+    "deaths": 11,
+    "cases_per_100k": 433.037839798671,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.433037839798671,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 190,
+    "RS": "08135",
+    "AGS": "08135",
+    "GEN": "Heidenheim",
+    "BEZ": "Landkreis",
+    "EWZ": 132472,
+    "AGS_0": "08135000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 6.50793650793651,
+    "cases": 630,
+    "deaths": 41,
+    "cases_per_100k": 475.572196388671,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.475572196388671,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 191,
+    "RS": "08136",
+    "AGS": "08136",
+    "GEN": "Ostalbkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 314002,
+    "AGS_0": "08136000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.29166666666667,
+    "cases": 1920,
+    "deaths": 44,
+    "cases_per_100k": 611.461073496347,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.611461073496347,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 192,
+    "RS": "08211",
+    "AGS": "08211",
+    "GEN": "Baden-Baden",
+    "BEZ": "Stadtkreis",
+    "EWZ": 55123,
+    "AGS_0": "08211000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 8.15450643776824,
+    "cases": 233,
+    "deaths": 19,
+    "cases_per_100k": 422.69107269198,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.42269107269198,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 193,
+    "RS": "08212",
+    "AGS": "08212",
+    "GEN": "Karlsruhe",
+    "BEZ": "Stadtkreis",
+    "EWZ": 313092,
+    "AGS_0": "08212000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.94174757281553,
+    "cases": 721,
+    "deaths": 14,
+    "cases_per_100k": 230.283750463123,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.230283750463123,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 194,
+    "RS": "08215",
+    "AGS": "08215",
+    "GEN": "Karlsruhe",
+    "BEZ": "Landkreis",
+    "EWZ": 444232,
+    "AGS_0": "08215000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 5.54054054054054,
+    "cases": 1480,
+    "deaths": 82,
+    "cases_per_100k": 333.159250121558,
+    "cases7day": [
+      16
+    ],
+    "cases_per_population": 0.333159250121558,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 195,
+    "RS": "08216",
+    "AGS": "08216",
+    "GEN": "Rastatt",
+    "BEZ": "Landkreis",
+    "EWZ": 231018,
+    "AGS_0": "08216000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.51655629139073,
+    "cases": 755,
+    "deaths": 19,
+    "cases_per_100k": 326.81436078574,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.32681436078574,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 196,
+    "RS": "08221",
+    "AGS": "08221",
+    "GEN": "Heidelberg",
+    "BEZ": "Stadtkreis",
+    "EWZ": 160355,
+    "AGS_0": "08221000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.26811594202899,
+    "cases": 552,
+    "deaths": 7,
+    "cases_per_100k": 344.236225873842,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.344236225873842,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 197,
+    "RS": "08222",
+    "AGS": "08222",
+    "GEN": "Mannheim",
+    "BEZ": "Stadtkreis",
+    "EWZ": 309370,
+    "AGS_0": "08222000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.09060402684564,
+    "cases": 1192,
+    "deaths": 13,
+    "cases_per_100k": 385.299156350002,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.385299156350002,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 198,
+    "RS": "08225",
+    "AGS": "08225",
+    "GEN": "Neckar-Odenwald-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 143535,
+    "AGS_0": "08225000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.18181818181818,
+    "cases": 550,
+    "deaths": 23,
+    "cases_per_100k": 383.181802347859,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.383181802347859,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 199,
+    "RS": "08226",
+    "AGS": "08226",
+    "GEN": "Rhein-Neckar-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 547625,
+    "AGS_0": "08226000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.35294117647059,
+    "cases": 1700,
+    "deaths": 40,
+    "cases_per_100k": 310.431408354257,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.310431408354257,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 200,
+    "RS": "08231",
+    "AGS": "08231",
+    "GEN": "Pforzheim",
+    "BEZ": "Stadtkreis",
+    "EWZ": 125542,
+    "AGS_0": "08231000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.25391849529781,
+    "cases": 638,
+    "deaths": 8,
+    "cases_per_100k": 508.196460148795,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.508196460148795,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 201,
+    "RS": "08235",
+    "AGS": "08235",
+    "GEN": "Calw",
+    "BEZ": "Landkreis",
+    "EWZ": 158397,
+    "AGS_0": "08235000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.84810126582278,
+    "cases": 948,
+    "deaths": 27,
+    "cases_per_100k": 598.496183639842,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.598496183639842,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 202,
+    "RS": "08236",
+    "AGS": "08236",
+    "GEN": "Enzkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 198905,
+    "AGS_0": "08236000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.72034820457018,
+    "cases": 919,
+    "deaths": 25,
+    "cases_per_100k": 462.029612126392,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.462029612126392,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 203,
+    "RS": "08237",
+    "AGS": "08237",
+    "GEN": "Freudenstadt",
+    "BEZ": "Landkreis",
+    "EWZ": 117935,
+    "AGS_0": "08237000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 5.84707646176912,
+    "cases": 667,
+    "deaths": 39,
+    "cases_per_100k": 565.565777758935,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.565565777758935,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 204,
+    "RS": "08311",
+    "AGS": "08311",
+    "GEN": "Freiburg im Breisgau",
+    "BEZ": "Stadtkreis",
+    "EWZ": 230241,
+    "AGS_0": "08311000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 6.19195046439629,
+    "cases": 1292,
+    "deaths": 80,
+    "cases_per_100k": 561.151141629857,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.561151141629857,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 205,
+    "RS": "08315",
+    "AGS": "08315",
+    "GEN": "Breisgau-Hochschwarzwald",
+    "BEZ": "Landkreis",
+    "EWZ": 262795,
+    "AGS_0": "08315000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.67532467532468,
+    "cases": 1540,
+    "deaths": 72,
+    "cases_per_100k": 586.008105177039,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.586008105177039,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 206,
+    "RS": "08316",
+    "AGS": "08316",
+    "GEN": "Emmendingen",
+    "BEZ": "Landkreis",
+    "EWZ": 165383,
+    "AGS_0": "08316000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 6.12813370473538,
+    "cases": 718,
+    "deaths": 44,
+    "cases_per_100k": 434.143775357806,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.434143775357806,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 207,
+    "RS": "08317",
+    "AGS": "08317",
+    "GEN": "Ortenaukreis",
+    "BEZ": "Landkreis",
+    "EWZ": 429479,
+    "AGS_0": "08317000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 7.4582338902148,
+    "cases": 1676,
+    "deaths": 125,
+    "cases_per_100k": 390.24026785943,
+    "cases7day": [
+      30
+    ],
+    "cases_per_population": 0.39024026785943,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 208,
+    "RS": "08325",
+    "AGS": "08325",
+    "GEN": "Rottweil",
+    "BEZ": "Landkreis",
+    "EWZ": 139455,
+    "AGS_0": "08325000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 3.3205619412516,
+    "cases": 783,
+    "deaths": 26,
+    "cases_per_100k": 561.471442400774,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.561471442400774,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 209,
+    "RS": "08326",
+    "AGS": "08326",
+    "GEN": "Schwarzwald-Baar-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 212381,
+    "AGS_0": "08326000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.92957746478873,
+    "cases": 710,
+    "deaths": 35,
+    "cases_per_100k": 334.30485777918,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.33430485777918,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 210,
+    "RS": "08327",
+    "AGS": "08327",
+    "GEN": "Tuttlingen",
+    "BEZ": "Landkreis",
+    "EWZ": 140152,
+    "AGS_0": "08327000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.0,
+    "cases": 625,
+    "deaths": 25,
+    "cases_per_100k": 445.944403219362,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.445944403219362,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 211,
+    "RS": "08335",
+    "AGS": "08335",
+    "GEN": "Konstanz",
+    "BEZ": "Landkreis",
+    "EWZ": 285325,
+    "AGS_0": "08335000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.19072164948454,
+    "cases": 776,
+    "deaths": 17,
+    "cases_per_100k": 271.970559887847,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.271970559887847,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 212,
+    "RS": "08336",
+    "AGS": "08336",
+    "GEN": "Lörrach",
+    "BEZ": "Landkreis",
+    "EWZ": 228639,
+    "AGS_0": "08336000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 7.02524698133919,
+    "cases": 911,
+    "deaths": 64,
+    "cases_per_100k": 398.44470978267,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.398444709782671,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 213,
+    "RS": "08337",
+    "AGS": "08337",
+    "GEN": "Waldshut",
+    "BEZ": "Landkreis",
+    "EWZ": 170619,
+    "AGS_0": "08337000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 7.76053215077605,
+    "cases": 451,
+    "deaths": 35,
+    "cases_per_100k": 264.331639500876,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.264331639500876,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 214,
+    "RS": "08415",
+    "AGS": "08415",
+    "GEN": "Reutlingen",
+    "BEZ": "Landkreis",
+    "EWZ": 286748,
+    "AGS_0": "08415000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.09181636726547,
+    "cases": 2004,
+    "deaths": 82,
+    "cases_per_100k": 698.871482974598,
+    "cases7day": [
+      17
+    ],
+    "cases_per_population": 0.698871482974598,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 215,
+    "RS": "08416",
+    "AGS": "08416",
+    "GEN": "Tübingen",
+    "BEZ": "Landkreis",
+    "EWZ": 227331,
+    "AGS_0": "08416000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 3.79987333755542,
+    "cases": 1579,
+    "deaths": 60,
+    "cases_per_100k": 694.581909198482,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.694581909198482,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 216,
+    "RS": "08417",
+    "AGS": "08417",
+    "GEN": "Zollernalbkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 188935,
+    "AGS_0": "08417000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 5.46601261387526,
+    "cases": 1427,
+    "deaths": 78,
+    "cases_per_100k": 755.286209542964,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.755286209542964,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 217,
+    "RS": "08421",
+    "AGS": "08421",
+    "GEN": "Ulm",
+    "BEZ": "Stadtkreis",
+    "EWZ": 126329,
+    "AGS_0": "08421000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.61030595813204,
+    "cases": 621,
+    "deaths": 10,
+    "cases_per_100k": 491.573589595421,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.491573589595421,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 218,
+    "RS": "08425",
+    "AGS": "08425",
+    "GEN": "Alb-Donau-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 196047,
+    "AGS_0": "08425000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 2.76595744680851,
+    "cases": 940,
+    "deaths": 26,
+    "cases_per_100k": 479.476860140681,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.479476860140681,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 219,
+    "RS": "08426",
+    "AGS": "08426",
+    "GEN": "Biberach",
+    "BEZ": "Landkreis",
+    "EWZ": 199742,
+    "AGS_0": "08426000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 4.06779661016949,
+    "cases": 885,
+    "deaths": 36,
+    "cases_per_100k": 443.071562315387,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.443071562315387,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 220,
+    "RS": "08435",
+    "AGS": "08435",
+    "GEN": "Bodenseekreis",
+    "BEZ": "Landkreis",
+    "EWZ": 216227,
+    "AGS_0": "08435000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 1.41592920353982,
+    "cases": 565,
+    "deaths": 8,
+    "cases_per_100k": 261.299467689049,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.261299467689049,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 221,
+    "RS": "08436",
+    "AGS": "08436",
+    "GEN": "Ravensburg",
+    "BEZ": "Landkreis",
+    "EWZ": 284285,
+    "AGS_0": "08436000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 0.762527233115468,
+    "cases": 918,
+    "deaths": 7,
+    "cases_per_100k": 322.915384209508,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.322915384209508,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 222,
+    "RS": "08437",
+    "AGS": "08437",
+    "GEN": "Sigmaringen",
+    "BEZ": "Landkreis",
+    "EWZ": 130873,
+    "AGS_0": "08437000",
+    "BL": "Baden-Württemberg",
+    "death_rate": 3.99113082039911,
+    "cases": 902,
+    "deaths": 36,
+    "cases_per_100k": 689.21779129385,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.68921779129385,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 223,
+    "RS": "09161",
+    "AGS": "09161",
+    "GEN": "Ingolstadt",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 136981,
+    "AGS_0": "09161000",
+    "BL": "Bayern",
+    "death_rate": 4.70446320868516,
+    "cases": 829,
+    "deaths": 39,
+    "cases_per_100k": 605.193420985392,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.605193420985392,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 224,
+    "RS": "09162",
+    "AGS": "09162",
+    "GEN": "München",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 1471508,
+    "AGS_0": "09162000",
+    "BL": "Bayern",
+    "death_rate": 1.89968338610232,
+    "cases": 12002,
+    "deaths": 228,
+    "cases_per_100k": 815.62587495277,
+    "cases7day": [
+      118
+    ],
+    "cases_per_population": 0.81562587495277,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 225,
+    "RS": "09163",
+    "AGS": "09163",
+    "GEN": "Rosenheim",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 63324,
+    "AGS_0": "09163000",
+    "BL": "Bayern",
+    "death_rate": 3.07898259705489,
+    "cases": 747,
+    "deaths": 23,
+    "cases_per_100k": 1179.64752700398,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 1.17964752700398,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 226,
+    "RS": "09171",
+    "AGS": "09171",
+    "GEN": "Altötting",
+    "BEZ": "Landkreis",
+    "EWZ": 111210,
+    "AGS_0": "09171000",
+    "BL": "Bayern",
+    "death_rate": 7.52972258916777,
+    "cases": 757,
+    "deaths": 57,
+    "cases_per_100k": 680.694182177862,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.680694182177862,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 227,
+    "RS": "09172",
+    "AGS": "09172",
+    "GEN": "Berchtesgadener Land",
+    "BEZ": "Landkreis",
+    "EWZ": 105722,
+    "AGS_0": "09172000",
+    "BL": "Bayern",
+    "death_rate": 5.56792873051225,
+    "cases": 449,
+    "deaths": 25,
+    "cases_per_100k": 424.698738200185,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.424698738200185,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 228,
+    "RS": "09173",
+    "AGS": "09173",
+    "GEN": "Bad Tölz-Wolfratshausen",
+    "BEZ": "Landkreis",
+    "EWZ": 127227,
+    "AGS_0": "09173000",
+    "BL": "Bayern",
+    "death_rate": 1.53846153846154,
+    "cases": 650,
+    "deaths": 10,
+    "cases_per_100k": 510.897844011098,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.510897844011098,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 229,
+    "RS": "09174",
+    "AGS": "09174",
+    "GEN": "Dachau",
+    "BEZ": "Landkreis",
+    "EWZ": 153884,
+    "AGS_0": "09174000",
+    "BL": "Bayern",
+    "death_rate": 2.66666666666667,
+    "cases": 1275,
+    "deaths": 34,
+    "cases_per_100k": 828.5461776403,
+    "cases7day": [
+      12
+    ],
+    "cases_per_population": 0.8285461776403,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 230,
+    "RS": "09175",
+    "AGS": "09175",
+    "GEN": "Ebersberg",
+    "BEZ": "Landkreis",
+    "EWZ": 142142,
+    "AGS_0": "09175000",
+    "BL": "Bayern",
+    "death_rate": 0.757575757575758,
+    "cases": 792,
+    "deaths": 6,
+    "cases_per_100k": 557.189289583656,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.557189289583656,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 231,
+    "RS": "09176",
+    "AGS": "09176",
+    "GEN": "Eichstätt",
+    "BEZ": "Landkreis",
+    "EWZ": 132341,
+    "AGS_0": "09176000",
+    "BL": "Bayern",
+    "death_rate": 4.59770114942529,
+    "cases": 435,
+    "deaths": 20,
+    "cases_per_100k": 328.696322379308,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.328696322379308,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 232,
+    "RS": "09177",
+    "AGS": "09177",
+    "GEN": "Erding",
+    "BEZ": "Landkreis",
+    "EWZ": 137660,
+    "AGS_0": "09177000",
+    "BL": "Bayern",
+    "death_rate": 1.24716553287982,
+    "cases": 882,
+    "deaths": 11,
+    "cases_per_100k": 640.708993171582,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.640708993171582,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 233,
+    "RS": "09178",
+    "AGS": "09178",
+    "GEN": "Freising",
+    "BEZ": "Landkreis",
+    "EWZ": 179116,
+    "AGS_0": "09178000",
+    "BL": "Bayern",
+    "death_rate": 3.45334313005143,
+    "cases": 1361,
+    "deaths": 47,
+    "cases_per_100k": 759.842783447598,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.759842783447598,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 234,
+    "RS": "09179",
+    "AGS": "09179",
+    "GEN": "Fürstenfeldbruck",
+    "BEZ": "Landkreis",
+    "EWZ": 219320,
+    "AGS_0": "09179000",
+    "BL": "Bayern",
+    "death_rate": 2.58249641319943,
+    "cases": 1394,
+    "deaths": 36,
+    "cases_per_100k": 635.60094838592,
+    "cases7day": [
+      20
+    ],
+    "cases_per_population": 0.63560094838592,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 235,
+    "RS": "09180",
+    "AGS": "09180",
+    "GEN": "Garmisch-Partenkirchen",
+    "BEZ": "Landkreis",
+    "EWZ": 88467,
+    "AGS_0": "09180000",
+    "BL": "Bayern",
+    "death_rate": 4.58715596330275,
+    "cases": 436,
+    "deaths": 20,
+    "cases_per_100k": 492.839137757582,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.492839137757582,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 236,
+    "RS": "09181",
+    "AGS": "09181",
+    "GEN": "Landsberg am Lech",
+    "BEZ": "Landkreis",
+    "EWZ": 120071,
+    "AGS_0": "09181000",
+    "BL": "Bayern",
+    "death_rate": 2.04498977505112,
+    "cases": 489,
+    "deaths": 10,
+    "cases_per_100k": 407.259038402279,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.407259038402279,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 237,
+    "RS": "09182",
+    "AGS": "09182",
+    "GEN": "Miesbach",
+    "BEZ": "Landkreis",
+    "EWZ": 99726,
+    "AGS_0": "09182000",
+    "BL": "Bayern",
+    "death_rate": 1.41570141570142,
+    "cases": 777,
+    "deaths": 11,
+    "cases_per_100k": 779.134829432645,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.779134829432645,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 238,
+    "RS": "09183",
+    "AGS": "09183",
+    "GEN": "Mühldorf a. Inn",
+    "BEZ": "Landkreis",
+    "EWZ": 115250,
+    "AGS_0": "09183000",
+    "BL": "Bayern",
+    "death_rate": 4.06626506024096,
+    "cases": 664,
+    "deaths": 27,
+    "cases_per_100k": 576.138828633406,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.576138828633406,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 239,
+    "RS": "09184",
+    "AGS": "09184",
+    "GEN": "München",
+    "BEZ": "Landkreis",
+    "EWZ": 348871,
+    "AGS_0": "09184000",
+    "BL": "Bayern",
+    "death_rate": 4.46096654275093,
+    "cases": 2152,
+    "deaths": 96,
+    "cases_per_100k": 616.84691476219,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.61684691476219,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 240,
+    "RS": "09185",
+    "AGS": "09185",
+    "GEN": "Neuburg-Schrobenhausen",
+    "BEZ": "Landkreis",
+    "EWZ": 96680,
+    "AGS_0": "09185000",
+    "BL": "Bayern",
+    "death_rate": 4.03587443946188,
+    "cases": 446,
+    "deaths": 18,
+    "cases_per_100k": 461.31568059578,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.46131568059578,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 241,
+    "RS": "09186",
+    "AGS": "09186",
+    "GEN": "Pfaffenhofen a.d. Ilm",
+    "BEZ": "Landkreis",
+    "EWZ": 127151,
+    "AGS_0": "09186000",
+    "BL": "Bayern",
+    "death_rate": 4.04624277456647,
+    "cases": 519,
+    "deaths": 21,
+    "cases_per_100k": 408.176105575261,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.408176105575261,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 242,
+    "RS": "09187",
+    "AGS": "09187",
+    "GEN": "Rosenheim",
+    "BEZ": "Landkreis",
+    "EWZ": 260983,
+    "AGS_0": "09187000",
+    "BL": "Bayern",
+    "death_rate": 7.50094232943837,
+    "cases": 2653,
+    "deaths": 199,
+    "cases_per_100k": 1016.54130728821,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 1.01654130728821,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 243,
+    "RS": "09188",
+    "AGS": "09188",
+    "GEN": "Starnberg",
+    "BEZ": "Landkreis",
+    "EWZ": 136092,
+    "AGS_0": "09188000",
+    "BL": "Bayern",
+    "death_rate": 1.62907268170426,
+    "cases": 798,
+    "deaths": 13,
+    "cases_per_100k": 586.368045145931,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.586368045145931,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 244,
+    "RS": "09189",
+    "AGS": "09189",
+    "GEN": "Traunstein",
+    "BEZ": "Landkreis",
+    "EWZ": 177089,
+    "AGS_0": "09189000",
+    "BL": "Bayern",
+    "death_rate": 5.97014925373134,
+    "cases": 1474,
+    "deaths": 88,
+    "cases_per_100k": 832.349835393503,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.832349835393503,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 245,
+    "RS": "09190",
+    "AGS": "09190",
+    "GEN": "Weilheim-Schongau",
+    "BEZ": "Landkreis",
+    "EWZ": 135348,
+    "AGS_0": "09190000",
+    "BL": "Bayern",
+    "death_rate": 0.618556701030928,
+    "cases": 485,
+    "deaths": 3,
+    "cases_per_100k": 358.335549841889,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.358335549841889,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 246,
+    "RS": "09261",
+    "AGS": "09261",
+    "GEN": "Landshut",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 72404,
+    "AGS_0": "09261000",
+    "BL": "Bayern",
+    "death_rate": 1.9271948608137,
+    "cases": 467,
+    "deaths": 9,
+    "cases_per_100k": 644.991989392851,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.644991989392851,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 247,
+    "RS": "09262",
+    "AGS": "09262",
+    "GEN": "Passau",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 52469,
+    "AGS_0": "09262000",
+    "BL": "Bayern",
+    "death_rate": 7.79220779220779,
+    "cases": 231,
+    "deaths": 18,
+    "cases_per_100k": 440.259963025787,
+    "cases7day": [
+      -1
+    ],
+    "cases_per_population": 0.440259963025787,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 248,
+    "RS": "09263",
+    "AGS": "09263",
+    "GEN": "Straubing",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 47794,
+    "AGS_0": "09263000",
+    "BL": "Bayern",
+    "death_rate": 9.52380952380952,
+    "cases": 504,
+    "deaths": 48,
+    "cases_per_100k": 1054.52567267858,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 1.05452567267858,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 249,
+    "RS": "09271",
+    "AGS": "09271",
+    "GEN": "Deggendorf",
+    "BEZ": "Landkreis",
+    "EWZ": 119326,
+    "AGS_0": "09271000",
+    "BL": "Bayern",
+    "death_rate": 3.75,
+    "cases": 480,
+    "deaths": 18,
+    "cases_per_100k": 402.259356720245,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.402259356720245,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 250,
+    "RS": "09272",
+    "AGS": "09272",
+    "GEN": "Freyung-Grafenau",
+    "BEZ": "Landkreis",
+    "EWZ": 78355,
+    "AGS_0": "09272000",
+    "BL": "Bayern",
+    "death_rate": 4.7244094488189,
+    "cases": 254,
+    "deaths": 12,
+    "cases_per_100k": 324.16565630783,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.32416565630783,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 251,
+    "RS": "09273",
+    "AGS": "09273",
+    "GEN": "Kelheim",
+    "BEZ": "Landkreis",
+    "EWZ": 122258,
+    "AGS_0": "09273000",
+    "BL": "Bayern",
+    "death_rate": 5.15463917525773,
+    "cases": 679,
+    "deaths": 35,
+    "cases_per_100k": 555.382878830015,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.555382878830015,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 252,
+    "RS": "09274",
+    "AGS": "09274",
+    "GEN": "Landshut",
+    "BEZ": "Landkreis",
+    "EWZ": 158698,
+    "AGS_0": "09274000",
+    "BL": "Bayern",
+    "death_rate": 3.93063583815029,
+    "cases": 865,
+    "deaths": 34,
+    "cases_per_100k": 545.060429242965,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.545060429242965,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 253,
+    "RS": "09275",
+    "AGS": "09275",
+    "GEN": "Passau",
+    "BEZ": "Landkreis",
+    "EWZ": 192043,
+    "AGS_0": "09275000",
+    "BL": "Bayern",
+    "death_rate": 3.7037037037037,
+    "cases": 837,
+    "deaths": 31,
+    "cases_per_100k": 435.83989002463,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.43583989002463003,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 254,
+    "RS": "09276",
+    "AGS": "09276",
+    "GEN": "Regen",
+    "BEZ": "Landkreis",
+    "EWZ": 77656,
+    "AGS_0": "09276000",
+    "BL": "Bayern",
+    "death_rate": 4.8582995951417,
+    "cases": 247,
+    "deaths": 12,
+    "cases_per_100k": 318.069434428763,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.318069434428763,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 255,
+    "RS": "09277",
+    "AGS": "09277",
+    "GEN": "Rottal-Inn",
+    "BEZ": "Landkreis",
+    "EWZ": 120659,
+    "AGS_0": "09277000",
+    "BL": "Bayern",
+    "death_rate": 5.67296996662959,
+    "cases": 899,
+    "deaths": 51,
+    "cases_per_100k": 745.074963326399,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.745074963326399,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 256,
+    "RS": "09278",
+    "AGS": "09278",
+    "GEN": "Straubing-Bogen",
+    "BEZ": "Landkreis",
+    "EWZ": 100649,
+    "AGS_0": "09278000",
+    "BL": "Bayern",
+    "death_rate": 4.57413249211356,
+    "cases": 634,
+    "deaths": 29,
+    "cases_per_100k": 629.911871951038,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.629911871951038,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 257,
+    "RS": "09279",
+    "AGS": "09279",
+    "GEN": "Dingolfing-Landau",
+    "BEZ": "Landkreis",
+    "EWZ": 96217,
+    "AGS_0": "09279000",
+    "BL": "Bayern",
+    "death_rate": 1.001001001001,
+    "cases": 999,
+    "deaths": 10,
+    "cases_per_100k": 1038.27805897087,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 1.03827805897087,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 258,
+    "RS": "09361",
+    "AGS": "09361",
+    "GEN": "Amberg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 41970,
+    "AGS_0": "09361000",
+    "BL": "Bayern",
+    "death_rate": 2.89855072463768,
+    "cases": 138,
+    "deaths": 4,
+    "cases_per_100k": 328.806290207291,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.328806290207291,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 259,
+    "RS": "09362",
+    "AGS": "09362",
+    "GEN": "Regensburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 152610,
+    "AGS_0": "09362000",
+    "BL": "Bayern",
+    "death_rate": 1.05042016806723,
+    "cases": 952,
+    "deaths": 10,
+    "cases_per_100k": 623.81233208833,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.62381233208833,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 260,
+    "RS": "09363",
+    "AGS": "09363",
+    "GEN": "Weiden i.d. OPf.",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 42520,
+    "AGS_0": "09363000",
+    "BL": "Bayern",
+    "death_rate": 4.95049504950495,
+    "cases": 404,
+    "deaths": 20,
+    "cases_per_100k": 950.141110065851,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.950141110065851,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 261,
+    "RS": "09371",
+    "AGS": "09371",
+    "GEN": "Amberg-Sulzbach",
+    "BEZ": "Landkreis",
+    "EWZ": 103109,
+    "AGS_0": "09371000",
+    "BL": "Bayern",
+    "death_rate": 9.71223021582734,
+    "cases": 556,
+    "deaths": 54,
+    "cases_per_100k": 539.235178306452,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.539235178306452,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 262,
+    "RS": "09372",
+    "AGS": "09372",
+    "GEN": "Cham",
+    "BEZ": "Landkreis",
+    "EWZ": 127882,
+    "AGS_0": "09372000",
+    "BL": "Bayern",
+    "death_rate": 3.99239543726236,
+    "cases": 526,
+    "deaths": 21,
+    "cases_per_100k": 411.316682566741,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.411316682566741,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 263,
+    "RS": "09373",
+    "AGS": "09373",
+    "GEN": "Neumarkt i.d. OPf.",
+    "BEZ": "Landkreis",
+    "EWZ": 133561,
+    "AGS_0": "09373000",
+    "BL": "Bayern",
+    "death_rate": 2.95652173913043,
+    "cases": 575,
+    "deaths": 17,
+    "cases_per_100k": 430.514895815395,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.430514895815395,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 264,
+    "RS": "09374",
+    "AGS": "09374",
+    "GEN": "Neustadt a.d. Waldnaab",
+    "BEZ": "Landkreis",
+    "EWZ": 94352,
+    "AGS_0": "09374000",
+    "BL": "Bayern",
+    "death_rate": 7.8494623655914,
+    "cases": 930,
+    "deaths": 73,
+    "cases_per_100k": 985.670680006783,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.985670680006783,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 265,
+    "RS": "09375",
+    "AGS": "09375",
+    "GEN": "Regensburg",
+    "BEZ": "Landkreis",
+    "EWZ": 193572,
+    "AGS_0": "09375000",
+    "BL": "Bayern",
+    "death_rate": 2.088772845953,
+    "cases": 766,
+    "deaths": 16,
+    "cases_per_100k": 395.718389023206,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.395718389023206,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 266,
+    "RS": "09376",
+    "AGS": "09376",
+    "GEN": "Schwandorf",
+    "BEZ": "Landkreis",
+    "EWZ": 147189,
+    "AGS_0": "09376000",
+    "BL": "Bayern",
+    "death_rate": 3.28947368421053,
+    "cases": 608,
+    "deaths": 20,
+    "cases_per_100k": 413.0743465884,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.4130743465884,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 267,
+    "RS": "09377",
+    "AGS": "09377",
+    "GEN": "Tirschenreuth",
+    "BEZ": "Landkreis",
+    "EWZ": 72504,
+    "AGS_0": "09377000",
+    "BL": "Bayern",
+    "death_rate": 11.3544201135442,
+    "cases": 1233,
+    "deaths": 140,
+    "cases_per_100k": 1700.59582919563,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 1.70059582919563,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 268,
+    "RS": "09461",
+    "AGS": "09461",
+    "GEN": "Bamberg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 77592,
+    "AGS_0": "09461000",
+    "BL": "Bayern",
+    "death_rate": 8.2089552238806,
+    "cases": 268,
+    "deaths": 22,
+    "cases_per_100k": 345.39643262192,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.34539643262192,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 269,
+    "RS": "09462",
+    "AGS": "09462",
+    "GEN": "Bayreuth",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 74657,
+    "AGS_0": "09462000",
+    "BL": "Bayern",
+    "death_rate": 3.886925795053,
+    "cases": 283,
+    "deaths": 11,
+    "cases_per_100k": 379.066932772546,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.379066932772546,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 270,
+    "RS": "09463",
+    "AGS": "09463",
+    "GEN": "Coburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 41249,
+    "AGS_0": "09463000",
+    "BL": "Bayern",
+    "death_rate": 2.66666666666667,
+    "cases": 150,
+    "deaths": 4,
+    "cases_per_100k": 363.645179277073,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.363645179277073,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 271,
+    "RS": "09464",
+    "AGS": "09464",
+    "GEN": "Hof",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 45930,
+    "AGS_0": "09464000",
+    "BL": "Bayern",
+    "death_rate": 2.61780104712042,
+    "cases": 191,
+    "deaths": 5,
+    "cases_per_100k": 415.85020683649,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.41585020683649,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 272,
+    "RS": "09471",
+    "AGS": "09471",
+    "GEN": "Bamberg",
+    "BEZ": "Landkreis",
+    "EWZ": 147086,
+    "AGS_0": "09471000",
+    "BL": "Bayern",
+    "death_rate": 7.06106870229008,
+    "cases": 524,
+    "deaths": 37,
+    "cases_per_100k": 356.25416423045,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.35625416423045,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 273,
+    "RS": "09472",
+    "AGS": "09472",
+    "GEN": "Bayreuth",
+    "BEZ": "Landkreis",
+    "EWZ": 103656,
+    "AGS_0": "09472000",
+    "BL": "Bayern",
+    "death_rate": 6.10021786492375,
+    "cases": 459,
+    "deaths": 28,
+    "cases_per_100k": 442.81083584163,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.44281083584163,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 274,
+    "RS": "09473",
+    "AGS": "09473",
+    "GEN": "Coburg",
+    "BEZ": "Landkreis",
+    "EWZ": 86906,
+    "AGS_0": "09473000",
+    "BL": "Bayern",
+    "death_rate": 6.69642857142857,
+    "cases": 448,
+    "deaths": 30,
+    "cases_per_100k": 515.499505212528,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.515499505212529,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 275,
+    "RS": "09474",
+    "AGS": "09474",
+    "GEN": "Forchheim",
+    "BEZ": "Landkreis",
+    "EWZ": 116099,
+    "AGS_0": "09474000",
+    "BL": "Bayern",
+    "death_rate": 1.32013201320132,
+    "cases": 303,
+    "deaths": 4,
+    "cases_per_100k": 260.984160070285,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.260984160070285,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 276,
+    "RS": "09475",
+    "AGS": "09475",
+    "GEN": "Hof",
+    "BEZ": "Landkreis",
+    "EWZ": 95311,
+    "AGS_0": "09475000",
+    "BL": "Bayern",
+    "death_rate": 5.78661844484629,
+    "cases": 553,
+    "deaths": 32,
+    "cases_per_100k": 580.205852419973,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.580205852419972,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 277,
+    "RS": "09476",
+    "AGS": "09476",
+    "GEN": "Kronach",
+    "BEZ": "Landkreis",
+    "EWZ": 67135,
+    "AGS_0": "09476000",
+    "BL": "Bayern",
+    "death_rate": 1.5625,
+    "cases": 192,
+    "deaths": 3,
+    "cases_per_100k": 285.990913830342,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.285990913830342,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 278,
+    "RS": "09477",
+    "AGS": "09477",
+    "GEN": "Kulmbach",
+    "BEZ": "Landkreis",
+    "EWZ": 71845,
+    "AGS_0": "09477000",
+    "BL": "Bayern",
+    "death_rate": 3.42679127725857,
+    "cases": 321,
+    "deaths": 11,
+    "cases_per_100k": 446.795184076832,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.446795184076832,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 279,
+    "RS": "09478",
+    "AGS": "09478",
+    "GEN": "Lichtenfels",
+    "BEZ": "Landkreis",
+    "EWZ": 66838,
+    "AGS_0": "09478000",
+    "BL": "Bayern",
+    "death_rate": 4.43864229765013,
+    "cases": 383,
+    "deaths": 17,
+    "cases_per_100k": 573.027319788145,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.573027319788144,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 280,
+    "RS": "09479",
+    "AGS": "09479",
+    "GEN": "Wunsiedel i. Fichtelgebirge",
+    "BEZ": "Landkreis",
+    "EWZ": 73178,
+    "AGS_0": "09479000",
+    "BL": "Bayern",
+    "death_rate": 5.51282051282051,
+    "cases": 780,
+    "deaths": 43,
+    "cases_per_100k": 1065.89412118396,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 1.06589412118396,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 281,
+    "RS": "09561",
+    "AGS": "09561",
+    "GEN": "Ansbach",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 41847,
+    "AGS_0": "09561000",
+    "BL": "Bayern",
+    "death_rate": 4.02010050251256,
+    "cases": 199,
+    "deaths": 8,
+    "cases_per_100k": 475.5418548522,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.4755418548522,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 282,
+    "RS": "09562",
+    "AGS": "09562",
+    "GEN": "Erlangen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 111962,
+    "AGS_0": "09562000",
+    "BL": "Bayern",
+    "death_rate": 2.97029702970297,
+    "cases": 404,
+    "deaths": 12,
+    "cases_per_100k": 360.836712456012,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.360836712456012,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 283,
+    "RS": "09563",
+    "AGS": "09563",
+    "GEN": "Fürth",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 127748,
+    "AGS_0": "09563000",
+    "BL": "Bayern",
+    "death_rate": 6.0702875399361,
+    "cases": 626,
+    "deaths": 38,
+    "cases_per_100k": 490.027241130977,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.490027241130977,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 284,
+    "RS": "09564",
+    "AGS": "09564",
+    "GEN": "Nürnberg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 518365,
+    "AGS_0": "09564000",
+    "BL": "Bayern",
+    "death_rate": 2.44690674053555,
+    "cases": 2166,
+    "deaths": 53,
+    "cases_per_100k": 417.852285551687,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.417852285551687,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 285,
+    "RS": "09565",
+    "AGS": "09565",
+    "GEN": "Schwabach",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 40792,
+    "AGS_0": "09565000",
+    "BL": "Bayern",
+    "death_rate": 1.6,
+    "cases": 125,
+    "deaths": 2,
+    "cases_per_100k": 306.432633849774,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.306432633849774,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 286,
+    "RS": "09571",
+    "AGS": "09571",
+    "GEN": "Ansbach",
+    "BEZ": "Landkreis",
+    "EWZ": 183949,
+    "AGS_0": "09571000",
+    "BL": "Bayern",
+    "death_rate": 3.93258426966292,
+    "cases": 712,
+    "deaths": 28,
+    "cases_per_100k": 387.063805728762,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.387063805728762,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 287,
+    "RS": "09572",
+    "AGS": "09572",
+    "GEN": "Erlangen-Höchstadt",
+    "BEZ": "Landkreis",
+    "EWZ": 136271,
+    "AGS_0": "09572000",
+    "BL": "Bayern",
+    "death_rate": 2.78481012658228,
+    "cases": 395,
+    "deaths": 11,
+    "cases_per_100k": 289.863580659128,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.289863580659128,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 288,
+    "RS": "09573",
+    "AGS": "09573",
+    "GEN": "Fürth",
+    "BEZ": "Landkreis",
+    "EWZ": 117387,
+    "AGS_0": "09573000",
+    "BL": "Bayern",
+    "death_rate": 9.49263502454992,
+    "cases": 611,
+    "deaths": 58,
+    "cases_per_100k": 520.500566502253,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.520500566502253,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 289,
+    "RS": "09574",
+    "AGS": "09574",
+    "GEN": "Nürnberger Land",
+    "BEZ": "Landkreis",
+    "EWZ": 170365,
+    "AGS_0": "09574000",
+    "BL": "Bayern",
+    "death_rate": 5.54156171284635,
+    "cases": 794,
+    "deaths": 44,
+    "cases_per_100k": 466.058169224899,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.466058169224899,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 290,
+    "RS": "09575",
+    "AGS": "09575",
+    "GEN": "Neustadt a.d. Aisch-Bad Windsheim",
+    "BEZ": "Landkreis",
+    "EWZ": 100364,
+    "AGS_0": "09575000",
+    "BL": "Bayern",
+    "death_rate": 1.98675496688742,
+    "cases": 302,
+    "deaths": 6,
+    "cases_per_100k": 300.904706867004,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.300904706867004,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 291,
+    "RS": "09576",
+    "AGS": "09576",
+    "GEN": "Roth",
+    "BEZ": "Landkreis",
+    "EWZ": 126958,
+    "AGS_0": "09576000",
+    "BL": "Bayern",
+    "death_rate": 1.89189189189189,
+    "cases": 370,
+    "deaths": 7,
+    "cases_per_100k": 291.434962743584,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.291434962743584,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 292,
+    "RS": "09577",
+    "AGS": "09577",
+    "GEN": "Weißenburg-Gunzenhausen",
+    "BEZ": "Landkreis",
+    "EWZ": 94393,
+    "AGS_0": "09577000",
+    "BL": "Bayern",
+    "death_rate": 5.45851528384279,
+    "cases": 458,
+    "deaths": 25,
+    "cases_per_100k": 485.205470744653,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.485205470744653,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 293,
+    "RS": "09661",
+    "AGS": "09661",
+    "GEN": "Aschaffenburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 70527,
+    "AGS_0": "09661000",
+    "BL": "Bayern",
+    "death_rate": 0.526315789473684,
+    "cases": 190,
+    "deaths": 1,
+    "cases_per_100k": 269.400371488933,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.269400371488933,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 294,
+    "RS": "09662",
+    "AGS": "09662",
+    "GEN": "Schweinfurt",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 54032,
+    "AGS_0": "09662000",
+    "BL": "Bayern",
+    "death_rate": 6.97674418604651,
+    "cases": 258,
+    "deaths": 18,
+    "cases_per_100k": 477.494817885697,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.477494817885697,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 295,
+    "RS": "09663",
+    "AGS": "09663",
+    "GEN": "Würzburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 127880,
+    "AGS_0": "09663000",
+    "BL": "Bayern",
+    "death_rate": 6.2575210589651,
+    "cases": 831,
+    "deaths": 52,
+    "cases_per_100k": 649.827963715984,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.649827963715984,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 296,
+    "RS": "09671",
+    "AGS": "09671",
+    "GEN": "Aschaffenburg",
+    "BEZ": "Landkreis",
+    "EWZ": 174208,
+    "AGS_0": "09671000",
+    "BL": "Bayern",
+    "death_rate": 5.81717451523546,
+    "cases": 722,
+    "deaths": 42,
+    "cases_per_100k": 414.447097722263,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.414447097722263,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 297,
+    "RS": "09672",
+    "AGS": "09672",
+    "GEN": "Bad Kissingen",
+    "BEZ": "Landkreis",
+    "EWZ": 103218,
+    "AGS_0": "09672000",
+    "BL": "Bayern",
+    "death_rate": 6.08108108108108,
+    "cases": 296,
+    "deaths": 18,
+    "cases_per_100k": 286.771687108838,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.286771687108838,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 298,
+    "RS": "09673",
+    "AGS": "09673",
+    "GEN": "Rhön-Grabfeld",
+    "BEZ": "Landkreis",
+    "EWZ": 79690,
+    "AGS_0": "09673000",
+    "BL": "Bayern",
+    "death_rate": 2.62295081967213,
+    "cases": 305,
+    "deaths": 8,
+    "cases_per_100k": 382.733090726565,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.382733090726565,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 299,
+    "RS": "09674",
+    "AGS": "09674",
+    "GEN": "Haßberge",
+    "BEZ": "Landkreis",
+    "EWZ": 84599,
+    "AGS_0": "09674000",
+    "BL": "Bayern",
+    "death_rate": 2.53164556962025,
+    "cases": 237,
+    "deaths": 6,
+    "cases_per_100k": 280.145155380087,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.280145155380087,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 300,
+    "RS": "09675",
+    "AGS": "09675",
+    "GEN": "Kitzingen",
+    "BEZ": "Landkreis",
+    "EWZ": 90909,
+    "AGS_0": "09675000",
+    "BL": "Bayern",
+    "death_rate": 1.32890365448505,
+    "cases": 301,
+    "deaths": 4,
+    "cases_per_100k": 331.100331100331,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.331100331100331,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 301,
+    "RS": "09676",
+    "AGS": "09676",
+    "GEN": "Miltenberg",
+    "BEZ": "Landkreis",
+    "EWZ": 128756,
+    "AGS_0": "09676000",
+    "BL": "Bayern",
+    "death_rate": 1.31291028446389,
+    "cases": 457,
+    "deaths": 6,
+    "cases_per_100k": 354.934915654416,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.354934915654416,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 302,
+    "RS": "09677",
+    "AGS": "09677",
+    "GEN": "Main-Spessart",
+    "BEZ": "Landkreis",
+    "EWZ": 126365,
+    "AGS_0": "09677000",
+    "BL": "Bayern",
+    "death_rate": 2.36220472440945,
+    "cases": 254,
+    "deaths": 6,
+    "cases_per_100k": 201.005025125628,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.201005025125628,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 303,
+    "RS": "09678",
+    "AGS": "09678",
+    "GEN": "Schweinfurt",
+    "BEZ": "Landkreis",
+    "EWZ": 115106,
+    "AGS_0": "09678000",
+    "BL": "Bayern",
+    "death_rate": 3.61271676300578,
+    "cases": 692,
+    "deaths": 25,
+    "cases_per_100k": 601.184994700537,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.601184994700537,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 304,
+    "RS": "09679",
+    "AGS": "09679",
+    "GEN": "Würzburg",
+    "BEZ": "Landkreis",
+    "EWZ": 161834,
+    "AGS_0": "09679000",
+    "BL": "Bayern",
+    "death_rate": 1.04633781763827,
+    "cases": 669,
+    "deaths": 7,
+    "cases_per_100k": 413.386556595029,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.413386556595029,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 305,
+    "RS": "09761",
+    "AGS": "09761",
+    "GEN": "Augsburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 295135,
+    "AGS_0": "09761000",
+    "BL": "Bayern",
+    "death_rate": 1.44014401440144,
+    "cases": 1111,
+    "deaths": 16,
+    "cases_per_100k": 376.437901299405,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.376437901299405,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 306,
+    "RS": "09762",
+    "AGS": "09762",
+    "GEN": "Kaufbeuren",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 43893,
+    "AGS_0": "09762000",
+    "BL": "Bayern",
+    "death_rate": 4.41176470588235,
+    "cases": 204,
+    "deaths": 9,
+    "cases_per_100k": 464.766591483836,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.464766591483836,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 307,
+    "RS": "09763",
+    "AGS": "09763",
+    "GEN": "Kempten (Allgäu)",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 68907,
+    "AGS_0": "09763000",
+    "BL": "Bayern",
+    "death_rate": 5.23560209424084,
+    "cases": 191,
+    "deaths": 10,
+    "cases_per_100k": 277.185191635102,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.277185191635102,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 308,
+    "RS": "09764",
+    "AGS": "09764",
+    "GEN": "Memmingen",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 43837,
+    "AGS_0": "09764000",
+    "BL": "Bayern",
+    "death_rate": 0.649350649350649,
+    "cases": 154,
+    "deaths": 1,
+    "cases_per_100k": 351.301412049182,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.351301412049182,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 309,
+    "RS": "09771",
+    "AGS": "09771",
+    "GEN": "Aichach-Friedberg",
+    "BEZ": "Landkreis",
+    "EWZ": 133596,
+    "AGS_0": "09771000",
+    "BL": "Bayern",
+    "death_rate": 3.92927308447937,
+    "cases": 509,
+    "deaths": 20,
+    "cases_per_100k": 380.999431120692,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.380999431120692,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 310,
+    "RS": "09772",
+    "AGS": "09772",
+    "GEN": "Augsburg",
+    "BEZ": "Landkreis",
+    "EWZ": 251534,
+    "AGS_0": "09772000",
+    "BL": "Bayern",
+    "death_rate": 1.47255689424364,
+    "cases": 747,
+    "deaths": 11,
+    "cases_per_100k": 296.977744559384,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.296977744559384,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 311,
+    "RS": "09773",
+    "AGS": "09773",
+    "GEN": "Dillingen a.d. Donau",
+    "BEZ": "Landkreis",
+    "EWZ": 96021,
+    "AGS_0": "09773000",
+    "BL": "Bayern",
+    "death_rate": 7.47422680412371,
+    "cases": 388,
+    "deaths": 29,
+    "cases_per_100k": 404.07827454411,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.40407827454411,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 312,
+    "RS": "09774",
+    "AGS": "09774",
+    "GEN": "Günzburg",
+    "BEZ": "Landkreis",
+    "EWZ": 125747,
+    "AGS_0": "09774000",
+    "BL": "Bayern",
+    "death_rate": 0.917431192660551,
+    "cases": 436,
+    "deaths": 4,
+    "cases_per_100k": 346.7279537484,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.3467279537484,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 313,
+    "RS": "09775",
+    "AGS": "09775",
+    "GEN": "Neu-Ulm",
+    "BEZ": "Landkreis",
+    "EWZ": 174200,
+    "AGS_0": "09775000",
+    "BL": "Bayern",
+    "death_rate": 3.13630880579011,
+    "cases": 829,
+    "deaths": 26,
+    "cases_per_100k": 475.889781859931,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.475889781859931,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 314,
+    "RS": "09776",
+    "AGS": "09776",
+    "GEN": "Lindau (Bodensee)",
+    "BEZ": "Landkreis",
+    "EWZ": 81669,
+    "AGS_0": "09776000",
+    "BL": "Bayern",
+    "death_rate": 2.46913580246914,
+    "cases": 324,
+    "deaths": 8,
+    "cases_per_100k": 396.723358924439,
+    "cases7day": [
+      4
+    ],
+    "cases_per_population": 0.396723358924439,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 315,
+    "RS": "09777",
+    "AGS": "09777",
+    "GEN": "Ostallgäu",
+    "BEZ": "Landkreis",
+    "EWZ": 140316,
+    "AGS_0": "09777000",
+    "BL": "Bayern",
+    "death_rate": 5.61009817671809,
+    "cases": 713,
+    "deaths": 40,
+    "cases_per_100k": 508.138772484962,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.508138772484963,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 316,
+    "RS": "09778",
+    "AGS": "09778",
+    "GEN": "Unterallgäu",
+    "BEZ": "Landkreis",
+    "EWZ": 144041,
+    "AGS_0": "09778000",
+    "BL": "Bayern",
+    "death_rate": 3.46232179226069,
+    "cases": 491,
+    "deaths": 17,
+    "cases_per_100k": 340.875167487035,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.340875167487035,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 317,
+    "RS": "09779",
+    "AGS": "09779",
+    "GEN": "Donau-Ries",
+    "BEZ": "Landkreis",
+    "EWZ": 133496,
+    "AGS_0": "09779000",
+    "BL": "Bayern",
+    "death_rate": 5.11811023622047,
+    "cases": 508,
+    "deaths": 26,
+    "cases_per_100k": 380.535746389405,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.380535746389405,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 318,
+    "RS": "09780",
+    "AGS": "09780",
+    "GEN": "Oberallgäu",
+    "BEZ": "Landkreis",
+    "EWZ": 155362,
+    "AGS_0": "09780000",
+    "BL": "Bayern",
+    "death_rate": 2.35690235690236,
+    "cases": 297,
+    "deaths": 7,
+    "cases_per_100k": 191.1664370953,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.1911664370953,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 319,
+    "RS": "10041",
+    "AGS": "10041",
+    "GEN": "Regionalverband Saarbrücken",
+    "BEZ": "Landkreis",
+    "EWZ": 329708,
+    "AGS_0": "10041000",
+    "BL": "Saarland",
+    "death_rate": 8.06223479490806,
+    "cases": 1414,
+    "deaths": 114,
+    "cases_per_100k": 428.864328436071,
+    "cases7day": [
+      7
+    ],
+    "cases_per_population": 0.428864328436071,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 320,
+    "RS": "10042",
+    "AGS": "10042",
+    "GEN": "Merzig-Wadern",
+    "BEZ": "Landkreis",
+    "EWZ": 103366,
+    "AGS_0": "10042000",
+    "BL": "Saarland",
+    "death_rate": 0.952380952380952,
+    "cases": 315,
+    "deaths": 3,
+    "cases_per_100k": 304.742371766345,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.304742371766345,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 321,
+    "RS": "10043",
+    "AGS": "10043",
+    "GEN": "Neunkirchen",
+    "BEZ": "Landkreis",
+    "EWZ": 132206,
+    "AGS_0": "10043000",
+    "BL": "Saarland",
+    "death_rate": 3.2967032967033,
+    "cases": 364,
+    "deaths": 12,
+    "cases_per_100k": 275.327897372283,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.275327897372283,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 322,
+    "RS": "10044",
+    "AGS": "10044",
+    "GEN": "Saarlouis",
+    "BEZ": "Landkreis",
+    "EWZ": 195201,
+    "AGS_0": "10044000",
+    "BL": "Saarland",
+    "death_rate": 3.26086956521739,
+    "cases": 736,
+    "deaths": 24,
+    "cases_per_100k": 377.047248733357,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.377047248733357,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 323,
+    "RS": "10045",
+    "AGS": "10045",
+    "GEN": "Saarpfalz-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 142631,
+    "AGS_0": "10045000",
+    "BL": "Saarland",
+    "death_rate": 3.93873085339168,
+    "cases": 457,
+    "deaths": 18,
+    "cases_per_100k": 320.40720460489,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.32040720460489,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 324,
+    "RS": "10046",
+    "AGS": "10046",
+    "GEN": "St. Wendel",
+    "BEZ": "Landkreis",
+    "EWZ": 87397,
+    "AGS_0": "10046000",
+    "BL": "Saarland",
+    "death_rate": 2.95566502463054,
+    "cases": 203,
+    "deaths": 6,
+    "cases_per_100k": 232.273418996075,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.232273418996075,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 326,
+    "RS": "12051",
+    "AGS": "12051",
+    "GEN": "Brandenburg an der Havel",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 72124,
+    "AGS_0": "12051000",
+    "BL": "Brandenburg",
+    "death_rate": 1.23456790123457,
+    "cases": 81,
+    "deaths": 1,
+    "cases_per_100k": 112.306583106872,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.112306583106872,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 327,
+    "RS": "12052",
+    "AGS": "12052",
+    "GEN": "Cottbus",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 100219,
+    "AGS_0": "12052000",
+    "BL": "Brandenburg",
+    "death_rate": 0.0,
+    "cases": 67,
+    "deaths": 0,
+    "cases_per_100k": 66.8535906365061,
+    "cases7day": [
+      10
+    ],
+    "cases_per_population": 0.066853590636506,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 328,
+    "RS": "12053",
+    "AGS": "12053",
+    "GEN": "Frankfurt (Oder)",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 57873,
+    "AGS_0": "12053000",
+    "BL": "Brandenburg",
+    "death_rate": 0.0,
+    "cases": 78,
+    "deaths": 0,
+    "cases_per_100k": 134.777875693329,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.134777875693329,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 329,
+    "RS": "12054",
+    "AGS": "12054",
+    "GEN": "Potsdam",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 178089,
+    "AGS_0": "12054000",
+    "BL": "Brandenburg",
+    "death_rate": 6.91056910569106,
+    "cases": 738,
+    "deaths": 51,
+    "cases_per_100k": 414.399541802133,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.414399541802133,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 330,
+    "RS": "12060",
+    "AGS": "12060",
+    "GEN": "Barnim",
+    "BEZ": "Landkreis",
+    "EWZ": 182760,
+    "AGS_0": "12060000",
+    "BL": "Brandenburg",
+    "death_rate": 5.74257425742574,
+    "cases": 505,
+    "deaths": 29,
+    "cases_per_100k": 276.318669293062,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.276318669293062,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 331,
+    "RS": "12061",
+    "AGS": "12061",
+    "GEN": "Dahme-Spreewald",
+    "BEZ": "Landkreis",
+    "EWZ": 169067,
+    "AGS_0": "12061000",
+    "BL": "Brandenburg",
+    "death_rate": 2.33918128654971,
+    "cases": 342,
+    "deaths": 8,
+    "cases_per_100k": 202.286667415877,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.202286667415877,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 332,
+    "RS": "12062",
+    "AGS": "12062",
+    "GEN": "Elbe-Elster",
+    "BEZ": "Landkreis",
+    "EWZ": 102638,
+    "AGS_0": "12062000",
+    "BL": "Brandenburg",
+    "death_rate": 2.72727272727273,
+    "cases": 110,
+    "deaths": 3,
+    "cases_per_100k": 107.172782010561,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.107172782010561,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 333,
+    "RS": "12063",
+    "AGS": "12063",
+    "GEN": "Havelland",
+    "BEZ": "Landkreis",
+    "EWZ": 161909,
+    "AGS_0": "12063000",
+    "BL": "Brandenburg",
+    "death_rate": 2.1978021978022,
+    "cases": 273,
+    "deaths": 6,
+    "cases_per_100k": 168.61323335948,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.16861323335948,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 334,
+    "RS": "12064",
+    "AGS": "12064",
+    "GEN": "Märkisch-Oderland",
+    "BEZ": "Landkreis",
+    "EWZ": 194328,
+    "AGS_0": "12064000",
+    "BL": "Brandenburg",
+    "death_rate": 1.32450331125828,
+    "cases": 302,
+    "deaths": 4,
+    "cases_per_100k": 155.407352517393,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.155407352517393,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 335,
+    "RS": "12065",
+    "AGS": "12065",
+    "GEN": "Oberhavel",
+    "BEZ": "Landkreis",
+    "EWZ": 211249,
+    "AGS_0": "12065000",
+    "BL": "Brandenburg",
+    "death_rate": 2.19512195121951,
+    "cases": 410,
+    "deaths": 9,
+    "cases_per_100k": 194.083758976374,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.194083758976374,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 336,
+    "RS": "12066",
+    "AGS": "12066",
+    "GEN": "Oberspreewald-Lausitz",
+    "BEZ": "Landkreis",
+    "EWZ": 110476,
+    "AGS_0": "12066000",
+    "BL": "Brandenburg",
+    "death_rate": 2.38095238095238,
+    "cases": 84,
+    "deaths": 2,
+    "cases_per_100k": 76.0346138527825,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.0760346138527825,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 337,
+    "RS": "12067",
+    "AGS": "12067",
+    "GEN": "Oder-Spree",
+    "BEZ": "Landkreis",
+    "EWZ": 178658,
+    "AGS_0": "12067000",
+    "BL": "Brandenburg",
+    "death_rate": 1.36363636363636,
+    "cases": 220,
+    "deaths": 3,
+    "cases_per_100k": 123.140301581793,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.123140301581793,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 338,
+    "RS": "12068",
+    "AGS": "12068",
+    "GEN": "Ostprignitz-Ruppin",
+    "BEZ": "Landkreis",
+    "EWZ": 99078,
+    "AGS_0": "12068000",
+    "BL": "Brandenburg",
+    "death_rate": 0.0,
+    "cases": 115,
+    "deaths": 0,
+    "cases_per_100k": 116.070166939179,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.116070166939179,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 339,
+    "RS": "12069",
+    "AGS": "12069",
+    "GEN": "Potsdam-Mittelmark",
+    "BEZ": "Landkreis",
+    "EWZ": 214664,
+    "AGS_0": "12069000",
+    "BL": "Brandenburg",
+    "death_rate": 5.55555555555556,
+    "cases": 684,
+    "deaths": 38,
+    "cases_per_100k": 318.637498602467,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.318637498602467,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 340,
+    "RS": "12070",
+    "AGS": "12070",
+    "GEN": "Prignitz",
+    "BEZ": "Landkreis",
+    "EWZ": 76508,
+    "AGS_0": "12070000",
+    "BL": "Brandenburg",
+    "death_rate": 0.0,
+    "cases": 49,
+    "deaths": 0,
+    "cases_per_100k": 64.0455900036598,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0640455900036598,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 341,
+    "RS": "12071",
+    "AGS": "12071",
+    "GEN": "Spree-Neiße",
+    "BEZ": "Landkreis",
+    "EWZ": 114429,
+    "AGS_0": "12071000",
+    "BL": "Brandenburg",
+    "death_rate": 0.0,
+    "cases": 81,
+    "deaths": 0,
+    "cases_per_100k": 70.7862517368849,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0707862517368849,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 342,
+    "RS": "12072",
+    "AGS": "12072",
+    "GEN": "Teltow-Fläming",
+    "BEZ": "Landkreis",
+    "EWZ": 168296,
+    "AGS_0": "12072000",
+    "BL": "Brandenburg",
+    "death_rate": 4.52961672473868,
+    "cases": 287,
+    "deaths": 13,
+    "cases_per_100k": 170.532870656462,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.170532870656462,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 343,
+    "RS": "12073",
+    "AGS": "12073",
+    "GEN": "Uckermark",
+    "BEZ": "Landkreis",
+    "EWZ": 119552,
+    "AGS_0": "12073000",
+    "BL": "Brandenburg",
+    "death_rate": 3.50877192982456,
+    "cases": 57,
+    "deaths": 2,
+    "cases_per_100k": 47.6779978586724,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0476779978586724,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 344,
+    "RS": "13003",
+    "AGS": "13003",
+    "GEN": "Rostock",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 208886,
+    "AGS_0": "13003000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 0.970873786407767,
+    "cases": 206,
+    "deaths": 2,
+    "cases_per_100k": 98.6183851478797,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.0986183851478797,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 345,
+    "RS": "13004",
+    "AGS": "13004",
+    "GEN": "Schwerin",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 95818,
+    "AGS_0": "13004000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 0.0,
+    "cases": 134,
+    "deaths": 0,
+    "cases_per_100k": 139.848462710555,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.139848462710555,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 346,
+    "RS": "13071",
+    "AGS": "13071",
+    "GEN": "Mecklenburgische Seenplatte",
+    "BEZ": "Landkreis",
+    "EWZ": 259130,
+    "AGS_0": "13071000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 1.52284263959391,
+    "cases": 197,
+    "deaths": 3,
+    "cases_per_100k": 76.0236174892911,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0760236174892911,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 347,
+    "RS": "13072",
+    "AGS": "13072",
+    "GEN": "Rostock",
+    "BEZ": "Landkreis",
+    "EWZ": 215113,
+    "AGS_0": "13072000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 2.80373831775701,
+    "cases": 107,
+    "deaths": 3,
+    "cases_per_100k": 49.7412987592568,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.0497412987592568,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 348,
+    "RS": "13073",
+    "AGS": "13073",
+    "GEN": "Vorpommern-Rügen",
+    "BEZ": "Landkreis",
+    "EWZ": 224684,
+    "AGS_0": "13073000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 1.53846153846154,
+    "cases": 130,
+    "deaths": 2,
+    "cases_per_100k": 57.8590375816703,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.0578590375816703,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 349,
+    "RS": "13074",
+    "AGS": "13074",
+    "GEN": "Nordwestmecklenburg",
+    "BEZ": "Landkreis",
+    "EWZ": 156729,
+    "AGS_0": "13074000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 0.675675675675676,
+    "cases": 148,
+    "deaths": 1,
+    "cases_per_100k": 94.4305138168431,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0944305138168431,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 350,
+    "RS": "13075",
+    "AGS": "13075",
+    "GEN": "Vorpommern-Greifswald",
+    "BEZ": "Landkreis",
+    "EWZ": 236697,
+    "AGS_0": "13075000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 3.41463414634146,
+    "cases": 205,
+    "deaths": 7,
+    "cases_per_100k": 86.6086177687085,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0866086177687085,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 351,
+    "RS": "13076",
+    "AGS": "13076",
+    "GEN": "Ludwigslust-Parchim",
+    "BEZ": "Landkreis",
+    "EWZ": 212618,
+    "AGS_0": "13076000",
+    "BL": "Mecklenburg-Vorpommern",
+    "death_rate": 1.12994350282486,
+    "cases": 177,
+    "deaths": 2,
+    "cases_per_100k": 83.2478905831115,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.0832478905831115,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 352,
+    "RS": "14511",
+    "AGS": "14511",
+    "GEN": "Chemnitz",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 247237,
+    "AGS_0": "14511000",
+    "BL": "Sachsen",
+    "death_rate": 1.70940170940171,
+    "cases": 351,
+    "deaths": 6,
+    "cases_per_100k": 141.969041850532,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.141969041850532,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 353,
+    "RS": "14521",
+    "AGS": "14521",
+    "GEN": "Erzgebirgskreis",
+    "BEZ": "Landkreis",
+    "EWZ": 337696,
+    "AGS_0": "14521000",
+    "BL": "Sachsen",
+    "death_rate": 5.56818181818182,
+    "cases": 880,
+    "deaths": 49,
+    "cases_per_100k": 260.589405856155,
+    "cases7day": [
+      58
+    ],
+    "cases_per_population": 0.260589405856155,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 354,
+    "RS": "14522",
+    "AGS": "14522",
+    "GEN": "Mittelsachsen",
+    "BEZ": "Landkreis",
+    "EWZ": 306185,
+    "AGS_0": "14522000",
+    "BL": "Sachsen",
+    "death_rate": 2.04081632653061,
+    "cases": 441,
+    "deaths": 9,
+    "cases_per_100k": 144.03056975358,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.14403056975358,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 355,
+    "RS": "14523",
+    "AGS": "14523",
+    "GEN": "Vogtlandkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 227796,
+    "AGS_0": "14523000",
+    "BL": "Sachsen",
+    "death_rate": 3.85144429160935,
+    "cases": 727,
+    "deaths": 28,
+    "cases_per_100k": 319.14520009131,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.31914520009131,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 356,
+    "RS": "14524",
+    "AGS": "14524",
+    "GEN": "Zwickau",
+    "BEZ": "Landkreis",
+    "EWZ": 317531,
+    "AGS_0": "14524000",
+    "BL": "Sachsen",
+    "death_rate": 5.17578125,
+    "cases": 1024,
+    "deaths": 53,
+    "cases_per_100k": 322.488198002715,
+    "cases7day": [
+      13
+    ],
+    "cases_per_population": 0.322488198002715,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 357,
+    "RS": "14612",
+    "AGS": "14612",
+    "GEN": "Dresden",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 554649,
+    "AGS_0": "14612000",
+    "BL": "Sachsen",
+    "death_rate": 1.30718954248366,
+    "cases": 918,
+    "deaths": 12,
+    "cases_per_100k": 165.510079347479,
+    "cases7day": [
+      26
+    ],
+    "cases_per_population": 0.165510079347479,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 358,
+    "RS": "14625",
+    "AGS": "14625",
+    "GEN": "Bautzen",
+    "BEZ": "Landkreis",
+    "EWZ": 300880,
+    "AGS_0": "14625000",
+    "BL": "Sachsen",
+    "death_rate": 3.50609756097561,
+    "cases": 656,
+    "deaths": 23,
+    "cases_per_100k": 218.02712044669,
+    "cases7day": [
+      16
+    ],
+    "cases_per_population": 0.21802712044669,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 359,
+    "RS": "14626",
+    "AGS": "14626",
+    "GEN": "Görlitz",
+    "BEZ": "Landkreis",
+    "EWZ": 254894,
+    "AGS_0": "14626000",
+    "BL": "Sachsen",
+    "death_rate": 6.02409638554217,
+    "cases": 415,
+    "deaths": 25,
+    "cases_per_100k": 162.812777075961,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.162812777075961,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 360,
+    "RS": "14627",
+    "AGS": "14627",
+    "GEN": "Meißen",
+    "BEZ": "Landkreis",
+    "EWZ": 242165,
+    "AGS_0": "14627000",
+    "BL": "Sachsen",
+    "death_rate": 6.75675675675676,
+    "cases": 296,
+    "deaths": 20,
+    "cases_per_100k": 122.230710466005,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.122230710466005,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 361,
+    "RS": "14628",
+    "AGS": "14628",
+    "GEN": "Sächsische Schweiz-Osterzgebirge",
+    "BEZ": "Landkreis",
+    "EWZ": 245611,
+    "AGS_0": "14628000",
+    "BL": "Sachsen",
+    "death_rate": 0.416666666666667,
+    "cases": 480,
+    "deaths": 2,
+    "cases_per_100k": 195.430986397189,
+    "cases7day": [
+      6
+    ],
+    "cases_per_population": 0.195430986397189,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 362,
+    "RS": "14713",
+    "AGS": "14713",
+    "GEN": "Leipzig",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 587857,
+    "AGS_0": "14713000",
+    "BL": "Sachsen",
+    "death_rate": 1.26448893572181,
+    "cases": 949,
+    "deaths": 12,
+    "cases_per_100k": 161.433818088413,
+    "cases7day": [
+      8
+    ],
+    "cases_per_population": 0.161433818088413,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 363,
+    "RS": "14729",
+    "AGS": "14729",
+    "GEN": "Leipzig",
+    "BEZ": "Landkreis",
+    "EWZ": 257763,
+    "AGS_0": "14729000",
+    "BL": "Sachsen",
+    "death_rate": 1.54440154440154,
+    "cases": 259,
+    "deaths": 4,
+    "cases_per_100k": 100.479898201061,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.100479898201061,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 364,
+    "RS": "14730",
+    "AGS": "14730",
+    "GEN": "Nordsachsen",
+    "BEZ": "Landkreis",
+    "EWZ": 197673,
+    "AGS_0": "14730000",
+    "BL": "Sachsen",
+    "death_rate": 0.0,
+    "cases": 283,
+    "deaths": 0,
+    "cases_per_100k": 143.165733307027,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.143165733307027,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 365,
+    "RS": "15001",
+    "AGS": "15001",
+    "GEN": "Dessau-Roßlau",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 81237,
+    "AGS_0": "15001000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 2.52100840336134,
+    "cases": 119,
+    "deaths": 3,
+    "cases_per_100k": 146.484976057708,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.146484976057708,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 366,
+    "RS": "15002",
+    "AGS": "15002",
+    "GEN": "Halle (Saale)",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 239257,
+    "AGS_0": "15002000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 2.74509803921569,
+    "cases": 510,
+    "deaths": 14,
+    "cases_per_100k": 213.159907547115,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.213159907547115,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 367,
+    "RS": "15003",
+    "AGS": "15003",
+    "GEN": "Magdeburg",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 238697,
+    "AGS_0": "15003000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 1.21359223300971,
+    "cases": 412,
+    "deaths": 5,
+    "cases_per_100k": 172.603761253807,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.172603761253807,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 368,
+    "RS": "15081",
+    "AGS": "15081",
+    "GEN": "Altmarkkreis Salzwedel",
+    "BEZ": "Landkreis",
+    "EWZ": 83765,
+    "AGS_0": "15081000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 1.69491525423729,
+    "cases": 59,
+    "deaths": 1,
+    "cases_per_100k": 70.43514594401,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.07043514594401,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 369,
+    "RS": "15082",
+    "AGS": "15082",
+    "GEN": "Anhalt-Bitterfeld",
+    "BEZ": "Landkreis",
+    "EWZ": 159854,
+    "AGS_0": "15082000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 1.76991150442478,
+    "cases": 113,
+    "deaths": 2,
+    "cases_per_100k": 70.6895041725575,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.0706895041725575,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 370,
+    "RS": "15083",
+    "AGS": "15083",
+    "GEN": "Börde",
+    "BEZ": "Landkreis",
+    "EWZ": 171734,
+    "AGS_0": "15083000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 6.2200956937799,
+    "cases": 209,
+    "deaths": 13,
+    "cases_per_100k": 121.699838121746,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.121699838121746,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 371,
+    "RS": "15084",
+    "AGS": "15084",
+    "GEN": "Burgenlandkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 180190,
+    "AGS_0": "15084000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 1.38248847926267,
+    "cases": 217,
+    "deaths": 3,
+    "cases_per_100k": 120.428436650203,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.120428436650203,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 372,
+    "RS": "15085",
+    "AGS": "15085",
+    "GEN": "Harz",
+    "BEZ": "Landkreis",
+    "EWZ": 214446,
+    "AGS_0": "15085000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 2.06896551724138,
+    "cases": 290,
+    "deaths": 6,
+    "cases_per_100k": 135.232179662945,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.135232179662945,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 373,
+    "RS": "15086",
+    "AGS": "15086",
+    "GEN": "Jerichower Land",
+    "BEZ": "Landkreis",
+    "EWZ": 89928,
+    "AGS_0": "15086000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 2.8169014084507,
+    "cases": 71,
+    "deaths": 2,
+    "cases_per_100k": 78.9520505293123,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.0789520505293123,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 374,
+    "RS": "15087",
+    "AGS": "15087",
+    "GEN": "Mansfeld-Südharz",
+    "BEZ": "Landkreis",
+    "EWZ": 136249,
+    "AGS_0": "15087000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 2.27272727272727,
+    "cases": 88,
+    "deaths": 2,
+    "cases_per_100k": 64.5876300009541,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0645876300009541,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 375,
+    "RS": "15088",
+    "AGS": "15088",
+    "GEN": "Saalekreis",
+    "BEZ": "Landkreis",
+    "EWZ": 184582,
+    "AGS_0": "15088000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 3.62694300518135,
+    "cases": 193,
+    "deaths": 7,
+    "cases_per_100k": 104.560574703926,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.104560574703926,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 376,
+    "RS": "15089",
+    "AGS": "15089",
+    "GEN": "Salzlandkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 190560,
+    "AGS_0": "15089000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 0.8,
+    "cases": 125,
+    "deaths": 1,
+    "cases_per_100k": 65.5961376994123,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0655961376994123,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 377,
+    "RS": "15090",
+    "AGS": "15090",
+    "GEN": "Stendal",
+    "BEZ": "Landkreis",
+    "EWZ": 111982,
+    "AGS_0": "15090000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 4.7244094488189,
+    "cases": 127,
+    "deaths": 6,
+    "cases_per_100k": 113.411083924202,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.113411083924202,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 378,
+    "RS": "15091",
+    "AGS": "15091",
+    "GEN": "Wittenberg",
+    "BEZ": "Landkreis",
+    "EWZ": 125840,
+    "AGS_0": "15091000",
+    "BL": "Sachsen-Anhalt",
+    "death_rate": 1.2448132780083,
+    "cases": 241,
+    "deaths": 3,
+    "cases_per_100k": 191.513032422123,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.191513032422123,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 379,
+    "RS": "16051",
+    "AGS": "16051",
+    "GEN": "Erfurt",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 213699,
+    "AGS_0": "16051000",
+    "BL": "Thüringen",
+    "death_rate": 0.806451612903226,
+    "cases": 248,
+    "deaths": 2,
+    "cases_per_100k": 116.051081193642,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.116051081193642,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 380,
+    "RS": "16052",
+    "AGS": "16052",
+    "GEN": "Gera",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 94152,
+    "AGS_0": "16052000",
+    "BL": "Thüringen",
+    "death_rate": 7.48299319727891,
+    "cases": 294,
+    "deaths": 22,
+    "cases_per_100k": 312.261024725975,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.312261024725975,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 381,
+    "RS": "16053",
+    "AGS": "16053",
+    "GEN": "Jena",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 111407,
+    "AGS_0": "16053000",
+    "BL": "Thüringen",
+    "death_rate": 1.3215859030837,
+    "cases": 227,
+    "deaths": 3,
+    "cases_per_100k": 203.757394059619,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.203757394059619,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 382,
+    "RS": "16054",
+    "AGS": "16054",
+    "GEN": "Suhl",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 34835,
+    "AGS_0": "16054000",
+    "BL": "Thüringen",
+    "death_rate": 5.88235294117647,
+    "cases": 34,
+    "deaths": 2,
+    "cases_per_100k": 97.602985503086,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.097602985503086,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 383,
+    "RS": "16055",
+    "AGS": "16055",
+    "GEN": "Weimar",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 65090,
+    "AGS_0": "16055000",
+    "BL": "Thüringen",
+    "death_rate": 0.0,
+    "cases": 141,
+    "deaths": 0,
+    "cases_per_100k": 216.623137194654,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.216623137194654,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 384,
+    "RS": "16056",
+    "AGS": "16056",
+    "GEN": "Eisenach",
+    "BEZ": "Kreisfreie Stadt",
+    "EWZ": 42370,
+    "AGS_0": "16056000",
+    "BL": "Thüringen",
+    "death_rate": 9.09090909090909,
+    "cases": 44,
+    "deaths": 4,
+    "cases_per_100k": 103.847061600189,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.103847061600189,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 385,
+    "RS": "16061",
+    "AGS": "16061",
+    "GEN": "Eichsfeld",
+    "BEZ": "Landkreis",
+    "EWZ": 100380,
+    "AGS_0": "16061000",
+    "BL": "Thüringen",
+    "death_rate": 6.17977528089888,
+    "cases": 178,
+    "deaths": 11,
+    "cases_per_100k": 177.326160589759,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.177326160589759,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 386,
+    "RS": "16062",
+    "AGS": "16062",
+    "GEN": "Nordhausen",
+    "BEZ": "Landkreis",
+    "EWZ": 83822,
+    "AGS_0": "16062000",
+    "BL": "Thüringen",
+    "death_rate": 2.63157894736842,
+    "cases": 76,
+    "deaths": 2,
+    "cases_per_100k": 90.6683209658562,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.0906683209658562,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 387,
+    "RS": "16063",
+    "AGS": "16063",
+    "GEN": "Wartburgkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 123025,
+    "AGS_0": "16063000",
+    "BL": "Thüringen",
+    "death_rate": 1.40845070422535,
+    "cases": 142,
+    "deaths": 2,
+    "cases_per_100k": 115.423694371063,
+    "cases7day": [
+      3
+    ],
+    "cases_per_population": 0.115423694371063,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 388,
+    "RS": "16064",
+    "AGS": "16064",
+    "GEN": "Unstrut-Hainich-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 102912,
+    "AGS_0": "16064000",
+    "BL": "Thüringen",
+    "death_rate": 2.56410256410256,
+    "cases": 117,
+    "deaths": 3,
+    "cases_per_100k": 113.689365671642,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.113689365671642,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 389,
+    "RS": "16065",
+    "AGS": "16065",
+    "GEN": "Kyffhäuserkreis",
+    "BEZ": "Landkreis",
+    "EWZ": 75009,
+    "AGS_0": "16065000",
+    "BL": "Thüringen",
+    "death_rate": 0.0,
+    "cases": 68,
+    "deaths": 0,
+    "cases_per_100k": 90.65578797211,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.09065578797211,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 390,
+    "RS": "16066",
+    "AGS": "16066",
+    "GEN": "Schmalkalden-Meiningen",
+    "BEZ": "Landkreis",
+    "EWZ": 122347,
+    "AGS_0": "16066000",
+    "BL": "Thüringen",
+    "death_rate": 2.88461538461538,
+    "cases": 208,
+    "deaths": 6,
+    "cases_per_100k": 170.008255208546,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.170008255208546,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 391,
+    "RS": "16067",
+    "AGS": "16067",
+    "GEN": "Gotha",
+    "BEZ": "Landkreis",
+    "EWZ": 135452,
+    "AGS_0": "16067000",
+    "BL": "Thüringen",
+    "death_rate": 8.21917808219178,
+    "cases": 365,
+    "deaths": 30,
+    "cases_per_100k": 269.468151079349,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.269468151079349,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 392,
+    "RS": "16068",
+    "AGS": "16068",
+    "GEN": "Sömmerda",
+    "BEZ": "Landkreis",
+    "EWZ": 69655,
+    "AGS_0": "16068000",
+    "BL": "Thüringen",
+    "death_rate": 1.49253731343284,
+    "cases": 67,
+    "deaths": 1,
+    "cases_per_100k": 96.1883569018735,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.0961883569018735,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 393,
+    "RS": "16069",
+    "AGS": "16069",
+    "GEN": "Hildburghausen",
+    "BEZ": "Landkreis",
+    "EWZ": 63553,
+    "AGS_0": "16069000",
+    "BL": "Thüringen",
+    "death_rate": 1.04166666666667,
+    "cases": 96,
+    "deaths": 1,
+    "cases_per_100k": 151.055024939814,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.151055024939814,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 394,
+    "RS": "16070",
+    "AGS": "16070",
+    "GEN": "Ilm-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 108742,
+    "AGS_0": "16070000",
+    "BL": "Thüringen",
+    "death_rate": 3.21100917431193,
+    "cases": 218,
+    "deaths": 7,
+    "cases_per_100k": 200.474517665667,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.200474517665667,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 395,
+    "RS": "16071",
+    "AGS": "16071",
+    "GEN": "Weimarer Land",
+    "BEZ": "Landkreis",
+    "EWZ": 81947,
+    "AGS_0": "16071000",
+    "BL": "Thüringen",
+    "death_rate": 3.97350993377483,
+    "cases": 151,
+    "deaths": 6,
+    "cases_per_100k": 184.265439857469,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.184265439857469,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 396,
+    "RS": "16072",
+    "AGS": "16072",
+    "GEN": "Sonneberg",
+    "BEZ": "Landkreis",
+    "EWZ": 56196,
+    "AGS_0": "16072000",
+    "BL": "Thüringen",
+    "death_rate": 6.81114551083591,
+    "cases": 323,
+    "deaths": 22,
+    "cases_per_100k": 574.774005267279,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.574774005267279,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 397,
+    "RS": "16073",
+    "AGS": "16073",
+    "GEN": "Saalfeld-Rudolstadt",
+    "BEZ": "Landkreis",
+    "EWZ": 106356,
+    "AGS_0": "16073000",
+    "BL": "Thüringen",
+    "death_rate": 0.0,
+    "cases": 109,
+    "deaths": 0,
+    "cases_per_100k": 102.485990447177,
+    "cases7day": [
+      0
+    ],
+    "cases_per_population": 0.102485990447177,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 398,
+    "RS": "16074",
+    "AGS": "16074",
+    "GEN": "Saale-Holzland-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 83051,
+    "AGS_0": "16074000",
+    "BL": "Thüringen",
+    "death_rate": 2.75229357798165,
+    "cases": 109,
+    "deaths": 3,
+    "cases_per_100k": 131.244656897569,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.131244656897569,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 399,
+    "RS": "16075",
+    "AGS": "16075",
+    "GEN": "Saale-Orla-Kreis",
+    "BEZ": "Landkreis",
+    "EWZ": 80868,
+    "AGS_0": "16075000",
+    "BL": "Thüringen",
+    "death_rate": 5.85365853658537,
+    "cases": 205,
+    "deaths": 12,
+    "cases_per_100k": 253.499530098432,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.253499530098432,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 400,
+    "RS": "16076",
+    "AGS": "16076",
+    "GEN": "Greiz",
+    "BEZ": "Landkreis",
+    "EWZ": 98159,
+    "AGS_0": "16076000",
+    "BL": "Thüringen",
+    "death_rate": 6.80851063829787,
+    "cases": 705,
+    "deaths": 48,
+    "cases_per_100k": 718.222475779093,
+    "cases7day": [
+      1
+    ],
+    "cases_per_population": 0.718222475779093,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 401,
+    "RS": "16077",
+    "AGS": "16077",
+    "GEN": "Altenburger Land",
+    "BEZ": "Landkreis",
+    "EWZ": 90118,
+    "AGS_0": "16077000",
+    "BL": "Thüringen",
+    "death_rate": 3.44827586206897,
+    "cases": 116,
+    "deaths": 4,
+    "cases_per_100k": 128.720122506048,
+    "cases7day": [
+      2
+    ],
+    "cases_per_population": 0.128720122506048,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 404,
+    "RS": "11012",
+    "GEN": "Berlin Reinickendorf",
+    "BEZ": "Bezirk",
+    "EWZ": 265225,
+    "BL": "Berlin",
+    "death_rate": 1.84372256365233,
+    "cases": 1139,
+    "deaths": 21,
+    "cases_per_100k": 429.446696201339,
+    "cases7day": [
+      17
+    ],
+    "cases_per_population": 0.429446696201339,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 405,
+    "RS": "11004",
+    "GEN": "Berlin Charlottenburg-Wilmersdorf",
+    "BEZ": "Bezirk",
+    "EWZ": 342332,
+    "BL": "Berlin",
+    "death_rate": 1.45385587863464,
+    "cases": 1582,
+    "deaths": 23,
+    "cases_per_100k": 462.124487339775,
+    "cases7day": [
+      27
+    ],
+    "cases_per_population": 0.462124487339775,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 406,
+    "RS": "11009",
+    "GEN": "Berlin Treptow-Köpenick",
+    "BEZ": "Bezirk",
+    "EWZ": 271153,
+    "BL": "Berlin",
+    "death_rate": 1.6566265060241,
+    "cases": 664,
+    "deaths": 11,
+    "cases_per_100k": 244.880196789267,
+    "cases7day": [
+      15
+    ],
+    "cases_per_population": 0.244880196789267,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 407,
+    "RS": "11003",
+    "GEN": "Berlin Pankow",
+    "BEZ": "Bezirk",
+    "EWZ": 407765,
+    "BL": "Berlin",
+    "death_rate": 2.73264401772526,
+    "cases": 1354,
+    "deaths": 37,
+    "cases_per_100k": 332.054001692151,
+    "cases7day": [
+      11
+    ],
+    "cases_per_population": 0.332054001692151,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 408,
+    "RS": "11008",
+    "GEN": "Berlin Neukölln",
+    "BEZ": "Bezirk",
+    "EWZ": 329691,
+    "BL": "Berlin",
+    "death_rate": 1.99074074074074,
+    "cases": 2160,
+    "deaths": 43,
+    "cases_per_100k": 655.15892153562,
+    "cases7day": [
+      61
+    ],
+    "cases_per_population": 0.65515892153562,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 409,
+    "RS": "11011",
+    "GEN": "Berlin Lichtenberg",
+    "BEZ": "Bezirk",
+    "EWZ": 291452,
+    "BL": "Berlin",
+    "death_rate": 1.39372822299652,
+    "cases": 861,
+    "deaths": 12,
+    "cases_per_100k": 295.417427226439,
+    "cases7day": [
+      9
+    ],
+    "cases_per_population": 0.295417427226439,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 410,
+    "RS": "11010",
+    "GEN": "Berlin Marzahn-Hellersdorf",
+    "BEZ": "Bezirk",
+    "EWZ": 268548,
+    "BL": "Berlin",
+    "death_rate": 0.934579439252336,
+    "cases": 749,
+    "deaths": 7,
+    "cases_per_100k": 278.90730893546,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.27890730893546,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 411,
+    "RS": "11005",
+    "GEN": "Berlin Spandau",
+    "BEZ": "Bezirk",
+    "EWZ": 243977,
+    "BL": "Berlin",
+    "death_rate": 1.02857142857143,
+    "cases": 875,
+    "deaths": 9,
+    "cases_per_100k": 358.640363640835,
+    "cases7day": [
+      5
+    ],
+    "cases_per_population": 0.358640363640835,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 412,
+    "RS": "11006",
+    "GEN": "Berlin Steglitz-Zehlendorf",
+    "BEZ": "Bezirk",
+    "EWZ": 308697,
+    "BL": "Berlin",
+    "death_rate": 1.26091173617847,
+    "cases": 1031,
+    "deaths": 13,
+    "cases_per_100k": 333.984457250961,
+    "cases7day": [
+      30
+    ],
+    "cases_per_population": 0.333984457250961,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 413,
+    "RS": "11001",
+    "GEN": "Berlin Mitte",
+    "BEZ": "Bezirk",
+    "EWZ": 384172,
+    "BL": "Berlin",
+    "death_rate": 0.777000777000777,
+    "cases": 2574,
+    "deaths": 20,
+    "cases_per_100k": 670.012390283519,
+    "cases7day": [
+      43
+    ],
+    "cases_per_population": 0.670012390283519,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 414,
+    "RS": "11002",
+    "GEN": "Berlin Friedrichshain-Kreuzberg",
+    "BEZ": "Bezirk",
+    "EWZ": 289762,
+    "BL": "Berlin",
+    "death_rate": 0.545454545454546,
+    "cases": 1650,
+    "deaths": 9,
+    "cases_per_100k": 569.432844886493,
+    "cases7day": [
+      27
+    ],
+    "cases_per_population": 0.569432844886493,
+    "last_update": 1602021600000
+  },
+  {
+    "OBJECTID": 415,
+    "RS": "11007",
+    "GEN": "Berlin Tempelhof-Schöneberg",
+    "BEZ": "Bezirk",
+    "EWZ": 351644,
+    "BL": "Berlin",
+    "death_rate": 1.6270337922403,
+    "cases": 1598,
+    "deaths": 26,
+    "cases_per_100k": 454.436873656311,
+    "cases7day": [
+      38
+    ],
+    "cases_per_population": 0.454436873656312,
+    "last_update": 1602021600000
+  }
+]
