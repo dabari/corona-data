@@ -1,6 +1,8 @@
 package de.iconten.client.rest.model;
 
 import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
@@ -71,6 +73,12 @@ public class FeatureLandkreis {
 	@SerializedName(value = "cases_per_100k")
 	private double casesPer100k;
 
+	/**
+	 * Fälle der letzten 7 Tage
+	 */
+	@SerializedName(value = "cases7day")
+	private List<Integer> cases7day;
+
 	@SerializedName(value = "cases_per_population")
 	private double casesPerPopulation;
 
@@ -79,4 +87,9 @@ public class FeatureLandkreis {
 	 */
 	@SerializedName(value = "last_update")
 	private Date lastUpdate;
+
+	public FeatureLandkreis() {
+		cases7day = new LinkedList<>();
+	}
+
 }

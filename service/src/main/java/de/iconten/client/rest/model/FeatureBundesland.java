@@ -1,6 +1,8 @@
 package de.iconten.client.rest.model;
 
 import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
@@ -8,7 +10,6 @@ import lombok.Data;
 
 @Data
 public class FeatureBundesland {
-
 	/*
 	"OBJECTID_1" : 1, 
 	"LAN_ew_AGS" : "01", 
@@ -62,8 +63,18 @@ public class FeatureBundesland {
 	private double casesPer100k;
 
 	/**
+	 * Fälle der letzten 7 Tage
+	 */
+	@SerializedName(value = "cases7day")
+	private List<Integer> cases7day;
+
+	/**
 	 * Aktualisiert
 	 */
 	@SerializedName(value = "Aktualisierung")
 	private Date lastUpdate;
+
+	public FeatureBundesland() {
+		cases7day = new LinkedList<>();
+	}
 }
