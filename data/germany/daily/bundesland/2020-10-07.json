@@ -1,242 +1,258 @@
 [
   {
-    "OBJECTID": 15,
-    "OBJECTID_1": 1,
-    "LAN_ew_AGS": "01",
-    "LAN_ew_GEN": "Schleswig-Holstein",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 2903773,
-    "Fallzahl": 5032,
-    "Death": 162,
-    "faelle_100000_EW": 173.714197338223,
-    "cases7day": [
+    "objectId": 15,
+    "objectId1": 1,
+    "ags": "01",
+    "name": "Schleswig-Holstein",
+    "type": "Land",
+    "state": "Schleswig-Holstein",
+    "population": 2903773,
+    "cases": 5032,
+    "deaths": 162,
+    "deathRate": 0.0,
+    "lastDayCases": [
       54
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 6,
-    "OBJECTID_1": 2,
-    "LAN_ew_AGS": "02",
-    "LAN_ew_GEN": "Hamburg",
-    "LAN_ew_BEZ": "Freie und Hansestadt",
-    "LAN_ew_EWZ": 1847253,
-    "Fallzahl": 8451,
-    "Death": 274,
-    "faelle_100000_EW": 458.999369425786,
-    "cases7day": [
+    "objectId": 6,
+    "objectId1": 2,
+    "ags": "02",
+    "name": "Hamburg",
+    "type": "Freie und Hansestadt",
+    "state": "Hamburg",
+    "population": 1847253,
+    "cases": 8451,
+    "deaths": 274,
+    "deathRate": 0.0,
+    "lastDayCases": [
       112
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 9,
-    "OBJECTID_1": 3,
-    "LAN_ew_AGS": "03",
-    "LAN_ew_GEN": "Niedersachsen",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 7993608,
-    "Fallzahl": 21456,
-    "Death": 691,
-    "faelle_100000_EW": 268.789724655895,
-    "cases7day": [
+    "objectId": 9,
+    "objectId1": 3,
+    "ags": "03",
+    "name": "Niedersachsen",
+    "type": "Land",
+    "state": "Niedersachsen",
+    "population": 7993608,
+    "cases": 21456,
+    "deaths": 691,
+    "deathRate": 0.0,
+    "lastDayCases": [
       172
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 5,
-    "OBJECTID_1": 4,
-    "LAN_ew_AGS": "04",
-    "LAN_ew_GEN": "Bremen",
-    "LAN_ew_BEZ": "Freie Hansestadt",
-    "LAN_ew_EWZ": 681202,
-    "Fallzahl": 2702,
-    "Death": 59,
-    "faelle_100000_EW": 395.615722723453,
-    "cases7day": [
+    "objectId": 5,
+    "objectId1": 4,
+    "ags": "04",
+    "name": "Bremen",
+    "type": "Freie Hansestadt",
+    "state": "Bremen",
+    "population": 681202,
+    "cases": 2702,
+    "deaths": 59,
+    "deathRate": 0.0,
+    "lastDayCases": [
       70
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 10,
-    "OBJECTID_1": 5,
-    "LAN_ew_AGS": "05",
-    "LAN_ew_GEN": "Nordrhein-Westfalen",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 17947221,
-    "Fallzahl": 74615,
-    "Death": 1891,
-    "faelle_100000_EW": 416.084604557352,
-    "cases7day": [
+    "objectId": 10,
+    "objectId1": 5,
+    "ags": "05",
+    "name": "Nordrhein-Westfalen",
+    "type": "Land",
+    "state": "Nordrhein-Westfalen",
+    "population": 17947221,
+    "cases": 74615,
+    "deaths": 1891,
+    "deathRate": 0.0,
+    "lastDayCases": [
       773
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 7,
-    "OBJECTID_1": 6,
-    "LAN_ew_AGS": "06",
-    "LAN_ew_GEN": "Hessen",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 6288080,
-    "Fallzahl": 20355,
-    "Death": 556,
-    "faelle_100000_EW": 324.858290445815,
-    "cases7day": [
+    "objectId": 7,
+    "objectId1": 6,
+    "ags": "06",
+    "name": "Hessen",
+    "type": "Land",
+    "state": "Hessen",
+    "population": 6288080,
+    "cases": 20355,
+    "deaths": 556,
+    "deathRate": 0.0,
+    "lastDayCases": [
       242
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 11,
-    "OBJECTID_1": 7,
-    "LAN_ew_AGS": "07",
-    "LAN_ew_GEN": "Rheinland-Pfalz",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 4093903,
-    "Fallzahl": 11308,
-    "Death": 256,
-    "faelle_100000_EW": 276.828197111077,
-    "cases7day": [
+    "objectId": 11,
+    "objectId1": 7,
+    "ags": "07",
+    "name": "Rheinland-Pfalz",
+    "type": "Land",
+    "state": "Rheinland-Pfalz",
+    "population": 4093903,
+    "cases": 11308,
+    "deaths": 256,
+    "deathRate": 0.0,
+    "lastDayCases": [
       93
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 1,
-    "OBJECTID_1": 8,
-    "LAN_ew_AGS": "08",
-    "LAN_ew_GEN": "Baden-Württemberg",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 11100394,
-    "Fallzahl": 51579,
-    "Death": 1894,
-    "faelle_100000_EW": 465.95461615228,
-    "cases7day": [
+    "objectId": 1,
+    "objectId1": 8,
+    "ags": "08",
+    "name": "Baden-Württemberg",
+    "type": "Land",
+    "state": "Baden-Württemberg",
+    "population": 11100394,
+    "cases": 51579,
+    "deaths": 1894,
+    "deathRate": 0.0,
+    "lastDayCases": [
       388
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 2,
-    "OBJECTID_1": 9,
-    "LAN_ew_AGS": "09",
-    "LAN_ew_GEN": "Bayern",
-    "LAN_ew_BEZ": "Freistaat",
-    "LAN_ew_EWZ": 13124737,
-    "Fallzahl": 70381,
-    "Death": 2680,
-    "faelle_100000_EW": 538.215964078457,
-    "cases7day": [
+    "objectId": 2,
+    "objectId1": 9,
+    "ags": "09",
+    "name": "Bayern",
+    "type": "Freistaat",
+    "state": "Bayern",
+    "population": 13124737,
+    "cases": 70381,
+    "deaths": 2680,
+    "deathRate": 0.0,
+    "lastDayCases": [
       375
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 12,
-    "OBJECTID_1": 10,
-    "LAN_ew_AGS": "10",
-    "LAN_ew_GEN": "Saarland",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 986887,
-    "Fallzahl": 3489,
-    "Death": 177,
-    "faelle_100000_EW": 352.243139638307,
-    "cases7day": [
+    "objectId": 12,
+    "objectId1": 10,
+    "ags": "10",
+    "name": "Saarland",
+    "type": "Land",
+    "state": "Saarland",
+    "population": 986887,
+    "cases": 3489,
+    "deaths": 177,
+    "deathRate": 0.0,
+    "lastDayCases": [
       40
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 3,
-    "OBJECTID_1": 11,
-    "LAN_ew_AGS": "11",
-    "LAN_ew_GEN": "Berlin",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 3669491,
-    "Fallzahl": 16237,
-    "Death": 231,
-    "faelle_100000_EW": 445.480799357775,
-    "cases7day": [
+    "objectId": 3,
+    "objectId1": 11,
+    "ags": "11",
+    "name": "Berlin",
+    "type": "Land",
+    "state": "Berlin",
+    "population": 3669491,
+    "cases": 16237,
+    "deaths": 231,
+    "deathRate": 0.0,
+    "lastDayCases": [
       288
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 4,
-    "OBJECTID_1": 12,
-    "LAN_ew_AGS": "12",
-    "LAN_ew_GEN": "Brandenburg",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 2521893,
-    "Fallzahl": 4483,
-    "Death": 169,
-    "faelle_100000_EW": 178.469272671032,
-    "cases7day": [
+    "objectId": 4,
+    "objectId1": 12,
+    "ags": "12",
+    "name": "Brandenburg",
+    "type": "Land",
+    "state": "Brandenburg",
+    "population": 2521893,
+    "cases": 4483,
+    "deaths": 169,
+    "deathRate": 0.0,
+    "lastDayCases": [
       36
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 8,
-    "OBJECTID_1": 13,
-    "LAN_ew_AGS": "13",
-    "LAN_ew_GEN": "Mecklenburg-Vorpommern",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 1608138,
-    "Fallzahl": 1304,
-    "Death": 20,
-    "faelle_100000_EW": 81.0101417988103,
-    "cases7day": [
+    "objectId": 8,
+    "objectId1": 13,
+    "ags": "13",
+    "name": "Mecklenburg-Vorpommern",
+    "type": "Land",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 1608138,
+    "cases": 1304,
+    "deaths": 20,
+    "deathRate": 0.0,
+    "lastDayCases": [
       11
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 13,
-    "OBJECTID_1": 14,
-    "LAN_ew_AGS": "14",
-    "LAN_ew_GEN": "Sachsen",
-    "LAN_ew_BEZ": "Freistaat",
-    "LAN_ew_EWZ": 4071971,
-    "Fallzahl": 7679,
-    "Death": 243,
-    "faelle_100000_EW": 188.305998842062,
-    "cases7day": [
+    "objectId": 13,
+    "objectId1": 14,
+    "ags": "14",
+    "name": "Sachsen",
+    "type": "Freistaat",
+    "state": "Sachsen",
+    "population": 4071971,
+    "cases": 7679,
+    "deaths": 243,
+    "deathRate": 0.0,
+    "lastDayCases": [
       146
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 14,
-    "OBJECTID_1": 15,
-    "LAN_ew_AGS": "15",
-    "LAN_ew_GEN": "Sachsen-Anhalt",
-    "LAN_ew_BEZ": "Land",
-    "LAN_ew_EWZ": 2194782,
-    "Fallzahl": 2774,
-    "Death": 68,
-    "faelle_100000_EW": 125.615795891992,
-    "cases7day": [
+    "objectId": 14,
+    "objectId1": 15,
+    "ags": "15",
+    "name": "Sachsen-Anhalt",
+    "type": "Land",
+    "state": "Sachsen-Anhalt",
+    "population": 2194782,
+    "cases": 2774,
+    "deaths": 68,
+    "deathRate": 0.0,
+    "lastDayCases": [
       10
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   },
   {
-    "OBJECTID": 16,
-    "OBJECTID_1": 16,
-    "LAN_ew_AGS": "16",
-    "LAN_ew_GEN": "Thüringen",
-    "LAN_ew_BEZ": "Freistaat",
-    "LAN_ew_EWZ": 2133378,
-    "Fallzahl": 4241,
-    "Death": 191,
-    "faelle_100000_EW": 197.88675054651,
-    "cases7day": [
+    "objectId": 16,
+    "objectId1": 16,
+    "ags": "16",
+    "name": "Thüringen",
+    "type": "Freistaat",
+    "state": "Thüringen",
+    "population": 2133378,
+    "cases": 4241,
+    "deaths": 191,
+    "deathRate": 0.0,
+    "lastDayCases": [
       18
     ],
-    "Aktualisierung": 1602021600000
+    "lastUpdate": "2020-10-07 00:00:00"
   }
 ]
