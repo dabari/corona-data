@@ -5,11 +5,11 @@
     "ags": "01001",
     "name": "Flensburg",
     "type": "Kreisfreie Stadt",
-    "state": "Flensburg",
+    "state": "Schleswig-Holstein",
     "population": 90164,
     "cases": 128,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.34375,
     "lastDayCases": [
       0,
       3
@@ -22,11 +22,11 @@
     "ags": "01002",
     "name": "Kiel",
     "type": "Kreisfreie Stadt",
-    "state": "Kiel",
+    "state": "Schleswig-Holstein",
     "population": 246794,
     "cases": 480,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 2.5,
     "lastDayCases": [
       4,
       1
@@ -39,11 +39,11 @@
     "ags": "01003",
     "name": "Lübeck",
     "type": "Kreisfreie Stadt",
-    "state": "Lübeck",
+    "state": "Schleswig-Holstein",
     "population": 216530,
     "cases": 317,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.315457413249211,
     "lastDayCases": [
       9,
       6
@@ -56,11 +56,11 @@
     "ags": "01004",
     "name": "Neumünster",
     "type": "Kreisfreie Stadt",
-    "state": "Neumünster",
+    "state": "Schleswig-Holstein",
     "population": 80196,
     "cases": 172,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.74418604651163,
     "lastDayCases": [
       1,
       0
@@ -73,11 +73,11 @@
     "ags": "01051",
     "name": "Dithmarschen",
     "type": "Kreis",
-    "state": "Dithmarschen",
+    "state": "Schleswig-Holstein",
     "population": 133193,
     "cases": 235,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 2.12765957446809,
     "lastDayCases": [
       9,
       2
@@ -90,11 +90,11 @@
     "ags": "01053",
     "name": "Herzogtum Lauenburg",
     "type": "Kreis",
-    "state": "Herzogtum Lauenburg",
+    "state": "Schleswig-Holstein",
     "population": 198019,
     "cases": 371,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 4.85175202156334,
     "lastDayCases": [
       0,
       3
@@ -107,11 +107,11 @@
     "ags": "01054",
     "name": "Nordfriesland",
     "type": "Kreis",
-    "state": "Nordfriesland",
+    "state": "Schleswig-Holstein",
     "population": 165951,
     "cases": 149,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.34228187919463,
     "lastDayCases": [
       2,
       -1
@@ -124,7 +124,7 @@
     "ags": "01055",
     "name": "Ostholstein",
     "type": "Kreis",
-    "state": "Ostholstein",
+    "state": "Schleswig-Holstein",
     "population": 200539,
     "cases": 150,
     "deaths": 0,
@@ -141,11 +141,11 @@
     "ags": "01056",
     "name": "Pinneberg",
     "type": "Kreis",
-    "state": "Pinneberg",
+    "state": "Schleswig-Holstein",
     "population": 316103,
     "cases": 912,
     "deaths": 47,
-    "deathRate": 0.0,
+    "deathRate": 5.15350877192982,
     "lastDayCases": [
       7,
       6
@@ -158,11 +158,11 @@
     "ags": "01057",
     "name": "Plön",
     "type": "Kreis",
-    "state": "Plön",
+    "state": "Schleswig-Holstein",
     "population": 128686,
     "cases": 170,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 4.70588235294118,
     "lastDayCases": [
       0,
       1
@@ -175,11 +175,11 @@
     "ags": "01058",
     "name": "Rendsburg-Eckernförde",
     "type": "Kreis",
-    "state": "Rendsburg-Eckernförde",
+    "state": "Schleswig-Holstein",
     "population": 274098,
     "cases": 375,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 3.73333333333333,
     "lastDayCases": [
       4,
       6
@@ -192,11 +192,11 @@
     "ags": "01059",
     "name": "Schleswig-Flensburg",
     "type": "Kreis",
-    "state": "Schleswig-Flensburg",
+    "state": "Schleswig-Holstein",
     "population": 201156,
     "cases": 205,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.95121951219512,
     "lastDayCases": [
       0,
       5
@@ -209,11 +209,11 @@
     "ags": "01060",
     "name": "Segeberg",
     "type": "Kreis",
-    "state": "Segeberg",
+    "state": "Schleswig-Holstein",
     "population": 277175,
     "cases": 493,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.41987829614604,
     "lastDayCases": [
       7,
       0
@@ -226,11 +226,11 @@
     "ags": "01061",
     "name": "Steinburg",
     "type": "Kreis",
-    "state": "Steinburg",
+    "state": "Schleswig-Holstein",
     "population": 131013,
     "cases": 235,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.27659574468085,
     "lastDayCases": [
       1,
       2
@@ -243,11 +243,11 @@
     "ags": "01062",
     "name": "Stormarn",
     "type": "Kreis",
-    "state": "Stormarn",
+    "state": "Schleswig-Holstein",
     "population": 244156,
     "cases": 684,
     "deaths": 35,
-    "deathRate": 0.0,
+    "deathRate": 5.11695906432749,
     "lastDayCases": [
       9,
       5
@@ -264,7 +264,7 @@
     "population": 1847253,
     "cases": 8544,
     "deaths": 276,
-    "deathRate": 0.0,
+    "deathRate": 3.23033707865169,
     "lastDayCases": [
       112,
       93
@@ -277,11 +277,11 @@
     "ags": "03101",
     "name": "Braunschweig",
     "type": "Kreisfreie Stadt",
-    "state": "Braunschweig",
+    "state": "Niedersachsen",
     "population": 249406,
     "cases": 511,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 3.52250489236791,
     "lastDayCases": [
       2,
       13
@@ -294,11 +294,11 @@
     "ags": "03102",
     "name": "Salzgitter",
     "type": "Kreisfreie Stadt",
-    "state": "Salzgitter",
+    "state": "Niedersachsen",
     "population": 104291,
     "cases": 269,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 3.71747211895911,
     "lastDayCases": [
       0,
       0
@@ -311,11 +311,11 @@
     "ags": "03103",
     "name": "Wolfsburg",
     "type": "Kreisfreie Stadt",
-    "state": "Wolfsburg",
+    "state": "Niedersachsen",
     "population": 124371,
     "cases": 456,
     "deaths": 53,
-    "deathRate": 0.0,
+    "deathRate": 11.6228070175439,
     "lastDayCases": [
       1,
       0
@@ -328,11 +328,11 @@
     "ags": "03151",
     "name": "Gifhorn",
     "type": "Landkreis",
-    "state": "Gifhorn",
+    "state": "Niedersachsen",
     "population": 176523,
     "cases": 259,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 1.93050193050193,
     "lastDayCases": [
       3,
       0
@@ -345,11 +345,11 @@
     "ags": "03153",
     "name": "Goslar",
     "type": "Landkreis",
-    "state": "Goslar",
+    "state": "Niedersachsen",
     "population": 136292,
     "cases": 319,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 8.46394984326019,
     "lastDayCases": [
       0,
       0
@@ -362,11 +362,11 @@
     "ags": "03154",
     "name": "Helmstedt",
     "type": "Landkreis",
-    "state": "Helmstedt",
+    "state": "Niedersachsen",
     "population": 91297,
     "cases": 174,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.14942528735632,
     "lastDayCases": [
       0,
       0
@@ -379,11 +379,11 @@
     "ags": "03155",
     "name": "Northeim",
     "type": "Landkreis",
-    "state": "Northeim",
+    "state": "Niedersachsen",
     "population": 132285,
     "cases": 189,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 3.17460317460317,
     "lastDayCases": [
       0,
       5
@@ -396,11 +396,11 @@
     "ags": "03157",
     "name": "Peine",
     "type": "Landkreis",
-    "state": "Peine",
+    "state": "Niedersachsen",
     "population": 134801,
     "cases": 304,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 3.94736842105263,
     "lastDayCases": [
       0,
       11
@@ -413,11 +413,11 @@
     "ags": "03158",
     "name": "Wolfenbüttel",
     "type": "Landkreis",
-    "state": "Wolfenbüttel",
+    "state": "Niedersachsen",
     "population": 119622,
     "cases": 239,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 5.85774058577406,
     "lastDayCases": [
       0,
       1
@@ -430,11 +430,11 @@
     "ags": "03159",
     "name": "Göttingen",
     "type": "Landkreis",
-    "state": "Göttingen",
+    "state": "Niedersachsen",
     "population": 326041,
     "cases": 1478,
     "deaths": 81,
-    "deathRate": 0.0,
+    "deathRate": 5.48037889039242,
     "lastDayCases": [
       6,
       5
@@ -447,11 +447,11 @@
     "ags": "03241",
     "name": "Region Hannover",
     "type": "Landkreis",
-    "state": "Region Hannover",
+    "state": "Niedersachsen",
     "population": 1157115,
     "cases": 4586,
     "deaths": 133,
-    "deathRate": 0.0,
+    "deathRate": 2.90013083296991,
     "lastDayCases": [
       10,
       45
@@ -464,11 +464,11 @@
     "ags": "03251",
     "name": "Diepholz",
     "type": "Landkreis",
-    "state": "Diepholz",
+    "state": "Niedersachsen",
     "population": 217089,
     "cases": 673,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 4.01188707280832,
     "lastDayCases": [
       2,
       0
@@ -481,11 +481,11 @@
     "ags": "03252",
     "name": "Hameln-Pyrmont",
     "type": "Landkreis",
-    "state": "Hameln-Pyrmont",
+    "state": "Niedersachsen",
     "population": 148549,
     "cases": 244,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 2.86885245901639,
     "lastDayCases": [
       3,
       7
@@ -498,11 +498,11 @@
     "ags": "03254",
     "name": "Hildesheim",
     "type": "Landkreis",
-    "state": "Hildesheim",
+    "state": "Niedersachsen",
     "population": 275817,
     "cases": 603,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 1.65837479270315,
     "lastDayCases": [
       2,
       9
@@ -515,11 +515,11 @@
     "ags": "03255",
     "name": "Holzminden",
     "type": "Landkreis",
-    "state": "Holzminden",
+    "state": "Niedersachsen",
     "population": 70458,
     "cases": 138,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 5.07246376811594,
     "lastDayCases": [
       2,
       0
@@ -532,11 +532,11 @@
     "ags": "03256",
     "name": "Nienburg (Weser)",
     "type": "Landkreis",
-    "state": "Nienburg (Weser)",
+    "state": "Niedersachsen",
     "population": 121390,
     "cases": 131,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 3.05343511450382,
     "lastDayCases": [
       3,
       4
@@ -549,11 +549,11 @@
     "ags": "03257",
     "name": "Schaumburg",
     "type": "Landkreis",
-    "state": "Schaumburg",
+    "state": "Niedersachsen",
     "population": 157820,
     "cases": 324,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 2.16049382716049,
     "lastDayCases": [
       1,
       0
@@ -566,11 +566,11 @@
     "ags": "03351",
     "name": "Celle",
     "type": "Landkreis",
-    "state": "Celle",
+    "state": "Niedersachsen",
     "population": 179011,
     "cases": 327,
     "deaths": 15,
-    "deathRate": 0.0,
+    "deathRate": 4.58715596330275,
     "lastDayCases": [
       5,
       3
@@ -583,11 +583,11 @@
     "ags": "03352",
     "name": "Cuxhaven",
     "type": "Landkreis",
-    "state": "Cuxhaven",
+    "state": "Niedersachsen",
     "population": 198038,
     "cases": 440,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 4.77272727272727,
     "lastDayCases": [
       1,
       0
@@ -600,11 +600,11 @@
     "ags": "03353",
     "name": "Harburg",
     "type": "Landkreis",
-    "state": "Harburg",
+    "state": "Niedersachsen",
     "population": 254431,
     "cases": 881,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 1.92962542565267,
     "lastDayCases": [
       13,
       2
@@ -617,11 +617,11 @@
     "ags": "03354",
     "name": "Lüchow-Dannenberg",
     "type": "Landkreis",
-    "state": "Lüchow-Dannenberg",
+    "state": "Niedersachsen",
     "population": 48412,
     "cases": 46,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 6.52173913043478,
     "lastDayCases": [
       0,
       -1
@@ -634,7 +634,7 @@
     "ags": "03355",
     "name": "Lüneburg",
     "type": "Landkreis",
-    "state": "Lüneburg",
+    "state": "Niedersachsen",
     "population": 184139,
     "cases": 260,
     "deaths": 0,
@@ -651,7 +651,7 @@
     "ags": "03356",
     "name": "Osterholz",
     "type": "Landkreis",
-    "state": "Osterholz",
+    "state": "Niedersachsen",
     "population": 113928,
     "cases": 190,
     "deaths": 0,
@@ -668,11 +668,11 @@
     "ags": "03357",
     "name": "Rotenburg (Wümme)",
     "type": "Landkreis",
-    "state": "Rotenburg (Wümme)",
+    "state": "Niedersachsen",
     "population": 163782,
     "cases": 322,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.62111801242236,
     "lastDayCases": [
       16,
       7
@@ -685,11 +685,11 @@
     "ags": "03358",
     "name": "Heidekreis",
     "type": "Landkreis",
-    "state": "Heidekreis",
+    "state": "Niedersachsen",
     "population": 140673,
     "cases": 128,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.5625,
     "lastDayCases": [
       1,
       3
@@ -702,11 +702,11 @@
     "ags": "03359",
     "name": "Stade",
     "type": "Landkreis",
-    "state": "Stade",
+    "state": "Niedersachsen",
     "population": 204512,
     "cases": 385,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 2.33766233766234,
     "lastDayCases": [
       7,
       6
@@ -719,7 +719,7 @@
     "ags": "03360",
     "name": "Uelzen",
     "type": "Landkreis",
-    "state": "Uelzen",
+    "state": "Niedersachsen",
     "population": 92389,
     "cases": 99,
     "deaths": 0,
@@ -736,11 +736,11 @@
     "ags": "03361",
     "name": "Verden",
     "type": "Landkreis",
-    "state": "Verden",
+    "state": "Niedersachsen",
     "population": 137133,
     "cases": 388,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 2.06185567010309,
     "lastDayCases": [
       2,
       9
@@ -753,11 +753,11 @@
     "ags": "03401",
     "name": "Delmenhorst",
     "type": "Kreisfreie Stadt",
-    "state": "Delmenhorst",
+    "state": "Niedersachsen",
     "population": 77559,
     "cases": 210,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.9047619047619,
     "lastDayCases": [
       12,
       0
@@ -770,7 +770,7 @@
     "ags": "03402",
     "name": "Emden",
     "type": "Kreisfreie Stadt",
-    "state": "Emden",
+    "state": "Niedersachsen",
     "population": 49913,
     "cases": 48,
     "deaths": 0,
@@ -787,11 +787,11 @@
     "ags": "03403",
     "name": "Oldenburg (Oldb)",
     "type": "Kreisfreie Stadt",
-    "state": "Oldenburg (Oldb)",
+    "state": "Niedersachsen",
     "population": 169077,
     "cases": 319,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 0.940438871473354,
     "lastDayCases": [
       1,
       1
@@ -804,11 +804,11 @@
     "ags": "03404",
     "name": "Osnabrück",
     "type": "Kreisfreie Stadt",
-    "state": "Osnabrück",
+    "state": "Niedersachsen",
     "population": 165251,
     "cases": 795,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 2.26415094339623,
     "lastDayCases": [
       3,
       8
@@ -821,11 +821,11 @@
     "ags": "03405",
     "name": "Wilhelmshaven",
     "type": "Kreisfreie Stadt",
-    "state": "Wilhelmshaven",
+    "state": "Niedersachsen",
     "population": 76089,
     "cases": 66,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.51515151515152,
     "lastDayCases": [
       0,
       2
@@ -838,11 +838,11 @@
     "ags": "03451",
     "name": "Ammerland",
     "type": "Landkreis",
-    "state": "Ammerland",
+    "state": "Niedersachsen",
     "population": 124859,
     "cases": 236,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 2.11864406779661,
     "lastDayCases": [
       2,
       0
@@ -855,11 +855,11 @@
     "ags": "03452",
     "name": "Aurich",
     "type": "Landkreis",
-    "state": "Aurich",
+    "state": "Niedersachsen",
     "population": 189694,
     "cases": 246,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 3.2520325203252,
     "lastDayCases": [
       0,
       19
@@ -872,11 +872,11 @@
     "ags": "03453",
     "name": "Cloppenburg",
     "type": "Landkreis",
-    "state": "Cloppenburg",
+    "state": "Niedersachsen",
     "population": 170682,
     "cases": 687,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.145560407569141,
     "lastDayCases": [
       0,
       0
@@ -889,11 +889,11 @@
     "ags": "03454",
     "name": "Emsland",
     "type": "Landkreis",
-    "state": "Emsland",
+    "state": "Niedersachsen",
     "population": 326954,
     "cases": 917,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 2.72628135223555,
     "lastDayCases": [
       18,
       37
@@ -906,11 +906,11 @@
     "ags": "03455",
     "name": "Friesland",
     "type": "Landkreis",
-    "state": "Friesland",
+    "state": "Niedersachsen",
     "population": 98704,
     "cases": 118,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.69491525423729,
     "lastDayCases": [
       0,
       1
@@ -923,11 +923,11 @@
     "ags": "03456",
     "name": "Grafschaft Bentheim",
     "type": "Landkreis",
-    "state": "Grafschaft Bentheim",
+    "state": "Niedersachsen",
     "population": 137162,
     "cases": 349,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 5.15759312320917,
     "lastDayCases": [
       8,
       14
@@ -940,11 +940,11 @@
     "ags": "03457",
     "name": "Leer",
     "type": "Landkreis",
-    "state": "Leer",
+    "state": "Niedersachsen",
     "population": 170756,
     "cases": 271,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.2140221402214,
     "lastDayCases": [
       1,
       12
@@ -957,11 +957,11 @@
     "ags": "03458",
     "name": "Oldenburg",
     "type": "Landkreis",
-    "state": "Oldenburg",
+    "state": "Niedersachsen",
     "population": 130890,
     "cases": 544,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 2.57352941176471,
     "lastDayCases": [
       21,
       26
@@ -974,11 +974,11 @@
     "ags": "03459",
     "name": "Osnabrück",
     "type": "Landkreis",
-    "state": "Osnabrück",
+    "state": "Niedersachsen",
     "population": 358080,
     "cases": 1544,
     "deaths": 67,
-    "deathRate": 0.0,
+    "deathRate": 4.33937823834197,
     "lastDayCases": [
       15,
       13
@@ -991,11 +991,11 @@
     "ags": "03460",
     "name": "Vechta",
     "type": "Landkreis",
-    "state": "Vechta",
+    "state": "Niedersachsen",
     "population": 142814,
     "cases": 752,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 1.86170212765957,
     "lastDayCases": [
       1,
       15
@@ -1008,11 +1008,11 @@
     "ags": "03461",
     "name": "Wesermarsch",
     "type": "Landkreis",
-    "state": "Wesermarsch",
+    "state": "Niedersachsen",
     "population": 88583,
     "cases": 197,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 4.06091370558376,
     "lastDayCases": [
       1,
       0
@@ -1025,7 +1025,7 @@
     "ags": "03462",
     "name": "Wittmund",
     "type": "Landkreis",
-    "state": "Wittmund",
+    "state": "Niedersachsen",
     "population": 56926,
     "cases": 81,
     "deaths": 0,
@@ -1046,7 +1046,7 @@
     "population": 567559,
     "cases": 2523,
     "deaths": 54,
-    "deathRate": 0.0,
+    "deathRate": 2.14030915576694,
     "lastDayCases": [
       70,
       99
@@ -1059,11 +1059,11 @@
     "ags": "04012",
     "name": "Bremerhaven",
     "type": "Kreisfreie Stadt",
-    "state": "Bremerhaven",
+    "state": "Bremen",
     "population": 113643,
     "cases": 282,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.12765957446809,
     "lastDayCases": [
       0,
       4
@@ -1076,11 +1076,11 @@
     "ags": "05111",
     "name": "Düsseldorf",
     "type": "Kreisfreie Stadt",
-    "state": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
     "population": 621877,
     "cases": 3406,
     "deaths": 51,
-    "deathRate": 0.0,
+    "deathRate": 1.49735760422783,
     "lastDayCases": [
       39,
       29
@@ -1093,11 +1093,11 @@
     "ags": "05112",
     "name": "Duisburg",
     "type": "Kreisfreie Stadt",
-    "state": "Duisburg",
+    "state": "Nordrhein-Westfalen",
     "population": 498686,
     "cases": 3086,
     "deaths": 74,
-    "deathRate": 0.0,
+    "deathRate": 2.39792611795204,
     "lastDayCases": [
       29,
       39
@@ -1110,11 +1110,11 @@
     "ags": "05113",
     "name": "Essen",
     "type": "Kreisfreie Stadt",
-    "state": "Essen",
+    "state": "Nordrhein-Westfalen",
     "population": 582760,
     "cases": 2330,
     "deaths": 48,
-    "deathRate": 0.0,
+    "deathRate": 2.06008583690987,
     "lastDayCases": [
       41,
       65
@@ -1127,11 +1127,11 @@
     "ags": "05114",
     "name": "Krefeld",
     "type": "Kreisfreie Stadt",
-    "state": "Krefeld",
+    "state": "Nordrhein-Westfalen",
     "population": 227417,
     "cases": 1067,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 2.62417994376757,
     "lastDayCases": [
       11,
       7
@@ -1144,11 +1144,11 @@
     "ags": "05116",
     "name": "Mönchengladbach",
     "type": "Kreisfreie Stadt",
-    "state": "Mönchengladbach",
+    "state": "Nordrhein-Westfalen",
     "population": 261034,
     "cases": 1142,
     "deaths": 51,
-    "deathRate": 0.0,
+    "deathRate": 4.46584938704028,
     "lastDayCases": [
       5,
       7
@@ -1161,11 +1161,11 @@
     "ags": "05117",
     "name": "Mülheim an der Ruhr",
     "type": "Kreisfreie Stadt",
-    "state": "Mülheim an der Ruhr",
+    "state": "Nordrhein-Westfalen",
     "population": 170632,
     "cases": 662,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 2.11480362537764,
     "lastDayCases": [
       5,
       0
@@ -1178,11 +1178,11 @@
     "ags": "05119",
     "name": "Oberhausen",
     "type": "Kreisfreie Stadt",
-    "state": "Oberhausen",
+    "state": "Nordrhein-Westfalen",
     "population": 210764,
     "cases": 652,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 2.14723926380368,
     "lastDayCases": [
       10,
       10
@@ -1195,11 +1195,11 @@
     "ags": "05120",
     "name": "Remscheid",
     "type": "Kreisfreie Stadt",
-    "state": "Remscheid",
+    "state": "Nordrhein-Westfalen",
     "population": 111338,
     "cases": 596,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 3.18791946308725,
     "lastDayCases": [
       10,
       8
@@ -1212,11 +1212,11 @@
     "ags": "05122",
     "name": "Solingen",
     "type": "Kreisfreie Stadt",
-    "state": "Solingen",
+    "state": "Nordrhein-Westfalen",
     "population": 159245,
     "cases": 723,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.79806362378976,
     "lastDayCases": [
       9,
       8
@@ -1229,11 +1229,11 @@
     "ags": "05124",
     "name": "Wuppertal",
     "type": "Kreisfreie Stadt",
-    "state": "Wuppertal",
+    "state": "Nordrhein-Westfalen",
     "population": 355100,
     "cases": 1910,
     "deaths": 88,
-    "deathRate": 0.0,
+    "deathRate": 4.60732984293194,
     "lastDayCases": [
       8,
       35
@@ -1246,11 +1246,11 @@
     "ags": "05154",
     "name": "Kleve",
     "type": "Kreis",
-    "state": "Kleve",
+    "state": "Nordrhein-Westfalen",
     "population": 312465,
     "cases": 1203,
     "deaths": 37,
-    "deathRate": 0.0,
+    "deathRate": 3.07564422277639,
     "lastDayCases": [
       7,
       10
@@ -1263,11 +1263,11 @@
     "ags": "05158",
     "name": "Mettmann",
     "type": "Kreis",
-    "state": "Mettmann",
+    "state": "Nordrhein-Westfalen",
     "population": 485570,
     "cases": 2150,
     "deaths": 87,
-    "deathRate": 0.0,
+    "deathRate": 4.04651162790698,
     "lastDayCases": [
       27,
       34
@@ -1280,11 +1280,11 @@
     "ags": "05162",
     "name": "Rhein-Kreis Neuss",
     "type": "Kreis",
-    "state": "Rhein-Kreis Neuss",
+    "state": "Nordrhein-Westfalen",
     "population": 451730,
     "cases": 1497,
     "deaths": 24,
-    "deathRate": 0.0,
+    "deathRate": 1.60320641282565,
     "lastDayCases": [
       13,
       22
@@ -1297,11 +1297,11 @@
     "ags": "05166",
     "name": "Viersen",
     "type": "Kreis",
-    "state": "Viersen",
+    "state": "Nordrhein-Westfalen",
     "population": 298863,
     "cases": 1081,
     "deaths": 37,
-    "deathRate": 0.0,
+    "deathRate": 3.42275670675301,
     "lastDayCases": [
       2,
       10
@@ -1314,11 +1314,11 @@
     "ags": "05170",
     "name": "Wesel",
     "type": "Kreis",
-    "state": "Wesel",
+    "state": "Nordrhein-Westfalen",
     "population": 459976,
     "cases": 1485,
     "deaths": 32,
-    "deathRate": 0.0,
+    "deathRate": 2.15488215488215,
     "lastDayCases": [
       15,
       16
@@ -1331,11 +1331,11 @@
     "ags": "05314",
     "name": "Bonn",
     "type": "Kreisfreie Stadt",
-    "state": "Bonn",
+    "state": "Nordrhein-Westfalen",
     "population": 329673,
     "cases": 1367,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 0.658376005852231,
     "lastDayCases": [
       11,
       29
@@ -1348,11 +1348,11 @@
     "ags": "05315",
     "name": "Köln",
     "type": "Kreisfreie Stadt",
-    "state": "Köln",
+    "state": "Nordrhein-Westfalen",
     "population": 1087863,
     "cases": 5592,
     "deaths": 125,
-    "deathRate": 0.0,
+    "deathRate": 2.23533619456366,
     "lastDayCases": [
       72,
       143
@@ -1365,11 +1365,11 @@
     "ags": "05316",
     "name": "Leverkusen",
     "type": "Kreisfreie Stadt",
-    "state": "Leverkusen",
+    "state": "Nordrhein-Westfalen",
     "population": 163729,
     "cases": 645,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.3953488372093,
     "lastDayCases": [
       11,
       13
@@ -1382,11 +1382,11 @@
     "ags": "05334",
     "name": "Städteregion Aachen",
     "type": "Kreis",
-    "state": "Städteregion Aachen",
+    "state": "Nordrhein-Westfalen",
     "population": 557026,
     "cases": 2932,
     "deaths": 107,
-    "deathRate": 0.0,
+    "deathRate": 3.6493860845839,
     "lastDayCases": [
       23,
       47
@@ -1399,11 +1399,11 @@
     "ags": "05358",
     "name": "Düren",
     "type": "Kreis",
-    "state": "Düren",
+    "state": "Nordrhein-Westfalen",
     "population": 264638,
     "cases": 1077,
     "deaths": 42,
-    "deathRate": 0.0,
+    "deathRate": 3.89972144846797,
     "lastDayCases": [
       15,
       12
@@ -1416,11 +1416,11 @@
     "ags": "05362",
     "name": "Rhein-Erft-Kreis",
     "type": "Kreis",
-    "state": "Rhein-Erft-Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 470615,
     "cases": 1894,
     "deaths": 79,
-    "deathRate": 0.0,
+    "deathRate": 4.17106652587117,
     "lastDayCases": [
       18,
       47
@@ -1433,11 +1433,11 @@
     "ags": "05366",
     "name": "Euskirchen",
     "type": "Kreis",
-    "state": "Euskirchen",
+    "state": "Nordrhein-Westfalen",
     "population": 193656,
     "cases": 778,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 3.47043701799486,
     "lastDayCases": [
       0,
       0
@@ -1450,11 +1450,11 @@
     "ags": "05370",
     "name": "Heinsberg",
     "type": "Kreis",
-    "state": "Heinsberg",
+    "state": "Nordrhein-Westfalen",
     "population": 255555,
     "cases": 2208,
     "deaths": 95,
-    "deathRate": 0.0,
+    "deathRate": 4.30253623188406,
     "lastDayCases": [
       6,
       7
@@ -1467,11 +1467,11 @@
     "ags": "05374",
     "name": "Oberbergischer Kreis",
     "type": "Kreis",
-    "state": "Oberbergischer Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 272057,
     "cases": 955,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 1.98952879581152,
     "lastDayCases": [
       13,
       11
@@ -1484,11 +1484,11 @@
     "ags": "05378",
     "name": "Rheinisch-Bergischer Kreis",
     "type": "Kreis",
-    "state": "Rheinisch-Bergischer Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 283271,
     "cases": 837,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 2.6284348864994,
     "lastDayCases": [
       6,
       12
@@ -1501,11 +1501,11 @@
     "ags": "05382",
     "name": "Rhein-Sieg-Kreis",
     "type": "Kreis",
-    "state": "Rhein-Sieg-Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 600764,
     "cases": 2276,
     "deaths": 54,
-    "deathRate": 0.0,
+    "deathRate": 2.3725834797891,
     "lastDayCases": [
       31,
       3
@@ -1518,11 +1518,11 @@
     "ags": "05512",
     "name": "Bottrop",
     "type": "Kreisfreie Stadt",
-    "state": "Bottrop",
+    "state": "Nordrhein-Westfalen",
     "population": 117565,
     "cases": 393,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.78117048346056,
     "lastDayCases": [
       8,
       0
@@ -1535,11 +1535,11 @@
     "ags": "05513",
     "name": "Gelsenkirchen",
     "type": "Kreisfreie Stadt",
-    "state": "Gelsenkirchen",
+    "state": "Nordrhein-Westfalen",
     "population": 259645,
     "cases": 1298,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 1.46379044684129,
     "lastDayCases": [
       28,
       26
@@ -1552,11 +1552,11 @@
     "ags": "05515",
     "name": "Münster",
     "type": "Kreisfreie Stadt",
-    "state": "Münster",
+    "state": "Nordrhein-Westfalen",
     "population": 315293,
     "cases": 1150,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.1304347826087,
     "lastDayCases": [
       0,
       10
@@ -1569,11 +1569,11 @@
     "ags": "05554",
     "name": "Borken",
     "type": "Kreis",
-    "state": "Borken",
+    "state": "Nordrhein-Westfalen",
     "population": 371339,
     "cases": 1456,
     "deaths": 38,
-    "deathRate": 0.0,
+    "deathRate": 2.60989010989011,
     "lastDayCases": [
       3,
       16
@@ -1586,11 +1586,11 @@
     "ags": "05558",
     "name": "Coesfeld",
     "type": "Kreis",
-    "state": "Coesfeld",
+    "state": "Nordrhein-Westfalen",
     "population": 220586,
     "cases": 1021,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 2.44857982370225,
     "lastDayCases": [
       9,
       8
@@ -1603,11 +1603,11 @@
     "ags": "05562",
     "name": "Recklinghausen",
     "type": "Kreis",
-    "state": "Recklinghausen",
+    "state": "Nordrhein-Westfalen",
     "population": 614137,
     "cases": 2443,
     "deaths": 47,
-    "deathRate": 0.0,
+    "deathRate": 1.92386410151453,
     "lastDayCases": [
       24,
       56
@@ -1620,11 +1620,11 @@
     "ags": "05566",
     "name": "Steinfurt",
     "type": "Kreis",
-    "state": "Steinfurt",
+    "state": "Nordrhein-Westfalen",
     "population": 448220,
     "cases": 1904,
     "deaths": 93,
-    "deathRate": 0.0,
+    "deathRate": 4.88445378151261,
     "lastDayCases": [
       5,
       18
@@ -1637,11 +1637,11 @@
     "ags": "05570",
     "name": "Warendorf",
     "type": "Kreis",
-    "state": "Warendorf",
+    "state": "Nordrhein-Westfalen",
     "population": 277840,
     "cases": 1118,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 1.8783542039356,
     "lastDayCases": [
       0,
       9
@@ -1654,11 +1654,11 @@
     "ags": "05711",
     "name": "Bielefeld",
     "type": "Kreisfreie Stadt",
-    "state": "Bielefeld",
+    "state": "Nordrhein-Westfalen",
     "population": 334195,
     "cases": 1010,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 0.891089108910891,
     "lastDayCases": [
       10,
       17
@@ -1671,11 +1671,11 @@
     "ags": "05754",
     "name": "Gütersloh",
     "type": "Kreis",
-    "state": "Gütersloh",
+    "state": "Nordrhein-Westfalen",
     "population": 364938,
     "cases": 3079,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 0.649561545956479,
     "lastDayCases": [
       13,
       11
@@ -1688,11 +1688,11 @@
     "ags": "05758",
     "name": "Herford",
     "type": "Kreis",
-    "state": "Herford",
+    "state": "Nordrhein-Westfalen",
     "population": 250578,
     "cases": 690,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 1.15942028985507,
     "lastDayCases": [
       13,
       11
@@ -1705,11 +1705,11 @@
     "ags": "05762",
     "name": "Höxter",
     "type": "Kreis",
-    "state": "Höxter",
+    "state": "Nordrhein-Westfalen",
     "population": 140251,
     "cases": 449,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 4.00890868596882,
     "lastDayCases": [
       3,
       1
@@ -1722,11 +1722,11 @@
     "ags": "05766",
     "name": "Lippe",
     "type": "Kreis",
-    "state": "Lippe",
+    "state": "Nordrhein-Westfalen",
     "population": 347514,
     "cases": 1038,
     "deaths": 31,
-    "deathRate": 0.0,
+    "deathRate": 2.98651252408478,
     "lastDayCases": [
       12,
       6
@@ -1739,11 +1739,11 @@
     "ags": "05770",
     "name": "Minden-Lübbecke",
     "type": "Kreis",
-    "state": "Minden-Lübbecke",
+    "state": "Nordrhein-Westfalen",
     "population": 310409,
     "cases": 970,
     "deaths": 15,
-    "deathRate": 0.0,
+    "deathRate": 1.54639175257732,
     "lastDayCases": [
       8,
       3
@@ -1756,11 +1756,11 @@
     "ags": "05774",
     "name": "Paderborn",
     "type": "Kreis",
-    "state": "Paderborn",
+    "state": "Nordrhein-Westfalen",
     "population": 307839,
     "cases": 921,
     "deaths": 34,
-    "deathRate": 0.0,
+    "deathRate": 3.69163952225842,
     "lastDayCases": [
       3,
       5
@@ -1773,11 +1773,11 @@
     "ags": "05911",
     "name": "Bochum",
     "type": "Kreisfreie Stadt",
-    "state": "Bochum",
+    "state": "Nordrhein-Westfalen",
     "population": 365587,
     "cases": 1436,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 1.94986072423398,
     "lastDayCases": [
       18,
       33
@@ -1790,11 +1790,11 @@
     "ags": "05913",
     "name": "Dortmund",
     "type": "Kreisfreie Stadt",
-    "state": "Dortmund",
+    "state": "Nordrhein-Westfalen",
     "population": 588250,
     "cases": 2238,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 0.938337801608579,
     "lastDayCases": [
       30,
       33
@@ -1807,11 +1807,11 @@
     "ags": "05914",
     "name": "Hagen",
     "type": "Kreisfreie Stadt",
-    "state": "Hagen",
+    "state": "Nordrhein-Westfalen",
     "population": 188686,
     "cases": 891,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 1.5712682379349,
     "lastDayCases": [
       28,
       16
@@ -1824,11 +1824,11 @@
     "ags": "05915",
     "name": "Hamm",
     "type": "Kreisfreie Stadt",
-    "state": "Hamm",
+    "state": "Nordrhein-Westfalen",
     "population": 179916,
     "cases": 1229,
     "deaths": 38,
-    "deathRate": 0.0,
+    "deathRate": 3.09194467046379,
     "lastDayCases": [
       21,
       4
@@ -1841,11 +1841,11 @@
     "ags": "05916",
     "name": "Herne",
     "type": "Kreisfreie Stadt",
-    "state": "Herne",
+    "state": "Nordrhein-Westfalen",
     "population": 156449,
     "cases": 612,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 1.30718954248366,
     "lastDayCases": [
       17,
       17
@@ -1858,11 +1858,11 @@
     "ags": "05954",
     "name": "Ennepe-Ruhr-Kreis",
     "type": "Kreis",
-    "state": "Ennepe-Ruhr-Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 324106,
     "cases": 939,
     "deaths": 15,
-    "deathRate": 0.0,
+    "deathRate": 1.59744408945687,
     "lastDayCases": [
       0,
       6
@@ -1875,11 +1875,11 @@
     "ags": "05958",
     "name": "Hochsauerlandkreis",
     "type": "Kreis",
-    "state": "Hochsauerlandkreis",
+    "state": "Nordrhein-Westfalen",
     "population": 259777,
     "cases": 919,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 2.06746463547334,
     "lastDayCases": [
       8,
       7
@@ -1892,11 +1892,11 @@
     "ags": "05962",
     "name": "Märkischer Kreis",
     "type": "Kreis",
-    "state": "Märkischer Kreis",
+    "state": "Nordrhein-Westfalen",
     "population": 410222,
     "cases": 1203,
     "deaths": 32,
-    "deathRate": 0.0,
+    "deathRate": 2.66001662510391,
     "lastDayCases": [
       29,
       17
@@ -1909,11 +1909,11 @@
     "ags": "05966",
     "name": "Olpe",
     "type": "Kreis",
-    "state": "Olpe",
+    "state": "Nordrhein-Westfalen",
     "population": 133955,
     "cases": 829,
     "deaths": 57,
-    "deathRate": 0.0,
+    "deathRate": 6.87575392038601,
     "lastDayCases": [
       3,
       9
@@ -1926,11 +1926,11 @@
     "ags": "05970",
     "name": "Siegen-Wittgenstein",
     "type": "Kreis",
-    "state": "Siegen-Wittgenstein",
+    "state": "Nordrhein-Westfalen",
     "population": 276944,
     "cases": 791,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 1.01137800252845,
     "lastDayCases": [
       15,
       29
@@ -1943,11 +1943,11 @@
     "ags": "05974",
     "name": "Soest",
     "type": "Kreis",
-    "state": "Soest",
+    "state": "Nordrhein-Westfalen",
     "population": 301785,
     "cases": 615,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.46341463414634,
     "lastDayCases": [
       2,
       16
@@ -1960,11 +1960,11 @@
     "ags": "05978",
     "name": "Unna",
     "type": "Kreis",
-    "state": "Unna",
+    "state": "Nordrhein-Westfalen",
     "population": 394891,
     "cases": 1478,
     "deaths": 42,
-    "deathRate": 0.0,
+    "deathRate": 2.84167794316644,
     "lastDayCases": [
       26,
       48
@@ -1977,11 +1977,11 @@
     "ags": "06411",
     "name": "Darmstadt",
     "type": "Kreisfreie Stadt",
-    "state": "Darmstadt",
+    "state": "Hessen",
     "population": 159878,
     "cases": 474,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 3.79746835443038,
     "lastDayCases": [
       8,
       0
@@ -1994,11 +1994,11 @@
     "ags": "06412",
     "name": "Frankfurt am Main",
     "type": "Kreisfreie Stadt",
-    "state": "Frankfurt am Main",
+    "state": "Hessen",
     "population": 763380,
     "cases": 3862,
     "deaths": 72,
-    "deathRate": 0.0,
+    "deathRate": 1.86431900569653,
     "lastDayCases": [
       23,
       95
@@ -2011,11 +2011,11 @@
     "ags": "06413",
     "name": "Offenbach am Main",
     "type": "Kreisfreie Stadt",
-    "state": "Offenbach am Main",
+    "state": "Hessen",
     "population": 130280,
     "cases": 653,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 1.53139356814701,
     "lastDayCases": [
       11,
       9
@@ -2028,11 +2028,11 @@
     "ags": "06414",
     "name": "Wiesbaden",
     "type": "Kreisfreie Stadt",
-    "state": "Wiesbaden",
+    "state": "Hessen",
     "population": 278474,
     "cases": 1161,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 1.89491817398794,
     "lastDayCases": [
       24,
       21
@@ -2045,11 +2045,11 @@
     "ags": "06431",
     "name": "Bergstraße",
     "type": "Landkreis",
-    "state": "Bergstraße",
+    "state": "Hessen",
     "population": 270340,
     "cases": 682,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 0.439882697947214,
     "lastDayCases": [
       7,
       6
@@ -2062,11 +2062,11 @@
     "ags": "06432",
     "name": "Darmstadt-Dieburg",
     "type": "Landkreis",
-    "state": "Darmstadt-Dieburg",
+    "state": "Hessen",
     "population": 297844,
     "cases": 764,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 2.74869109947644,
     "lastDayCases": [
       11,
       0
@@ -2079,11 +2079,11 @@
     "ags": "06433",
     "name": "Groß-Gerau",
     "type": "Landkreis",
-    "state": "Groß-Gerau",
+    "state": "Hessen",
     "population": 275726,
     "cases": 1253,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 1.35674381484437,
     "lastDayCases": [
       17,
       27
@@ -2096,11 +2096,11 @@
     "ags": "06434",
     "name": "Hochtaunuskreis",
     "type": "Landkreis",
-    "state": "Hochtaunuskreis",
+    "state": "Hessen",
     "population": 236914,
     "cases": 562,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.06761565836299,
     "lastDayCases": [
       7,
       9
@@ -2113,11 +2113,11 @@
     "ags": "06435",
     "name": "Main-Kinzig-Kreis",
     "type": "Landkreis",
-    "state": "Main-Kinzig-Kreis",
+    "state": "Hessen",
     "population": 420552,
     "cases": 1474,
     "deaths": 54,
-    "deathRate": 0.0,
+    "deathRate": 3.66350067842605,
     "lastDayCases": [
       17,
       0
@@ -2130,11 +2130,11 @@
     "ags": "06436",
     "name": "Main-Taunus-Kreis",
     "type": "Landkreis",
-    "state": "Main-Taunus-Kreis",
+    "state": "Hessen",
     "population": 238558,
     "cases": 804,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 2.11442786069652,
     "lastDayCases": [
       20,
       12
@@ -2147,11 +2147,11 @@
     "ags": "06437",
     "name": "Odenwaldkreis",
     "type": "Landkreis",
-    "state": "Odenwaldkreis",
+    "state": "Hessen",
     "population": 96703,
     "cases": 498,
     "deaths": 63,
-    "deathRate": 0.0,
+    "deathRate": 12.6506024096386,
     "lastDayCases": [
       1,
       3
@@ -2164,11 +2164,11 @@
     "ags": "06438",
     "name": "Offenbach",
     "type": "Landkreis",
-    "state": "Offenbach",
+    "state": "Hessen",
     "population": 355813,
     "cases": 1419,
     "deaths": 46,
-    "deathRate": 0.0,
+    "deathRate": 3.24171952078929,
     "lastDayCases": [
       27,
       19
@@ -2181,11 +2181,11 @@
     "ags": "06439",
     "name": "Rheingau-Taunus-Kreis",
     "type": "Landkreis",
-    "state": "Rheingau-Taunus-Kreis",
+    "state": "Hessen",
     "population": 187160,
     "cases": 545,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 1.46788990825688,
     "lastDayCases": [
       6,
       5
@@ -2198,11 +2198,11 @@
     "ags": "06440",
     "name": "Wetteraukreis",
     "type": "Landkreis",
-    "state": "Wetteraukreis",
+    "state": "Hessen",
     "population": 308339,
     "cases": 661,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.96671709531014,
     "lastDayCases": [
       8,
       9
@@ -2215,11 +2215,11 @@
     "ags": "06531",
     "name": "Gießen",
     "type": "Landkreis",
-    "state": "Gießen",
+    "state": "Hessen",
     "population": 270688,
     "cases": 540,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.11111111111111,
     "lastDayCases": [
       9,
       12
@@ -2232,11 +2232,11 @@
     "ags": "06532",
     "name": "Lahn-Dill-Kreis",
     "type": "Landkreis",
-    "state": "Lahn-Dill-Kreis",
+    "state": "Hessen",
     "population": 253319,
     "cases": 585,
     "deaths": 23,
-    "deathRate": 0.0,
+    "deathRate": 3.93162393162393,
     "lastDayCases": [
       9,
       15
@@ -2249,11 +2249,11 @@
     "ags": "06533",
     "name": "Limburg-Weilburg",
     "type": "Landkreis",
-    "state": "Limburg-Weilburg",
+    "state": "Hessen",
     "population": 171912,
     "cases": 508,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.37795275590551,
     "lastDayCases": [
       5,
       0
@@ -2266,11 +2266,11 @@
     "ags": "06534",
     "name": "Marburg-Biedenkopf",
     "type": "Landkreis",
-    "state": "Marburg-Biedenkopf",
+    "state": "Hessen",
     "population": 247084,
     "cases": 539,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 0.742115027829314,
     "lastDayCases": [
       5,
       28
@@ -2283,11 +2283,11 @@
     "ags": "06535",
     "name": "Vogelsbergkreis",
     "type": "Landkreis",
-    "state": "Vogelsbergkreis",
+    "state": "Hessen",
     "population": 105643,
     "cases": 193,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 3.10880829015544,
     "lastDayCases": [
       0,
       1
@@ -2300,11 +2300,11 @@
     "ags": "06611",
     "name": "Kassel",
     "type": "Kreisfreie Stadt",
-    "state": "Kassel",
+    "state": "Hessen",
     "population": 202137,
     "cases": 616,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.46103896103896,
     "lastDayCases": [
       10,
       4
@@ -2317,11 +2317,11 @@
     "ags": "06631",
     "name": "Fulda",
     "type": "Landkreis",
-    "state": "Fulda",
+    "state": "Hessen",
     "population": 223145,
     "cases": 640,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 2.65625,
     "lastDayCases": [
       3,
       4
@@ -2334,11 +2334,11 @@
     "ags": "06632",
     "name": "Hersfeld-Rotenburg",
     "type": "Landkreis",
-    "state": "Hersfeld-Rotenburg",
+    "state": "Hessen",
     "population": 120719,
     "cases": 383,
     "deaths": 23,
-    "deathRate": 0.0,
+    "deathRate": 6.00522193211488,
     "lastDayCases": [
       1,
       1
@@ -2351,11 +2351,11 @@
     "ags": "06633",
     "name": "Kassel",
     "type": "Landkreis",
-    "state": "Kassel",
+    "state": "Hessen",
     "population": 236764,
     "cases": 587,
     "deaths": 32,
-    "deathRate": 0.0,
+    "deathRate": 5.45144804088586,
     "lastDayCases": [
       3,
       4
@@ -2368,11 +2368,11 @@
     "ags": "06634",
     "name": "Schwalm-Eder-Kreis",
     "type": "Landkreis",
-    "state": "Schwalm-Eder-Kreis",
+    "state": "Hessen",
     "population": 179673,
     "cases": 698,
     "deaths": 39,
-    "deathRate": 0.0,
+    "deathRate": 5.58739255014327,
     "lastDayCases": [
       5,
       2
@@ -2385,11 +2385,11 @@
     "ags": "06635",
     "name": "Waldeck-Frankenberg",
     "type": "Landkreis",
-    "state": "Waldeck-Frankenberg",
+    "state": "Hessen",
     "population": 156406,
     "cases": 277,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 1.80505415162455,
     "lastDayCases": [
       1,
       9
@@ -2402,11 +2402,11 @@
     "ags": "06636",
     "name": "Werra-Meißner-Kreis",
     "type": "Landkreis",
-    "state": "Werra-Meißner-Kreis",
+    "state": "Hessen",
     "population": 100629,
     "cases": 284,
     "deaths": 16,
-    "deathRate": 0.0,
+    "deathRate": 5.63380281690141,
     "lastDayCases": [
       4,
       12
@@ -2419,11 +2419,11 @@
     "ags": "07111",
     "name": "Koblenz",
     "type": "Kreisfreie Stadt",
-    "state": "Koblenz",
+    "state": "Rheinland-Pfalz",
     "population": 114052,
     "cases": 360,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 5.55555555555556,
     "lastDayCases": [
       4,
       0
@@ -2436,11 +2436,11 @@
     "ags": "07131",
     "name": "Ahrweiler",
     "type": "Landkreis",
-    "state": "Ahrweiler",
+    "state": "Rheinland-Pfalz",
     "population": 130086,
     "cases": 378,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 0.793650793650794,
     "lastDayCases": [
       6,
       2
@@ -2453,11 +2453,11 @@
     "ags": "07132",
     "name": "Altenkirchen (Westerwald)",
     "type": "Landkreis",
-    "state": "Altenkirchen (Westerwald)",
+    "state": "Rheinland-Pfalz",
     "population": 128805,
     "cases": 270,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 4.44444444444444,
     "lastDayCases": [
       2,
       4
@@ -2470,11 +2470,11 @@
     "ags": "07133",
     "name": "Bad Kreuznach",
     "type": "Landkreis",
-    "state": "Bad Kreuznach",
+    "state": "Rheinland-Pfalz",
     "population": 158345,
     "cases": 369,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.8970189701897,
     "lastDayCases": [
       8,
       9
@@ -2487,11 +2487,11 @@
     "ags": "07134",
     "name": "Birkenfeld",
     "type": "Landkreis",
-    "state": "Birkenfeld",
+    "state": "Rheinland-Pfalz",
     "population": 80951,
     "cases": 124,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.41935483870968,
     "lastDayCases": [
       0,
       0
@@ -2504,11 +2504,11 @@
     "ags": "07135",
     "name": "Cochem-Zell",
     "type": "Landkreis",
-    "state": "Cochem-Zell",
+    "state": "Rheinland-Pfalz",
     "population": 61375,
     "cases": 174,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.574712643678161,
     "lastDayCases": [
       0,
       0
@@ -2521,11 +2521,11 @@
     "ags": "07137",
     "name": "Mayen-Koblenz",
     "type": "Landkreis",
-    "state": "Mayen-Koblenz",
+    "state": "Rheinland-Pfalz",
     "population": 214434,
     "cases": 507,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 3.35305719921105,
     "lastDayCases": [
       7,
       0
@@ -2538,11 +2538,11 @@
     "ags": "07138",
     "name": "Neuwied",
     "type": "Landkreis",
-    "state": "Neuwied",
+    "state": "Rheinland-Pfalz",
     "population": 182811,
     "cases": 515,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 0.970873786407767,
     "lastDayCases": [
       11,
       26
@@ -2555,11 +2555,11 @@
     "ags": "07140",
     "name": "Rhein-Hunsrück-Kreis",
     "type": "Landkreis",
-    "state": "Rhein-Hunsrück-Kreis",
+    "state": "Rheinland-Pfalz",
     "population": 103163,
     "cases": 232,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.58620689655172,
     "lastDayCases": [
       0,
       3
@@ -2572,11 +2572,11 @@
     "ags": "07141",
     "name": "Rhein-Lahn-Kreis",
     "type": "Landkreis",
-    "state": "Rhein-Lahn-Kreis",
+    "state": "Rheinland-Pfalz",
     "population": 122297,
     "cases": 221,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.71493212669683,
     "lastDayCases": [
       1,
       5
@@ -2589,11 +2589,11 @@
     "ags": "07143",
     "name": "Westerwaldkreis",
     "type": "Landkreis",
-    "state": "Westerwaldkreis",
+    "state": "Rheinland-Pfalz",
     "population": 201904,
     "cases": 615,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 3.57723577235772,
     "lastDayCases": [
       3,
       7
@@ -2606,11 +2606,11 @@
     "ags": "07211",
     "name": "Trier",
     "type": "Kreisfreie Stadt",
-    "state": "Trier",
+    "state": "Rheinland-Pfalz",
     "population": 111528,
     "cases": 233,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.429184549356223,
     "lastDayCases": [
       3,
       6
@@ -2623,11 +2623,11 @@
     "ags": "07231",
     "name": "Bernkastel-Wittlich",
     "type": "Landkreis",
-    "state": "Bernkastel-Wittlich",
+    "state": "Rheinland-Pfalz",
     "population": 112483,
     "cases": 288,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.694444444444444,
     "lastDayCases": [
       5,
       3
@@ -2640,11 +2640,11 @@
     "ags": "07232",
     "name": "Eifelkreis Bitburg-Prüm",
     "type": "Landkreis",
-    "state": "Eifelkreis Bitburg-Prüm",
+    "state": "Rheinland-Pfalz",
     "population": 99058,
     "cases": 323,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.85758513931889,
     "lastDayCases": [
       2,
       2
@@ -2657,11 +2657,11 @@
     "ags": "07233",
     "name": "Vulkaneifel",
     "type": "Landkreis",
-    "state": "Vulkaneifel",
+    "state": "Rheinland-Pfalz",
     "population": 60646,
     "cases": 148,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 3.37837837837838,
     "lastDayCases": [
       0,
       0
@@ -2674,11 +2674,11 @@
     "ags": "07235",
     "name": "Trier-Saarburg",
     "type": "Landkreis",
-    "state": "Trier-Saarburg",
+    "state": "Rheinland-Pfalz",
     "population": 149398,
     "cases": 421,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 2.61282660332542,
     "lastDayCases": [
       1,
       5
@@ -2691,11 +2691,11 @@
     "ags": "07311",
     "name": "Frankenthal (Pfalz)",
     "type": "Kreisfreie Stadt",
-    "state": "Frankenthal (Pfalz)",
+    "state": "Rheinland-Pfalz",
     "population": 48762,
     "cases": 95,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.10526315789474,
     "lastDayCases": [
       0,
       2
@@ -2708,11 +2708,11 @@
     "ags": "07312",
     "name": "Kaiserslautern",
     "type": "Kreisfreie Stadt",
-    "state": "Kaiserslautern",
+    "state": "Rheinland-Pfalz",
     "population": 100030,
     "cases": 323,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.85758513931889,
     "lastDayCases": [
       3,
       6
@@ -2725,11 +2725,11 @@
     "ags": "07313",
     "name": "Landau in der Pfalz",
     "type": "Kreisfreie Stadt",
-    "state": "Landau in der Pfalz",
+    "state": "Rheinland-Pfalz",
     "population": 46881,
     "cases": 92,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.17391304347826,
     "lastDayCases": [
       0,
       2
@@ -2742,11 +2742,11 @@
     "ags": "07314",
     "name": "Ludwigshafen am Rhein",
     "type": "Kreisfreie Stadt",
-    "state": "Ludwigshafen am Rhein",
+    "state": "Rheinland-Pfalz",
     "population": 172253,
     "cases": 671,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.29806259314456,
     "lastDayCases": [
       2,
       6
@@ -2759,11 +2759,11 @@
     "ags": "07315",
     "name": "Mainz",
     "type": "Kreisfreie Stadt",
-    "state": "Mainz",
+    "state": "Rheinland-Pfalz",
     "population": 218578,
     "cases": 1124,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 2.49110320284698,
     "lastDayCases": [
       11,
       27
@@ -2776,11 +2776,11 @@
     "ags": "07316",
     "name": "Neustadt an der Weinstraße",
     "type": "Kreisfreie Stadt",
-    "state": "Neustadt an der Weinstraße",
+    "state": "Rheinland-Pfalz",
     "population": 53264,
     "cases": 160,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.25,
     "lastDayCases": [
       0,
       1
@@ -2793,7 +2793,7 @@
     "ags": "07317",
     "name": "Pirmasens",
     "type": "Kreisfreie Stadt",
-    "state": "Pirmasens",
+    "state": "Rheinland-Pfalz",
     "population": 40231,
     "cases": 53,
     "deaths": 0,
@@ -2810,11 +2810,11 @@
     "ags": "07318",
     "name": "Speyer",
     "type": "Kreisfreie Stadt",
-    "state": "Speyer",
+    "state": "Rheinland-Pfalz",
     "population": 50561,
     "cases": 173,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.578034682080925,
     "lastDayCases": [
       0,
       1
@@ -2827,11 +2827,11 @@
     "ags": "07319",
     "name": "Worms",
     "type": "Kreisfreie Stadt",
-    "state": "Worms",
+    "state": "Rheinland-Pfalz",
     "population": 83542,
     "cases": 341,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 2.34604105571848,
     "lastDayCases": [
       0,
       1
@@ -2844,11 +2844,11 @@
     "ags": "07320",
     "name": "Zweibrücken",
     "type": "Kreisfreie Stadt",
-    "state": "Zweibrücken",
+    "state": "Rheinland-Pfalz",
     "population": 34193,
     "cases": 65,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.53846153846154,
     "lastDayCases": [
       1,
       0
@@ -2861,11 +2861,11 @@
     "ags": "07331",
     "name": "Alzey-Worms",
     "type": "Landkreis",
-    "state": "Alzey-Worms",
+    "state": "Rheinland-Pfalz",
     "population": 129687,
     "cases": 410,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 2.68292682926829,
     "lastDayCases": [
       6,
       5
@@ -2878,11 +2878,11 @@
     "ags": "07332",
     "name": "Bad Dürkheim",
     "type": "Landkreis",
-    "state": "Bad Dürkheim",
+    "state": "Rheinland-Pfalz",
     "population": 132671,
     "cases": 399,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 3.00751879699248,
     "lastDayCases": [
       3,
       5
@@ -2895,11 +2895,11 @@
     "ags": "07333",
     "name": "Donnersbergkreis",
     "type": "Landkreis",
-    "state": "Donnersbergkreis",
+    "state": "Rheinland-Pfalz",
     "population": 75325,
     "cases": 184,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 4.89130434782609,
     "lastDayCases": [
       0,
       0
@@ -2912,11 +2912,11 @@
     "ags": "07334",
     "name": "Germersheim",
     "type": "Landkreis",
-    "state": "Germersheim",
+    "state": "Rheinland-Pfalz",
     "population": 129013,
     "cases": 398,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.50753768844221,
     "lastDayCases": [
       0,
       7
@@ -2929,11 +2929,11 @@
     "ags": "07335",
     "name": "Kaiserslautern",
     "type": "Landkreis",
-    "state": "Kaiserslautern",
+    "state": "Rheinland-Pfalz",
     "population": 105979,
     "cases": 244,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.409836065573771,
     "lastDayCases": [
       9,
       15
@@ -2946,11 +2946,11 @@
     "ags": "07336",
     "name": "Kusel",
     "type": "Landkreis",
-    "state": "Kusel",
+    "state": "Rheinland-Pfalz",
     "population": 70219,
     "cases": 139,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.719424460431655,
     "lastDayCases": [
       0,
       3
@@ -2963,11 +2963,11 @@
     "ags": "07337",
     "name": "Südliche Weinstraße",
     "type": "Landkreis",
-    "state": "Südliche Weinstraße",
+    "state": "Rheinland-Pfalz",
     "population": 110521,
     "cases": 194,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 2.06185567010309,
     "lastDayCases": [
       0,
       3
@@ -2980,11 +2980,11 @@
     "ags": "07338",
     "name": "Rhein-Pfalz-Kreis",
     "type": "Landkreis",
-    "state": "Rhein-Pfalz-Kreis",
+    "state": "Rheinland-Pfalz",
     "population": 154609,
     "cases": 436,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 1.14678899082569,
     "lastDayCases": [
       2,
       8
@@ -2997,11 +2997,11 @@
     "ags": "07339",
     "name": "Mainz-Bingen",
     "type": "Landkreis",
-    "state": "Mainz-Bingen",
+    "state": "Rheinland-Pfalz",
     "population": 211417,
     "cases": 671,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 3.725782414307,
     "lastDayCases": [
       2,
       25
@@ -3014,11 +3014,11 @@
     "ags": "07340",
     "name": "Südwestpfalz",
     "type": "Landkreis",
-    "state": "Südwestpfalz",
+    "state": "Rheinland-Pfalz",
     "population": 94831,
     "cases": 149,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.01342281879195,
     "lastDayCases": [
       1,
       0
@@ -3031,11 +3031,11 @@
     "ags": "08111",
     "name": "Stuttgart",
     "type": "Stadtkreis",
-    "state": "Stuttgart",
+    "state": "Baden-Württemberg",
     "population": 635911,
     "cases": 3088,
     "deaths": 65,
-    "deathRate": 0.0,
+    "deathRate": 2.10492227979275,
     "lastDayCases": [
       38,
       78
@@ -3048,11 +3048,11 @@
     "ags": "08115",
     "name": "Böblingen",
     "type": "Landkreis",
-    "state": "Böblingen",
+    "state": "Baden-Württemberg",
     "population": 392807,
     "cases": 2236,
     "deaths": 49,
-    "deathRate": 0.0,
+    "deathRate": 2.19141323792487,
     "lastDayCases": [
       21,
       25
@@ -3065,11 +3065,11 @@
     "ags": "08116",
     "name": "Esslingen",
     "type": "Landkreis",
-    "state": "Esslingen",
+    "state": "Baden-Württemberg",
     "population": 535024,
     "cases": 3020,
     "deaths": 121,
-    "deathRate": 0.0,
+    "deathRate": 4.00662251655629,
     "lastDayCases": [
       56,
       64
@@ -3082,11 +3082,11 @@
     "ags": "08117",
     "name": "Göppingen",
     "type": "Landkreis",
-    "state": "Göppingen",
+    "state": "Baden-Württemberg",
     "population": 258145,
     "cases": 1254,
     "deaths": 40,
-    "deathRate": 0.0,
+    "deathRate": 3.18979266347687,
     "lastDayCases": [
       16,
       32
@@ -3099,11 +3099,11 @@
     "ags": "08118",
     "name": "Ludwigsburg",
     "type": "Landkreis",
-    "state": "Ludwigsburg",
+    "state": "Baden-Württemberg",
     "population": 545423,
     "cases": 2845,
     "deaths": 74,
-    "deathRate": 0.0,
+    "deathRate": 2.60105448154657,
     "lastDayCases": [
       41,
       50
@@ -3116,11 +3116,11 @@
     "ags": "08119",
     "name": "Rems-Murr-Kreis",
     "type": "Landkreis",
-    "state": "Rems-Murr-Kreis",
+    "state": "Baden-Württemberg",
     "population": 427248,
     "cases": 2399,
     "deaths": 99,
-    "deathRate": 0.0,
+    "deathRate": 4.12671946644435,
     "lastDayCases": [
       8,
       8
@@ -3133,11 +3133,11 @@
     "ags": "08121",
     "name": "Heilbronn",
     "type": "Stadtkreis",
-    "state": "Heilbronn",
+    "state": "Baden-Württemberg",
     "population": 126592,
     "cases": 775,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 2.19354838709677,
     "lastDayCases": [
       6,
       18
@@ -3150,11 +3150,11 @@
     "ags": "08125",
     "name": "Heilbronn",
     "type": "Landkreis",
-    "state": "Heilbronn",
+    "state": "Baden-Württemberg",
     "population": 344456,
     "cases": 1422,
     "deaths": 44,
-    "deathRate": 0.0,
+    "deathRate": 3.09423347398031,
     "lastDayCases": [
       0,
       22
@@ -3167,11 +3167,11 @@
     "ags": "08126",
     "name": "Hohenlohekreis",
     "type": "Landkreis",
-    "state": "Hohenlohekreis",
+    "state": "Baden-Württemberg",
     "population": 112655,
     "cases": 880,
     "deaths": 47,
-    "deathRate": 0.0,
+    "deathRate": 5.34090909090909,
     "lastDayCases": [
       7,
       3
@@ -3184,11 +3184,11 @@
     "ags": "08127",
     "name": "Schwäbisch Hall",
     "type": "Landkreis",
-    "state": "Schwäbisch Hall",
+    "state": "Baden-Württemberg",
     "population": 196761,
     "cases": 1173,
     "deaths": 60,
-    "deathRate": 0.0,
+    "deathRate": 5.1150895140665,
     "lastDayCases": [
       9,
       14
@@ -3201,11 +3201,11 @@
     "ags": "08128",
     "name": "Main-Tauber-Kreis",
     "type": "Landkreis",
-    "state": "Main-Tauber-Kreis",
+    "state": "Baden-Württemberg",
     "population": 132399,
     "cases": 573,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 1.91972076788831,
     "lastDayCases": [
       3,
       0
@@ -3218,11 +3218,11 @@
     "ags": "08135",
     "name": "Heidenheim",
     "type": "Landkreis",
-    "state": "Heidenheim",
+    "state": "Baden-Württemberg",
     "population": 132777,
     "cases": 633,
     "deaths": 41,
-    "deathRate": 0.0,
+    "deathRate": 6.47709320695103,
     "lastDayCases": [
       1,
       3
@@ -3235,11 +3235,11 @@
     "ags": "08136",
     "name": "Ostalbkreis",
     "type": "Landkreis",
-    "state": "Ostalbkreis",
+    "state": "Baden-Württemberg",
     "population": 314025,
     "cases": 1928,
     "deaths": 44,
-    "deathRate": 0.0,
+    "deathRate": 2.28215767634855,
     "lastDayCases": [
       9,
       8
@@ -3252,11 +3252,11 @@
     "ags": "08211",
     "name": "Baden-Baden",
     "type": "Stadtkreis",
-    "state": "Baden-Baden",
+    "state": "Baden-Württemberg",
     "population": 55185,
     "cases": 234,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 8.11965811965812,
     "lastDayCases": [
       1,
       1
@@ -3269,11 +3269,11 @@
     "ags": "08212",
     "name": "Karlsruhe",
     "type": "Stadtkreis",
-    "state": "Karlsruhe",
+    "state": "Baden-Württemberg",
     "population": 312060,
     "cases": 730,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 1.91780821917808,
     "lastDayCases": [
       4,
       9
@@ -3286,11 +3286,11 @@
     "ags": "08215",
     "name": "Karlsruhe",
     "type": "Landkreis",
-    "state": "Karlsruhe",
+    "state": "Baden-Württemberg",
     "population": 445101,
     "cases": 1514,
     "deaths": 82,
-    "deathRate": 0.0,
+    "deathRate": 5.41611624834874,
     "lastDayCases": [
       16,
       34
@@ -3303,11 +3303,11 @@
     "ags": "08216",
     "name": "Rastatt",
     "type": "Landkreis",
-    "state": "Rastatt",
+    "state": "Baden-Württemberg",
     "population": 231420,
     "cases": 760,
     "deaths": 19,
-    "deathRate": 0.0,
+    "deathRate": 2.5,
     "lastDayCases": [
       2,
       5
@@ -3320,11 +3320,11 @@
     "ags": "08221",
     "name": "Heidelberg",
     "type": "Stadtkreis",
-    "state": "Heidelberg",
+    "state": "Baden-Württemberg",
     "population": 161485,
     "cases": 557,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.25673249551167,
     "lastDayCases": [
       7,
       5
@@ -3337,11 +3337,11 @@
     "ags": "08222",
     "name": "Mannheim",
     "type": "Stadtkreis",
-    "state": "Mannheim",
+    "state": "Baden-Württemberg",
     "population": 310658,
     "cases": 1234,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.05348460291734,
     "lastDayCases": [
       0,
       42
@@ -3354,11 +3354,11 @@
     "ags": "08225",
     "name": "Neckar-Odenwald-Kreis",
     "type": "Landkreis",
-    "state": "Neckar-Odenwald-Kreis",
+    "state": "Baden-Württemberg",
     "population": 143633,
     "cases": 559,
     "deaths": 23,
-    "deathRate": 0.0,
+    "deathRate": 4.11449016100179,
     "lastDayCases": [
       4,
       9
@@ -3371,11 +3371,11 @@
     "ags": "08226",
     "name": "Rhein-Neckar-Kreis",
     "type": "Landkreis",
-    "state": "Rhein-Neckar-Kreis",
+    "state": "Baden-Württemberg",
     "population": 548355,
     "cases": 1718,
     "deaths": 40,
-    "deathRate": 0.0,
+    "deathRate": 2.32828870779977,
     "lastDayCases": [
       8,
       18
@@ -3388,11 +3388,11 @@
     "ags": "08231",
     "name": "Pforzheim",
     "type": "Stadtkreis",
-    "state": "Pforzheim",
+    "state": "Baden-Württemberg",
     "population": 125957,
     "cases": 649,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.38674884437596,
     "lastDayCases": [
       4,
       11
@@ -3405,11 +3405,11 @@
     "ags": "08235",
     "name": "Calw",
     "type": "Landkreis",
-    "state": "Calw",
+    "state": "Baden-Württemberg",
     "population": 159201,
     "cases": 964,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 2.80082987551867,
     "lastDayCases": [
       11,
       16
@@ -3422,11 +3422,11 @@
     "ags": "08236",
     "name": "Enzkreis",
     "type": "Landkreis",
-    "state": "Enzkreis",
+    "state": "Baden-Württemberg",
     "population": 199556,
     "cases": 930,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 2.90322580645161,
     "lastDayCases": [
       8,
       11
@@ -3439,11 +3439,11 @@
     "ags": "08237",
     "name": "Freudenstadt",
     "type": "Landkreis",
-    "state": "Freudenstadt",
+    "state": "Baden-Württemberg",
     "population": 118243,
     "cases": 669,
     "deaths": 39,
-    "deathRate": 0.0,
+    "deathRate": 5.82959641255605,
     "lastDayCases": [
       0,
       2
@@ -3456,11 +3456,11 @@
     "ags": "08311",
     "name": "Freiburg im Breisgau",
     "type": "Stadtkreis",
-    "state": "Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
     "population": 231195,
     "cases": 1307,
     "deaths": 80,
-    "deathRate": 0.0,
+    "deathRate": 6.12088752869166,
     "lastDayCases": [
       1,
       15
@@ -3473,11 +3473,11 @@
     "ags": "08315",
     "name": "Breisgau-Hochschwarzwald",
     "type": "Landkreis",
-    "state": "Breisgau-Hochschwarzwald",
+    "state": "Baden-Württemberg",
     "population": 263601,
     "cases": 1553,
     "deaths": 72,
-    "deathRate": 0.0,
+    "deathRate": 4.63618802318094,
     "lastDayCases": [
       4,
       13
@@ -3490,11 +3490,11 @@
     "ags": "08316",
     "name": "Emmendingen",
     "type": "Landkreis",
-    "state": "Emmendingen",
+    "state": "Baden-Württemberg",
     "population": 166408,
     "cases": 725,
     "deaths": 44,
-    "deathRate": 0.0,
+    "deathRate": 6.06896551724138,
     "lastDayCases": [
       8,
       7
@@ -3507,11 +3507,11 @@
     "ags": "08317",
     "name": "Ortenaukreis",
     "type": "Landkreis",
-    "state": "Ortenaukreis",
+    "state": "Baden-Württemberg",
     "population": 430953,
     "cases": 1719,
     "deaths": 125,
-    "deathRate": 0.0,
+    "deathRate": 7.2716695753345,
     "lastDayCases": [
       30,
       43
@@ -3524,11 +3524,11 @@
     "ags": "08325",
     "name": "Rottweil",
     "type": "Landkreis",
-    "state": "Rottweil",
+    "state": "Baden-Württemberg",
     "population": 139878,
     "cases": 786,
     "deaths": 26,
-    "deathRate": 0.0,
+    "deathRate": 3.30788804071247,
     "lastDayCases": [
       2,
       3
@@ -3541,11 +3541,11 @@
     "ags": "08326",
     "name": "Schwarzwald-Baar-Kreis",
     "type": "Landkreis",
-    "state": "Schwarzwald-Baar-Kreis",
+    "state": "Baden-Württemberg",
     "population": 212506,
     "cases": 717,
     "deaths": 35,
-    "deathRate": 0.0,
+    "deathRate": 4.88145048814505,
     "lastDayCases": [
       5,
       7
@@ -3558,11 +3558,11 @@
     "ags": "08327",
     "name": "Tuttlingen",
     "type": "Landkreis",
-    "state": "Tuttlingen",
+    "state": "Baden-Württemberg",
     "population": 140766,
     "cases": 642,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 3.89408099688474,
     "lastDayCases": [
       1,
       17
@@ -3575,11 +3575,11 @@
     "ags": "08335",
     "name": "Konstanz",
     "type": "Landkreis",
-    "state": "Konstanz",
+    "state": "Baden-Württemberg",
     "population": 286305,
     "cases": 784,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 2.16836734693878,
     "lastDayCases": [
       7,
       8
@@ -3592,11 +3592,11 @@
     "ags": "08336",
     "name": "Lörrach",
     "type": "Landkreis",
-    "state": "Lörrach",
+    "state": "Baden-Württemberg",
     "population": 228736,
     "cases": 914,
     "deaths": 65,
-    "deathRate": 0.0,
+    "deathRate": 7.11159737417943,
     "lastDayCases": [
       0,
       3
@@ -3609,11 +3609,11 @@
     "ags": "08337",
     "name": "Waldshut",
     "type": "Landkreis",
-    "state": "Waldshut",
+    "state": "Baden-Württemberg",
     "population": 171003,
     "cases": 457,
     "deaths": 35,
-    "deathRate": 0.0,
+    "deathRate": 7.65864332603939,
     "lastDayCases": [
       0,
       6
@@ -3626,11 +3626,11 @@
     "ags": "08415",
     "name": "Reutlingen",
     "type": "Landkreis",
-    "state": "Reutlingen",
+    "state": "Baden-Württemberg",
     "population": 287034,
     "cases": 2011,
     "deaths": 82,
-    "deathRate": 0.0,
+    "deathRate": 4.07757334659373,
     "lastDayCases": [
       17,
       7
@@ -3643,11 +3643,11 @@
     "ags": "08416",
     "name": "Tübingen",
     "type": "Landkreis",
-    "state": "Tübingen",
+    "state": "Baden-Württemberg",
     "population": 228678,
     "cases": 1579,
     "deaths": 60,
-    "deathRate": 0.0,
+    "deathRate": 3.79987333755542,
     "lastDayCases": [
       7,
       0
@@ -3660,11 +3660,11 @@
     "ags": "08417",
     "name": "Zollernalbkreis",
     "type": "Landkreis",
-    "state": "Zollernalbkreis",
+    "state": "Baden-Württemberg",
     "population": 189363,
     "cases": 1431,
     "deaths": 78,
-    "deathRate": 0.0,
+    "deathRate": 5.45073375262055,
     "lastDayCases": [
       0,
       4
@@ -3677,11 +3677,11 @@
     "ags": "08421",
     "name": "Ulm",
     "type": "Stadtkreis",
-    "state": "Ulm",
+    "state": "Baden-Württemberg",
     "population": 126790,
     "cases": 626,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 1.59744408945687,
     "lastDayCases": [
       11,
       5
@@ -3694,11 +3694,11 @@
     "ags": "08425",
     "name": "Alb-Donau-Kreis",
     "type": "Landkreis",
-    "state": "Alb-Donau-Kreis",
+    "state": "Baden-Württemberg",
     "population": 197076,
     "cases": 948,
     "deaths": 26,
-    "deathRate": 0.0,
+    "deathRate": 2.74261603375527,
     "lastDayCases": [
       5,
       8
@@ -3711,11 +3711,11 @@
     "ags": "08426",
     "name": "Biberach",
     "type": "Landkreis",
-    "state": "Biberach",
+    "state": "Baden-Württemberg",
     "population": 201282,
     "cases": 891,
     "deaths": 36,
-    "deathRate": 0.0,
+    "deathRate": 4.04040404040404,
     "lastDayCases": [
       7,
       6
@@ -3728,11 +3728,11 @@
     "ags": "08435",
     "name": "Bodenseekreis",
     "type": "Landkreis",
-    "state": "Bodenseekreis",
+    "state": "Baden-Württemberg",
     "population": 217470,
     "cases": 567,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 1.41093474426808,
     "lastDayCases": [
       1,
       2
@@ -3745,11 +3745,11 @@
     "ags": "08436",
     "name": "Ravensburg",
     "type": "Landkreis",
-    "state": "Ravensburg",
+    "state": "Baden-Württemberg",
     "population": 285424,
     "cases": 924,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 0.757575757575758,
     "lastDayCases": [
       0,
       6
@@ -3762,11 +3762,11 @@
     "ags": "08437",
     "name": "Sigmaringen",
     "type": "Landkreis",
-    "state": "Sigmaringen",
+    "state": "Baden-Württemberg",
     "population": 130849,
     "cases": 906,
     "deaths": 36,
-    "deathRate": 0.0,
+    "deathRate": 3.97350993377483,
     "lastDayCases": [
       2,
       4
@@ -3779,11 +3779,11 @@
     "ags": "09161",
     "name": "Ingolstadt",
     "type": "Kreisfreie Stadt",
-    "state": "Ingolstadt",
+    "state": "Bayern",
     "population": 137392,
     "cases": 838,
     "deaths": 39,
-    "deathRate": 0.0,
+    "deathRate": 4.65393794749403,
     "lastDayCases": [
       10,
       9
@@ -3796,11 +3796,11 @@
     "ags": "09162",
     "name": "München",
     "type": "Kreisfreie Stadt",
-    "state": "München",
+    "state": "Bayern",
     "population": 1484226,
     "cases": 12114,
     "deaths": 228,
-    "deathRate": 0.0,
+    "deathRate": 1.88211986131748,
     "lastDayCases": [
       118,
       112
@@ -3813,11 +3813,11 @@
     "ags": "09163",
     "name": "Rosenheim",
     "type": "Kreisfreie Stadt",
-    "state": "Rosenheim",
+    "state": "Bayern",
     "population": 63551,
     "cases": 756,
     "deaths": 23,
-    "deathRate": 0.0,
+    "deathRate": 3.04232804232804,
     "lastDayCases": [
       10,
       9
@@ -3830,11 +3830,11 @@
     "ags": "09171",
     "name": "Altötting",
     "type": "Landkreis",
-    "state": "Altötting",
+    "state": "Bayern",
     "population": 111516,
     "cases": 758,
     "deaths": 57,
-    "deathRate": 0.0,
+    "deathRate": 7.5197889182058,
     "lastDayCases": [
       2,
       1
@@ -3847,11 +3847,11 @@
     "ags": "09172",
     "name": "Berchtesgadener Land",
     "type": "Landkreis",
-    "state": "Berchtesgadener Land",
+    "state": "Bayern",
     "population": 105929,
     "cases": 457,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 5.47045951859956,
     "lastDayCases": [
       0,
       8
@@ -3864,11 +3864,11 @@
     "ags": "09173",
     "name": "Bad Tölz-Wolfratshausen",
     "type": "Landkreis",
-    "state": "Bad Tölz-Wolfratshausen",
+    "state": "Bayern",
     "population": 127917,
     "cases": 653,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 1.53139356814701,
     "lastDayCases": [
       4,
       3
@@ -3881,11 +3881,11 @@
     "ags": "09174",
     "name": "Dachau",
     "type": "Landkreis",
-    "state": "Dachau",
+    "state": "Bayern",
     "population": 154899,
     "cases": 1280,
     "deaths": 35,
-    "deathRate": 0.0,
+    "deathRate": 2.734375,
     "lastDayCases": [
       12,
       5
@@ -3898,11 +3898,11 @@
     "ags": "09175",
     "name": "Ebersberg",
     "type": "Landkreis",
-    "state": "Ebersberg",
+    "state": "Bayern",
     "population": 143649,
     "cases": 807,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 0.743494423791822,
     "lastDayCases": [
       6,
       15
@@ -3915,11 +3915,11 @@
     "ags": "09176",
     "name": "Eichstätt",
     "type": "Landkreis",
-    "state": "Eichstätt",
+    "state": "Bayern",
     "population": 132881,
     "cases": 436,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 4.58715596330275,
     "lastDayCases": [
       0,
       1
@@ -3932,11 +3932,11 @@
     "ags": "09177",
     "name": "Erding",
     "type": "Landkreis",
-    "state": "Erding",
+    "state": "Bayern",
     "population": 138182,
     "cases": 883,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 1.24575311438279,
     "lastDayCases": [
       5,
       1
@@ -3949,11 +3949,11 @@
     "ags": "09178",
     "name": "Freising",
     "type": "Landkreis",
-    "state": "Freising",
+    "state": "Bayern",
     "population": 180007,
     "cases": 1369,
     "deaths": 47,
-    "deathRate": 0.0,
+    "deathRate": 3.43316289262235,
     "lastDayCases": [
       1,
       8
@@ -3966,11 +3966,11 @@
     "ags": "09179",
     "name": "Fürstenfeldbruck",
     "type": "Landkreis",
-    "state": "Fürstenfeldbruck",
+    "state": "Bayern",
     "population": 219311,
     "cases": 1417,
     "deaths": 36,
-    "deathRate": 0.0,
+    "deathRate": 2.54057868736768,
     "lastDayCases": [
       20,
       23
@@ -3983,11 +3983,11 @@
     "ags": "09180",
     "name": "Garmisch-Partenkirchen",
     "type": "Landkreis",
-    "state": "Garmisch-Partenkirchen",
+    "state": "Bayern",
     "population": 88424,
     "cases": 439,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 4.55580865603645,
     "lastDayCases": [
       0,
       3
@@ -4000,11 +4000,11 @@
     "ags": "09181",
     "name": "Landsberg am Lech",
     "type": "Landkreis",
-    "state": "Landsberg am Lech",
+    "state": "Bayern",
     "population": 120302,
     "cases": 494,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 2.02429149797571,
     "lastDayCases": [
       2,
       5
@@ -4017,11 +4017,11 @@
     "ags": "09182",
     "name": "Miesbach",
     "type": "Landkreis",
-    "state": "Miesbach",
+    "state": "Bayern",
     "population": 100010,
     "cases": 781,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 1.40845070422535,
     "lastDayCases": [
       4,
       4
@@ -4034,11 +4034,11 @@
     "ags": "09183",
     "name": "Mühldorf a. Inn",
     "type": "Landkreis",
-    "state": "Mühldorf a. Inn",
+    "state": "Bayern",
     "population": 115872,
     "cases": 668,
     "deaths": 27,
-    "deathRate": 0.0,
+    "deathRate": 4.04191616766467,
     "lastDayCases": [
       0,
       4
@@ -4051,11 +4051,11 @@
     "ags": "09184",
     "name": "München",
     "type": "Landkreis",
-    "state": "München",
+    "state": "Bayern",
     "population": 350473,
     "cases": 2172,
     "deaths": 96,
-    "deathRate": 0.0,
+    "deathRate": 4.41988950276243,
     "lastDayCases": [
       13,
       20
@@ -4068,11 +4068,11 @@
     "ags": "09185",
     "name": "Neuburg-Schrobenhausen",
     "type": "Landkreis",
-    "state": "Neuburg-Schrobenhausen",
+    "state": "Bayern",
     "population": 97303,
     "cases": 447,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 4.02684563758389,
     "lastDayCases": [
       0,
       1
@@ -4085,11 +4085,11 @@
     "ags": "09186",
     "name": "Pfaffenhofen a.d. Ilm",
     "type": "Landkreis",
-    "state": "Pfaffenhofen a.d. Ilm",
+    "state": "Bayern",
     "population": 128227,
     "cases": 527,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 3.98481973434535,
     "lastDayCases": [
       0,
       8
@@ -4102,11 +4102,11 @@
     "ags": "09187",
     "name": "Rosenheim",
     "type": "Landkreis",
-    "state": "Rosenheim",
+    "state": "Bayern",
     "population": 261330,
     "cases": 2667,
     "deaths": 199,
-    "deathRate": 0.0,
+    "deathRate": 7.46156730408699,
     "lastDayCases": [
       9,
       14
@@ -4119,11 +4119,11 @@
     "ags": "09188",
     "name": "Starnberg",
     "type": "Landkreis",
-    "state": "Starnberg",
+    "state": "Bayern",
     "population": 136667,
     "cases": 805,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.61490683229814,
     "lastDayCases": [
       0,
       7
@@ -4136,11 +4136,11 @@
     "ags": "09189",
     "name": "Traunstein",
     "type": "Landkreis",
-    "state": "Traunstein",
+    "state": "Bayern",
     "population": 177319,
     "cases": 1485,
     "deaths": 88,
-    "deathRate": 0.0,
+    "deathRate": 5.92592592592593,
     "lastDayCases": [
       2,
       11
@@ -4153,11 +4153,11 @@
     "ags": "09190",
     "name": "Weilheim-Schongau",
     "type": "Landkreis",
-    "state": "Weilheim-Schongau",
+    "state": "Bayern",
     "population": 135478,
     "cases": 485,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 0.618556701030928,
     "lastDayCases": [
       2,
       0
@@ -4170,11 +4170,11 @@
     "ags": "09261",
     "name": "Landshut",
     "type": "Kreisfreie Stadt",
-    "state": "Landshut",
+    "state": "Bayern",
     "population": 73411,
     "cases": 469,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.91897654584222,
     "lastDayCases": [
       0,
       2
@@ -4187,11 +4187,11 @@
     "ags": "09262",
     "name": "Passau",
     "type": "Kreisfreie Stadt",
-    "state": "Passau",
+    "state": "Bayern",
     "population": 52803,
     "cases": 231,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 7.79220779220779,
     "lastDayCases": [
       -1,
       0
@@ -4204,11 +4204,11 @@
     "ags": "09263",
     "name": "Straubing",
     "type": "Kreisfreie Stadt",
-    "state": "Straubing",
+    "state": "Bayern",
     "population": 47791,
     "cases": 505,
     "deaths": 48,
-    "deathRate": 0.0,
+    "deathRate": 9.5049504950495,
     "lastDayCases": [
       0,
       1
@@ -4221,11 +4221,11 @@
     "ags": "09271",
     "name": "Deggendorf",
     "type": "Landkreis",
-    "state": "Deggendorf",
+    "state": "Bayern",
     "population": 119478,
     "cases": 489,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 3.68098159509202,
     "lastDayCases": [
       2,
       9
@@ -4238,11 +4238,11 @@
     "ags": "09272",
     "name": "Freyung-Grafenau",
     "type": "Landkreis",
-    "state": "Freyung-Grafenau",
+    "state": "Bayern",
     "population": 78362,
     "cases": 257,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 4.66926070038911,
     "lastDayCases": [
       4,
       3
@@ -4255,11 +4255,11 @@
     "ags": "09273",
     "name": "Kelheim",
     "type": "Landkreis",
-    "state": "Kelheim",
+    "state": "Bayern",
     "population": 123058,
     "cases": 682,
     "deaths": 35,
-    "deathRate": 0.0,
+    "deathRate": 5.13196480938416,
     "lastDayCases": [
       2,
       3
@@ -4272,11 +4272,11 @@
     "ags": "09274",
     "name": "Landshut",
     "type": "Landkreis",
-    "state": "Landshut",
+    "state": "Bayern",
     "population": 159895,
     "cases": 870,
     "deaths": 34,
-    "deathRate": 0.0,
+    "deathRate": 3.90804597701149,
     "lastDayCases": [
       1,
       5
@@ -4289,11 +4289,11 @@
     "ags": "09275",
     "name": "Passau",
     "type": "Landkreis",
-    "state": "Passau",
+    "state": "Bayern",
     "population": 192656,
     "cases": 841,
     "deaths": 31,
-    "deathRate": 0.0,
+    "deathRate": 3.68608799048751,
     "lastDayCases": [
       1,
       4
@@ -4306,11 +4306,11 @@
     "ags": "09276",
     "name": "Regen",
     "type": "Landkreis",
-    "state": "Regen",
+    "state": "Bayern",
     "population": 77410,
     "cases": 247,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 4.8582995951417,
     "lastDayCases": [
       2,
       0
@@ -4323,11 +4323,11 @@
     "ags": "09277",
     "name": "Rottal-Inn",
     "type": "Landkreis",
-    "state": "Rottal-Inn",
+    "state": "Bayern",
     "population": 121502,
     "cases": 911,
     "deaths": 51,
-    "deathRate": 0.0,
+    "deathRate": 5.59824368825466,
     "lastDayCases": [
       0,
       12
@@ -4340,11 +4340,11 @@
     "ags": "09278",
     "name": "Straubing-Bogen",
     "type": "Landkreis",
-    "state": "Straubing-Bogen",
+    "state": "Bayern",
     "population": 101120,
     "cases": 637,
     "deaths": 29,
-    "deathRate": 0.0,
+    "deathRate": 4.55259026687598,
     "lastDayCases": [
       1,
       3
@@ -4357,11 +4357,11 @@
     "ags": "09279",
     "name": "Dingolfing-Landau",
     "type": "Landkreis",
-    "state": "Dingolfing-Landau",
+    "state": "Bayern",
     "population": 96683,
     "cases": 1004,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 0.99601593625498,
     "lastDayCases": [
       9,
       5
@@ -4374,11 +4374,11 @@
     "ags": "09361",
     "name": "Amberg",
     "type": "Kreisfreie Stadt",
-    "state": "Amberg",
+    "state": "Bayern",
     "population": 42207,
     "cases": 140,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 2.85714285714286,
     "lastDayCases": [
       2,
       2
@@ -4391,11 +4391,11 @@
     "ags": "09362",
     "name": "Regensburg",
     "type": "Kreisfreie Stadt",
-    "state": "Regensburg",
+    "state": "Bayern",
     "population": 153094,
     "cases": 958,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 1.04384133611691,
     "lastDayCases": [
       9,
       6
@@ -4408,11 +4408,11 @@
     "ags": "09363",
     "name": "Weiden i.d. OPf.",
     "type": "Kreisfreie Stadt",
-    "state": "Weiden i.d. OPf.",
+    "state": "Bayern",
     "population": 42743,
     "cases": 406,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 4.92610837438424,
     "lastDayCases": [
       1,
       2
@@ -4425,11 +4425,11 @@
     "ags": "09371",
     "name": "Amberg-Sulzbach",
     "type": "Landkreis",
-    "state": "Amberg-Sulzbach",
+    "state": "Bayern",
     "population": 103049,
     "cases": 558,
     "deaths": 54,
-    "deathRate": 0.0,
+    "deathRate": 9.67741935483871,
     "lastDayCases": [
       3,
       2
@@ -4442,11 +4442,11 @@
     "ags": "09372",
     "name": "Cham",
     "type": "Landkreis",
-    "state": "Cham",
+    "state": "Bayern",
     "population": 127998,
     "cases": 526,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 3.99239543726236,
     "lastDayCases": [
       3,
       0
@@ -4459,11 +4459,11 @@
     "ags": "09373",
     "name": "Neumarkt i.d. OPf.",
     "type": "Landkreis",
-    "state": "Neumarkt i.d. OPf.",
+    "state": "Bayern",
     "population": 134573,
     "cases": 580,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 2.93103448275862,
     "lastDayCases": [
       1,
       5
@@ -4476,11 +4476,11 @@
     "ags": "09374",
     "name": "Neustadt a.d. Waldnaab",
     "type": "Landkreis",
-    "state": "Neustadt a.d. Waldnaab",
+    "state": "Bayern",
     "population": 94450,
     "cases": 938,
     "deaths": 73,
-    "deathRate": 0.0,
+    "deathRate": 7.78251599147122,
     "lastDayCases": [
       6,
       8
@@ -4493,11 +4493,11 @@
     "ags": "09375",
     "name": "Regensburg",
     "type": "Landkreis",
-    "state": "Regensburg",
+    "state": "Bayern",
     "population": 194070,
     "cases": 774,
     "deaths": 16,
-    "deathRate": 0.0,
+    "deathRate": 2.0671834625323,
     "lastDayCases": [
       6,
       8
@@ -4510,11 +4510,11 @@
     "ags": "09376",
     "name": "Schwandorf",
     "type": "Landkreis",
-    "state": "Schwandorf",
+    "state": "Bayern",
     "population": 147872,
     "cases": 609,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 3.28407224958949,
     "lastDayCases": [
       4,
       1
@@ -4527,11 +4527,11 @@
     "ags": "09377",
     "name": "Tirschenreuth",
     "type": "Landkreis",
-    "state": "Tirschenreuth",
+    "state": "Bayern",
     "population": 72046,
     "cases": 1236,
     "deaths": 140,
-    "deathRate": 0.0,
+    "deathRate": 11.3268608414239,
     "lastDayCases": [
       6,
       3
@@ -4544,11 +4544,11 @@
     "ags": "09461",
     "name": "Bamberg",
     "type": "Kreisfreie Stadt",
-    "state": "Bamberg",
+    "state": "Bayern",
     "population": 77373,
     "cases": 272,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 8.08823529411765,
     "lastDayCases": [
       0,
       4
@@ -4561,11 +4561,11 @@
     "ags": "09462",
     "name": "Bayreuth",
     "type": "Kreisfreie Stadt",
-    "state": "Bayreuth",
+    "state": "Bayern",
     "population": 74783,
     "cases": 285,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 3.85964912280702,
     "lastDayCases": [
       0,
       2
@@ -4578,11 +4578,11 @@
     "ags": "09463",
     "name": "Coburg",
     "type": "Kreisfreie Stadt",
-    "state": "Coburg",
+    "state": "Bayern",
     "population": 41072,
     "cases": 149,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 2.68456375838926,
     "lastDayCases": [
       1,
       -1
@@ -4595,11 +4595,11 @@
     "ags": "09464",
     "name": "Hof",
     "type": "Kreisfreie Stadt",
-    "state": "Hof",
+    "state": "Bayern",
     "population": 45825,
     "cases": 191,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 2.61780104712042,
     "lastDayCases": [
       1,
       0
@@ -4612,11 +4612,11 @@
     "ags": "09471",
     "name": "Bamberg",
     "type": "Landkreis",
-    "state": "Bamberg",
+    "state": "Bayern",
     "population": 147163,
     "cases": 533,
     "deaths": 37,
-    "deathRate": 0.0,
+    "deathRate": 6.94183864915572,
     "lastDayCases": [
       3,
       9
@@ -4629,11 +4629,11 @@
     "ags": "09472",
     "name": "Bayreuth",
     "type": "Landkreis",
-    "state": "Bayreuth",
+    "state": "Bayern",
     "population": 103664,
     "cases": 459,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 6.10021786492375,
     "lastDayCases": [
       2,
       0
@@ -4646,11 +4646,11 @@
     "ags": "09473",
     "name": "Coburg",
     "type": "Landkreis",
-    "state": "Coburg",
+    "state": "Bayern",
     "population": 86747,
     "cases": 448,
     "deaths": 30,
-    "deathRate": 0.0,
+    "deathRate": 6.69642857142857,
     "lastDayCases": [
       1,
       0
@@ -4663,11 +4663,11 @@
     "ags": "09474",
     "name": "Forchheim",
     "type": "Landkreis",
-    "state": "Forchheim",
+    "state": "Bayern",
     "population": 116203,
     "cases": 308,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.2987012987013,
     "lastDayCases": [
       0,
       5
@@ -4680,11 +4680,11 @@
     "ags": "09475",
     "name": "Hof",
     "type": "Landkreis",
-    "state": "Hof",
+    "state": "Bayern",
     "population": 94801,
     "cases": 553,
     "deaths": 32,
-    "deathRate": 0.0,
+    "deathRate": 5.78661844484629,
     "lastDayCases": [
       0,
       0
@@ -4697,11 +4697,11 @@
     "ags": "09476",
     "name": "Kronach",
     "type": "Landkreis",
-    "state": "Kronach",
+    "state": "Bayern",
     "population": 66743,
     "cases": 192,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.5625,
     "lastDayCases": [
       4,
       0
@@ -4714,11 +4714,11 @@
     "ags": "09477",
     "name": "Kulmbach",
     "type": "Landkreis",
-    "state": "Kulmbach",
+    "state": "Bayern",
     "population": 71566,
     "cases": 322,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 3.41614906832298,
     "lastDayCases": [
       1,
       1
@@ -4731,11 +4731,11 @@
     "ags": "09478",
     "name": "Lichtenfels",
     "type": "Landkreis",
-    "state": "Lichtenfels",
+    "state": "Bayern",
     "population": 66776,
     "cases": 386,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 4.40414507772021,
     "lastDayCases": [
       5,
       3
@@ -4748,11 +4748,11 @@
     "ags": "09479",
     "name": "Wunsiedel i. Fichtelgebirge",
     "type": "Landkreis",
-    "state": "Wunsiedel i. Fichtelgebirge",
+    "state": "Bayern",
     "population": 72655,
     "cases": 785,
     "deaths": 43,
-    "deathRate": 0.0,
+    "deathRate": 5.47770700636943,
     "lastDayCases": [
       1,
       5
@@ -4765,11 +4765,11 @@
     "ags": "09561",
     "name": "Ansbach",
     "type": "Kreisfreie Stadt",
-    "state": "Ansbach",
+    "state": "Bayern",
     "population": 41798,
     "cases": 199,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 4.02010050251256,
     "lastDayCases": [
       0,
       0
@@ -4782,11 +4782,11 @@
     "ags": "09562",
     "name": "Erlangen",
     "type": "Kreisfreie Stadt",
-    "state": "Erlangen",
+    "state": "Bayern",
     "population": 112528,
     "cases": 404,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 2.97029702970297,
     "lastDayCases": [
       0,
       0
@@ -4799,11 +4799,11 @@
     "ags": "09563",
     "name": "Fürth",
     "type": "Kreisfreie Stadt",
-    "state": "Fürth",
+    "state": "Bayern",
     "population": 128497,
     "cases": 631,
     "deaths": 38,
-    "deathRate": 0.0,
+    "deathRate": 6.02218700475436,
     "lastDayCases": [
       4,
       5
@@ -4816,11 +4816,11 @@
     "ags": "09564",
     "name": "Nürnberg",
     "type": "Kreisfreie Stadt",
-    "state": "Nürnberg",
+    "state": "Bayern",
     "population": 518370,
     "cases": 2219,
     "deaths": 53,
-    "deathRate": 0.0,
+    "deathRate": 2.38846327174403,
     "lastDayCases": [
       0,
       53
@@ -4833,11 +4833,11 @@
     "ags": "09565",
     "name": "Schwabach",
     "type": "Kreisfreie Stadt",
-    "state": "Schwabach",
+    "state": "Bayern",
     "population": 40981,
     "cases": 130,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.53846153846154,
     "lastDayCases": [
       0,
       5
@@ -4850,11 +4850,11 @@
     "ags": "09571",
     "name": "Ansbach",
     "type": "Landkreis",
-    "state": "Ansbach",
+    "state": "Bayern",
     "population": 184591,
     "cases": 722,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 3.8781163434903,
     "lastDayCases": [
       0,
       10
@@ -4867,11 +4867,11 @@
     "ags": "09572",
     "name": "Erlangen-Höchstadt",
     "type": "Landkreis",
-    "state": "Erlangen-Höchstadt",
+    "state": "Bayern",
     "population": 137262,
     "cases": 399,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 2.75689223057644,
     "lastDayCases": [
       1,
       4
@@ -4884,11 +4884,11 @@
     "ags": "09573",
     "name": "Fürth",
     "type": "Landkreis",
-    "state": "Fürth",
+    "state": "Bayern",
     "population": 117853,
     "cases": 615,
     "deaths": 58,
-    "deathRate": 0.0,
+    "deathRate": 9.43089430894309,
     "lastDayCases": [
       2,
       4
@@ -4901,11 +4901,11 @@
     "ags": "09574",
     "name": "Nürnberger Land",
     "type": "Landkreis",
-    "state": "Nürnberger Land",
+    "state": "Bayern",
     "population": 170792,
     "cases": 799,
     "deaths": 44,
-    "deathRate": 0.0,
+    "deathRate": 5.50688360450563,
     "lastDayCases": [
       0,
       5
@@ -4918,11 +4918,11 @@
     "ags": "09575",
     "name": "Neustadt a.d. Aisch-Bad Windsheim",
     "type": "Landkreis",
-    "state": "Neustadt a.d. Aisch-Bad Windsheim",
+    "state": "Bayern",
     "population": 101014,
     "cases": 302,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.98675496688742,
     "lastDayCases": [
       0,
       0
@@ -4935,11 +4935,11 @@
     "ags": "09576",
     "name": "Roth",
     "type": "Landkreis",
-    "state": "Roth",
+    "state": "Bayern",
     "population": 126749,
     "cases": 373,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.87667560321716,
     "lastDayCases": [
       3,
       3
@@ -4952,11 +4952,11 @@
     "ags": "09577",
     "name": "Weißenburg-Gunzenhausen",
     "type": "Landkreis",
-    "state": "Weißenburg-Gunzenhausen",
+    "state": "Bayern",
     "population": 94734,
     "cases": 459,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 5.44662309368192,
     "lastDayCases": [
       1,
       1
@@ -4969,11 +4969,11 @@
     "ags": "09661",
     "name": "Aschaffenburg",
     "type": "Kreisfreie Stadt",
-    "state": "Aschaffenburg",
+    "state": "Bayern",
     "population": 71002,
     "cases": 190,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.526315789473684,
     "lastDayCases": [
       1,
       0
@@ -4986,11 +4986,11 @@
     "ags": "09662",
     "name": "Schweinfurt",
     "type": "Kreisfreie Stadt",
-    "state": "Schweinfurt",
+    "state": "Bayern",
     "population": 53426,
     "cases": 270,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 6.66666666666667,
     "lastDayCases": [
       0,
       12
@@ -5003,11 +5003,11 @@
     "ags": "09663",
     "name": "Würzburg",
     "type": "Kreisfreie Stadt",
-    "state": "Würzburg",
+    "state": "Bayern",
     "population": 127934,
     "cases": 835,
     "deaths": 52,
-    "deathRate": 0.0,
+    "deathRate": 6.22754491017964,
     "lastDayCases": [
       10,
       4
@@ -5020,11 +5020,11 @@
     "ags": "09671",
     "name": "Aschaffenburg",
     "type": "Landkreis",
-    "state": "Aschaffenburg",
+    "state": "Bayern",
     "population": 174200,
     "cases": 722,
     "deaths": 42,
-    "deathRate": 0.0,
+    "deathRate": 5.81717451523546,
     "lastDayCases": [
       5,
       0
@@ -5037,11 +5037,11 @@
     "ags": "09672",
     "name": "Bad Kissingen",
     "type": "Landkreis",
-    "state": "Bad Kissingen",
+    "state": "Bayern",
     "population": 103235,
     "cases": 296,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 6.08108108108108,
     "lastDayCases": [
       0,
       0
@@ -5054,11 +5054,11 @@
     "ags": "09673",
     "name": "Rhön-Grabfeld",
     "type": "Landkreis",
-    "state": "Rhön-Grabfeld",
+    "state": "Bayern",
     "population": 79635,
     "cases": 308,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 2.5974025974026,
     "lastDayCases": [
       1,
       3
@@ -5071,11 +5071,11 @@
     "ags": "09674",
     "name": "Haßberge",
     "type": "Landkreis",
-    "state": "Haßberge",
+    "state": "Bayern",
     "population": 84384,
     "cases": 238,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.52100840336134,
     "lastDayCases": [
       2,
       1
@@ -5088,11 +5088,11 @@
     "ags": "09675",
     "name": "Kitzingen",
     "type": "Landkreis",
-    "state": "Kitzingen",
+    "state": "Bayern",
     "population": 91155,
     "cases": 301,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.32890365448505,
     "lastDayCases": [
       0,
       0
@@ -5105,11 +5105,11 @@
     "ags": "09676",
     "name": "Miltenberg",
     "type": "Landkreis",
-    "state": "Miltenberg",
+    "state": "Bayern",
     "population": 128743,
     "cases": 463,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.29589632829374,
     "lastDayCases": [
       4,
       6
@@ -5122,11 +5122,11 @@
     "ags": "09677",
     "name": "Main-Spessart",
     "type": "Landkreis",
-    "state": "Main-Spessart",
+    "state": "Bayern",
     "population": 126158,
     "cases": 255,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.35294117647059,
     "lastDayCases": [
       6,
       1
@@ -5139,11 +5139,11 @@
     "ags": "09678",
     "name": "Schweinfurt",
     "type": "Landkreis",
-    "state": "Schweinfurt",
+    "state": "Bayern",
     "population": 115445,
     "cases": 703,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 3.55618776671408,
     "lastDayCases": [
       0,
       11
@@ -5156,11 +5156,11 @@
     "ags": "09679",
     "name": "Würzburg",
     "type": "Landkreis",
-    "state": "Würzburg",
+    "state": "Bayern",
     "population": 162302,
     "cases": 676,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 1.03550295857988,
     "lastDayCases": [
       6,
       7
@@ -5173,11 +5173,11 @@
     "ags": "09761",
     "name": "Augsburg",
     "type": "Kreisfreie Stadt",
-    "state": "Augsburg",
+    "state": "Bayern",
     "population": 296582,
     "cases": 1122,
     "deaths": 16,
-    "deathRate": 0.0,
+    "deathRate": 1.42602495543672,
     "lastDayCases": [
       0,
       11
@@ -5190,11 +5190,11 @@
     "ags": "09762",
     "name": "Kaufbeuren",
     "type": "Kreisfreie Stadt",
-    "state": "Kaufbeuren",
+    "state": "Bayern",
     "population": 44398,
     "cases": 207,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 4.34782608695652,
     "lastDayCases": [
       1,
       3
@@ -5207,11 +5207,11 @@
     "ags": "09763",
     "name": "Kempten (Allgäu)",
     "type": "Kreisfreie Stadt",
-    "state": "Kempten (Allgäu)",
+    "state": "Bayern",
     "population": 69151,
     "cases": 194,
     "deaths": 10,
-    "deathRate": 0.0,
+    "deathRate": 5.15463917525773,
     "lastDayCases": [
       3,
       3
@@ -5224,11 +5224,11 @@
     "ags": "09764",
     "name": "Memmingen",
     "type": "Kreisfreie Stadt",
-    "state": "Memmingen",
+    "state": "Bayern",
     "population": 44100,
     "cases": 158,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.632911392405063,
     "lastDayCases": [
       0,
       4
@@ -5241,11 +5241,11 @@
     "ags": "09771",
     "name": "Aichach-Friedberg",
     "type": "Landkreis",
-    "state": "Aichach-Friedberg",
+    "state": "Bayern",
     "population": 134655,
     "cases": 514,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 3.89105058365759,
     "lastDayCases": [
       0,
       5
@@ -5258,11 +5258,11 @@
     "ags": "09772",
     "name": "Augsburg",
     "type": "Landkreis",
-    "state": "Augsburg",
+    "state": "Bayern",
     "population": 253468,
     "cases": 809,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 1.35970333745365,
     "lastDayCases": [
       0,
       62
@@ -5275,11 +5275,11 @@
     "ags": "09773",
     "name": "Dillingen a.d. Donau",
     "type": "Landkreis",
-    "state": "Dillingen a.d. Donau",
+    "state": "Bayern",
     "population": 96562,
     "cases": 389,
     "deaths": 29,
-    "deathRate": 0.0,
+    "deathRate": 7.45501285347044,
     "lastDayCases": [
       1,
       1
@@ -5292,11 +5292,11 @@
     "ags": "09774",
     "name": "Günzburg",
     "type": "Landkreis",
-    "state": "Günzburg",
+    "state": "Bayern",
     "population": 127027,
     "cases": 442,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 0.904977375565611,
     "lastDayCases": [
       4,
       6
@@ -5309,11 +5309,11 @@
     "ags": "09775",
     "name": "Neu-Ulm",
     "type": "Landkreis",
-    "state": "Neu-Ulm",
+    "state": "Bayern",
     "population": 175204,
     "cases": 829,
     "deaths": 26,
-    "deathRate": 0.0,
+    "deathRate": 3.13630880579011,
     "lastDayCases": [
       0,
       0
@@ -5326,11 +5326,11 @@
     "ags": "09776",
     "name": "Lindau (Bodensee)",
     "type": "Landkreis",
-    "state": "Lindau (Bodensee)",
+    "state": "Bayern",
     "population": 81981,
     "cases": 328,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 2.4390243902439,
     "lastDayCases": [
       4,
       4
@@ -5343,11 +5343,11 @@
     "ags": "09777",
     "name": "Ostallgäu",
     "type": "Landkreis",
-    "state": "Ostallgäu",
+    "state": "Bayern",
     "population": 141182,
     "cases": 724,
     "deaths": 40,
-    "deathRate": 0.0,
+    "deathRate": 5.52486187845304,
     "lastDayCases": [
       6,
       11
@@ -5360,11 +5360,11 @@
     "ags": "09778",
     "name": "Unterallgäu",
     "type": "Landkreis",
-    "state": "Unterallgäu",
+    "state": "Bayern",
     "population": 145341,
     "cases": 509,
     "deaths": 17,
-    "deathRate": 0.0,
+    "deathRate": 3.33988212180747,
     "lastDayCases": [
       3,
       18
@@ -5377,11 +5377,11 @@
     "ags": "09779",
     "name": "Donau-Ries",
     "type": "Landkreis",
-    "state": "Donau-Ries",
+    "state": "Bayern",
     "population": 133783,
     "cases": 511,
     "deaths": 26,
-    "deathRate": 0.0,
+    "deathRate": 5.0880626223092,
     "lastDayCases": [
       1,
       3
@@ -5394,11 +5394,11 @@
     "ags": "09780",
     "name": "Oberallgäu",
     "type": "Landkreis",
-    "state": "Oberallgäu",
+    "state": "Bayern",
     "population": 156008,
     "cases": 300,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 2.33333333333333,
     "lastDayCases": [
       5,
       3
@@ -5411,11 +5411,11 @@
     "ags": "10041",
     "name": "Regionalverband Saarbrücken",
     "type": "Landkreis",
-    "state": "Regionalverband Saarbrücken",
+    "state": "Saarland",
     "population": 328714,
     "cases": 1414,
     "deaths": 114,
-    "deathRate": 0.0,
+    "deathRate": 8.06223479490806,
     "lastDayCases": [
       7,
       0
@@ -5428,11 +5428,11 @@
     "ags": "10042",
     "name": "Merzig-Wadern",
     "type": "Landkreis",
-    "state": "Merzig-Wadern",
+    "state": "Saarland",
     "population": 103243,
     "cases": 315,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 0.952380952380952,
     "lastDayCases": [
       8,
       0
@@ -5445,11 +5445,11 @@
     "ags": "10043",
     "name": "Neunkirchen",
     "type": "Landkreis",
-    "state": "Neunkirchen",
+    "state": "Saarland",
     "population": 131408,
     "cases": 367,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 3.26975476839237,
     "lastDayCases": [
       9,
       3
@@ -5462,11 +5462,11 @@
     "ags": "10044",
     "name": "Saarlouis",
     "type": "Landkreis",
-    "state": "Saarlouis",
+    "state": "Saarland",
     "population": 194319,
     "cases": 736,
     "deaths": 24,
-    "deathRate": 0.0,
+    "deathRate": 3.26086956521739,
     "lastDayCases": [
       5,
       0
@@ -5479,11 +5479,11 @@
     "ags": "10045",
     "name": "Saarpfalz-Kreis",
     "type": "Landkreis",
-    "state": "Saarpfalz-Kreis",
+    "state": "Saarland",
     "population": 142196,
     "cases": 464,
     "deaths": 18,
-    "deathRate": 0.0,
+    "deathRate": 3.87931034482759,
     "lastDayCases": [
       11,
       7
@@ -5496,11 +5496,11 @@
     "ags": "10046",
     "name": "St. Wendel",
     "type": "Landkreis",
-    "state": "St. Wendel",
+    "state": "Saarland",
     "population": 87007,
     "cases": 203,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.95566502463054,
     "lastDayCases": [
       0,
       0
@@ -5513,11 +5513,11 @@
     "ags": "12051",
     "name": "Brandenburg an der Havel",
     "type": "Kreisfreie Stadt",
-    "state": "Brandenburg an der Havel",
+    "state": "Brandenburg",
     "population": 72184,
     "cases": 85,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.17647058823529,
     "lastDayCases": [
       0,
       4
@@ -5530,7 +5530,7 @@
     "ags": "12052",
     "name": "Cottbus",
     "type": "Kreisfreie Stadt",
-    "state": "Cottbus",
+    "state": "Brandenburg",
     "population": 99678,
     "cases": 67,
     "deaths": 0,
@@ -5547,7 +5547,7 @@
     "ags": "12053",
     "name": "Frankfurt (Oder)",
     "type": "Kreisfreie Stadt",
-    "state": "Frankfurt (Oder)",
+    "state": "Brandenburg",
     "population": 57751,
     "cases": 80,
     "deaths": 0,
@@ -5564,11 +5564,11 @@
     "ags": "12054",
     "name": "Potsdam",
     "type": "Kreisfreie Stadt",
-    "state": "Potsdam",
+    "state": "Brandenburg",
     "population": 180334,
     "cases": 745,
     "deaths": 51,
-    "deathRate": 0.0,
+    "deathRate": 6.84563758389262,
     "lastDayCases": [
       0,
       7
@@ -5581,11 +5581,11 @@
     "ags": "12060",
     "name": "Barnim",
     "type": "Landkreis",
-    "state": "Barnim",
+    "state": "Brandenburg",
     "population": 185244,
     "cases": 505,
     "deaths": 29,
-    "deathRate": 0.0,
+    "deathRate": 5.74257425742574,
     "lastDayCases": [
       3,
       0
@@ -5598,11 +5598,11 @@
     "ags": "12061",
     "name": "Dahme-Spreewald",
     "type": "Landkreis",
-    "state": "Dahme-Spreewald",
+    "state": "Brandenburg",
     "population": 170791,
     "cases": 349,
     "deaths": 8,
-    "deathRate": 0.0,
+    "deathRate": 2.29226361031519,
     "lastDayCases": [
       6,
       7
@@ -5615,11 +5615,11 @@
     "ags": "12062",
     "name": "Elbe-Elster",
     "type": "Landkreis",
-    "state": "Elbe-Elster",
+    "state": "Brandenburg",
     "population": 101827,
     "cases": 114,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.63157894736842,
     "lastDayCases": [
       2,
       4
@@ -5632,11 +5632,11 @@
     "ags": "12063",
     "name": "Havelland",
     "type": "Landkreis",
-    "state": "Havelland",
+    "state": "Brandenburg",
     "population": 162996,
     "cases": 275,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.18181818181818,
     "lastDayCases": [
       2,
       2
@@ -5649,11 +5649,11 @@
     "ags": "12064",
     "name": "Märkisch-Oderland",
     "type": "Landkreis",
-    "state": "Märkisch-Oderland",
+    "state": "Brandenburg",
     "population": 195751,
     "cases": 307,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.30293159609121,
     "lastDayCases": [
       2,
       5
@@ -5666,11 +5666,11 @@
     "ags": "12065",
     "name": "Oberhavel",
     "type": "Landkreis",
-    "state": "Oberhavel",
+    "state": "Brandenburg",
     "population": 212914,
     "cases": 422,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 2.13270142180095,
     "lastDayCases": [
       6,
       12
@@ -5683,11 +5683,11 @@
     "ags": "12066",
     "name": "Oberspreewald-Lausitz",
     "type": "Landkreis",
-    "state": "Oberspreewald-Lausitz",
+    "state": "Brandenburg",
     "population": 109371,
     "cases": 84,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.38095238095238,
     "lastDayCases": [
       2,
       0
@@ -5700,11 +5700,11 @@
     "ags": "12067",
     "name": "Oder-Spree",
     "type": "Landkreis",
-    "state": "Oder-Spree",
+    "state": "Brandenburg",
     "population": 178803,
     "cases": 236,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.27118644067797,
     "lastDayCases": [
       0,
       16
@@ -5717,7 +5717,7 @@
     "ags": "12068",
     "name": "Ostprignitz-Ruppin",
     "type": "Landkreis",
-    "state": "Ostprignitz-Ruppin",
+    "state": "Brandenburg",
     "population": 98861,
     "cases": 116,
     "deaths": 0,
@@ -5734,11 +5734,11 @@
     "ags": "12069",
     "name": "Potsdam-Mittelmark",
     "type": "Landkreis",
-    "state": "Potsdam-Mittelmark",
+    "state": "Brandenburg",
     "population": 216566,
     "cases": 684,
     "deaths": 38,
-    "deathRate": 0.0,
+    "deathRate": 5.55555555555556,
     "lastDayCases": [
       0,
       0
@@ -5751,7 +5751,7 @@
     "ags": "12070",
     "name": "Prignitz",
     "type": "Landkreis",
-    "state": "Prignitz",
+    "state": "Brandenburg",
     "population": 76158,
     "cases": 50,
     "deaths": 0,
@@ -5768,7 +5768,7 @@
     "ags": "12071",
     "name": "Spree-Neiße",
     "type": "Landkreis",
-    "state": "Spree-Neiße",
+    "state": "Brandenburg",
     "population": 113720,
     "cases": 91,
     "deaths": 0,
@@ -5785,11 +5785,11 @@
     "ags": "12072",
     "name": "Teltow-Fläming",
     "type": "Landkreis",
-    "state": "Teltow-Fläming",
+    "state": "Brandenburg",
     "population": 169997,
     "cases": 290,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 4.48275862068965,
     "lastDayCases": [
       0,
       3
@@ -5802,11 +5802,11 @@
     "ags": "12073",
     "name": "Uckermark",
     "type": "Landkreis",
-    "state": "Uckermark",
+    "state": "Brandenburg",
     "population": 118947,
     "cases": 61,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 3.27868852459016,
     "lastDayCases": [
       0,
       4
@@ -5819,11 +5819,11 @@
     "ags": "13003",
     "name": "Rostock",
     "type": "Kreisfreie Stadt",
-    "state": "Rostock",
+    "state": "Mecklenburg-Vorpommern",
     "population": 209191,
     "cases": 211,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.947867298578199,
     "lastDayCases": [
       2,
       5
@@ -5836,7 +5836,7 @@
     "ags": "13004",
     "name": "Schwerin",
     "type": "Kreisfreie Stadt",
-    "state": "Schwerin",
+    "state": "Mecklenburg-Vorpommern",
     "population": 95653,
     "cases": 134,
     "deaths": 0,
@@ -5853,11 +5853,11 @@
     "ags": "13071",
     "name": "Mecklenburgische Seenplatte",
     "type": "Landkreis",
-    "state": "Mecklenburgische Seenplatte",
+    "state": "Mecklenburg-Vorpommern",
     "population": 258074,
     "cases": 204,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.47058823529412,
     "lastDayCases": [
       0,
       7
@@ -5870,11 +5870,11 @@
     "ags": "13072",
     "name": "Rostock",
     "type": "Landkreis",
-    "state": "Rostock",
+    "state": "Mecklenburg-Vorpommern",
     "population": 215794,
     "cases": 107,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.80373831775701,
     "lastDayCases": [
       3,
       0
@@ -5887,11 +5887,11 @@
     "ags": "13073",
     "name": "Vorpommern-Rügen",
     "type": "Landkreis",
-    "state": "Vorpommern-Rügen",
+    "state": "Mecklenburg-Vorpommern",
     "population": 224702,
     "cases": 131,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.52671755725191,
     "lastDayCases": [
       3,
       1
@@ -5904,11 +5904,11 @@
     "ags": "13074",
     "name": "Nordwestmecklenburg",
     "type": "Landkreis",
-    "state": "Nordwestmecklenburg",
+    "state": "Mecklenburg-Vorpommern",
     "population": 157322,
     "cases": 149,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.671140939597315,
     "lastDayCases": [
       0,
       1
@@ -5921,11 +5921,11 @@
     "ags": "13075",
     "name": "Vorpommern-Greifswald",
     "type": "Landkreis",
-    "state": "Vorpommern-Greifswald",
+    "state": "Mecklenburg-Vorpommern",
     "population": 235623,
     "cases": 218,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 3.21100917431193,
     "lastDayCases": [
       0,
       13
@@ -5938,11 +5938,11 @@
     "ags": "13076",
     "name": "Ludwigslust-Parchim",
     "type": "Landkreis",
-    "state": "Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
     "population": 211779,
     "cases": 178,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.12359550561798,
     "lastDayCases": [
       3,
       1
@@ -5955,11 +5955,11 @@
     "ags": "14511",
     "name": "Chemnitz",
     "type": "Kreisfreie Stadt",
-    "state": "Chemnitz",
+    "state": "Sachsen",
     "population": 246334,
     "cases": 356,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 1.68539325842697,
     "lastDayCases": [
       6,
       5
@@ -5972,11 +5972,11 @@
     "ags": "14521",
     "name": "Erzgebirgskreis",
     "type": "Landkreis",
-    "state": "Erzgebirgskreis",
+    "state": "Sachsen",
     "population": 334948,
     "cases": 932,
     "deaths": 48,
-    "deathRate": 0.0,
+    "deathRate": 5.15021459227468,
     "lastDayCases": [
       58,
       52
@@ -5989,11 +5989,11 @@
     "ags": "14522",
     "name": "Mittelsachsen",
     "type": "Landkreis",
-    "state": "Mittelsachsen",
+    "state": "Sachsen",
     "population": 304099,
     "cases": 441,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 2.04081632653061,
     "lastDayCases": [
       2,
       0
@@ -6006,11 +6006,11 @@
     "ags": "14523",
     "name": "Vogtlandkreis",
     "type": "Landkreis",
-    "state": "Vogtlandkreis",
+    "state": "Sachsen",
     "population": 225997,
     "cases": 728,
     "deaths": 28,
-    "deathRate": 0.0,
+    "deathRate": 3.84615384615385,
     "lastDayCases": [
       8,
       1
@@ -6023,11 +6023,11 @@
     "ags": "14524",
     "name": "Zwickau",
     "type": "Landkreis",
-    "state": "Zwickau",
+    "state": "Sachsen",
     "population": 315002,
     "cases": 1039,
     "deaths": 53,
-    "deathRate": 0.0,
+    "deathRate": 5.10105871029836,
     "lastDayCases": [
       13,
       15
@@ -6040,11 +6040,11 @@
     "ags": "14612",
     "name": "Dresden",
     "type": "Kreisfreie Stadt",
-    "state": "Dresden",
+    "state": "Sachsen",
     "population": 556780,
     "cases": 928,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 1.29310344827586,
     "lastDayCases": [
       26,
       10
@@ -6057,11 +6057,11 @@
     "ags": "14625",
     "name": "Bautzen",
     "type": "Landkreis",
-    "state": "Bautzen",
+    "state": "Sachsen",
     "population": 299758,
     "cases": 665,
     "deaths": 24,
-    "deathRate": 0.0,
+    "deathRate": 3.60902255639098,
     "lastDayCases": [
       16,
       9
@@ -6074,11 +6074,11 @@
     "ags": "14626",
     "name": "Görlitz",
     "type": "Landkreis",
-    "state": "Görlitz",
+    "state": "Sachsen",
     "population": 252725,
     "cases": 415,
     "deaths": 25,
-    "deathRate": 0.0,
+    "deathRate": 6.02409638554217,
     "lastDayCases": [
       0,
       0
@@ -6091,11 +6091,11 @@
     "ags": "14627",
     "name": "Meißen",
     "type": "Landkreis",
-    "state": "Meißen",
+    "state": "Sachsen",
     "population": 241717,
     "cases": 306,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 6.5359477124183,
     "lastDayCases": [
       0,
       10
@@ -6108,11 +6108,11 @@
     "ags": "14628",
     "name": "Sächsische Schweiz-Osterzgebirge",
     "type": "Landkreis",
-    "state": "Sächsische Schweiz-Osterzgebirge",
+    "state": "Sachsen",
     "population": 245586,
     "cases": 485,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.412371134020619,
     "lastDayCases": [
       6,
       5
@@ -6125,11 +6125,11 @@
     "ags": "14713",
     "name": "Leipzig",
     "type": "Kreisfreie Stadt",
-    "state": "Leipzig",
+    "state": "Sachsen",
     "population": 593145,
     "cases": 957,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 1.25391849529781,
     "lastDayCases": [
       8,
       8
@@ -6142,11 +6142,11 @@
     "ags": "14729",
     "name": "Leipzig",
     "type": "Landkreis",
-    "state": "Leipzig",
+    "state": "Sachsen",
     "population": 258139,
     "cases": 262,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 1.52671755725191,
     "lastDayCases": [
       2,
       3
@@ -6159,7 +6159,7 @@
     "ags": "14730",
     "name": "Nordsachsen",
     "type": "Landkreis",
-    "state": "Nordsachsen",
+    "state": "Sachsen",
     "population": 197741,
     "cases": 283,
     "deaths": 0,
@@ -6176,11 +6176,11 @@
     "ags": "15001",
     "name": "Dessau-Roßlau",
     "type": "Kreisfreie Stadt",
-    "state": "Dessau-Roßlau",
+    "state": "Sachsen-Anhalt",
     "population": 80103,
     "cases": 123,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.4390243902439,
     "lastDayCases": [
       0,
       4
@@ -6193,11 +6193,11 @@
     "ags": "15002",
     "name": "Halle (Saale)",
     "type": "Kreisfreie Stadt",
-    "state": "Halle (Saale)",
+    "state": "Sachsen-Anhalt",
     "population": 238762,
     "cases": 519,
     "deaths": 14,
-    "deathRate": 0.0,
+    "deathRate": 2.69749518304432,
     "lastDayCases": [
       0,
       9
@@ -6210,11 +6210,11 @@
     "ags": "15003",
     "name": "Magdeburg",
     "type": "Kreisfreie Stadt",
-    "state": "Magdeburg",
+    "state": "Sachsen-Anhalt",
     "population": 237565,
     "cases": 413,
     "deaths": 5,
-    "deathRate": 0.0,
+    "deathRate": 1.21065375302663,
     "lastDayCases": [
       0,
       1
@@ -6227,11 +6227,11 @@
     "ags": "15081",
     "name": "Altmarkkreis Salzwedel",
     "type": "Landkreis",
-    "state": "Altmarkkreis Salzwedel",
+    "state": "Sachsen-Anhalt",
     "population": 83173,
     "cases": 59,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.69491525423729,
     "lastDayCases": [
       0,
       0
@@ -6244,11 +6244,11 @@
     "ags": "15082",
     "name": "Anhalt-Bitterfeld",
     "type": "Landkreis",
-    "state": "Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
     "population": 158486,
     "cases": 114,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.75438596491228,
     "lastDayCases": [
       2,
       1
@@ -6261,11 +6261,11 @@
     "ags": "15083",
     "name": "Börde",
     "type": "Landkreis",
-    "state": "Börde",
+    "state": "Sachsen-Anhalt",
     "population": 170923,
     "cases": 213,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 6.10328638497653,
     "lastDayCases": [
       0,
       4
@@ -6278,11 +6278,11 @@
     "ags": "15084",
     "name": "Burgenlandkreis",
     "type": "Landkreis",
-    "state": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
     "population": 178846,
     "cases": 227,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.3215859030837,
     "lastDayCases": [
       0,
       10
@@ -6295,11 +6295,11 @@
     "ags": "15085",
     "name": "Harz",
     "type": "Landkreis",
-    "state": "Harz",
+    "state": "Sachsen-Anhalt",
     "population": 213310,
     "cases": 296,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.02702702702703,
     "lastDayCases": [
       0,
       6
@@ -6312,11 +6312,11 @@
     "ags": "15086",
     "name": "Jerichower Land",
     "type": "Landkreis",
-    "state": "Jerichower Land",
+    "state": "Sachsen-Anhalt",
     "population": 89589,
     "cases": 72,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.77777777777778,
     "lastDayCases": [
       3,
       1
@@ -6329,11 +6329,11 @@
     "ags": "15087",
     "name": "Mansfeld-Südharz",
     "type": "Landkreis",
-    "state": "Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
     "population": 134942,
     "cases": 88,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.27272727272727,
     "lastDayCases": [
       0,
       0
@@ -6346,11 +6346,11 @@
     "ags": "15088",
     "name": "Saalekreis",
     "type": "Landkreis",
-    "state": "Saalekreis",
+    "state": "Sachsen-Anhalt",
     "population": 183815,
     "cases": 196,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 3.57142857142857,
     "lastDayCases": [
       2,
       3
@@ -6363,11 +6363,11 @@
     "ags": "15089",
     "name": "Salzlandkreis",
     "type": "Landkreis",
-    "state": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
     "population": 189125,
     "cases": 126,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 0.793650793650794,
     "lastDayCases": [
       0,
       1
@@ -6380,11 +6380,11 @@
     "ags": "15090",
     "name": "Stendal",
     "type": "Landkreis",
-    "state": "Stendal",
+    "state": "Sachsen-Anhalt",
     "population": 111190,
     "cases": 127,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 4.7244094488189,
     "lastDayCases": [
       0,
       0
@@ -6397,11 +6397,11 @@
     "ags": "15091",
     "name": "Wittenberg",
     "type": "Landkreis",
-    "state": "Wittenberg",
+    "state": "Sachsen-Anhalt",
     "population": 124953,
     "cases": 242,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.2396694214876,
     "lastDayCases": [
       3,
       1
@@ -6414,11 +6414,11 @@
     "ags": "16051",
     "name": "Erfurt",
     "type": "Kreisfreie Stadt",
-    "state": "Erfurt",
+    "state": "Thüringen",
     "population": 213981,
     "cases": 248,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 0.806451612903226,
     "lastDayCases": [
       2,
       0
@@ -6431,11 +6431,11 @@
     "ags": "16052",
     "name": "Gera",
     "type": "Kreisfreie Stadt",
-    "state": "Gera",
+    "state": "Thüringen",
     "population": 93125,
     "cases": 294,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 7.48299319727891,
     "lastDayCases": [
       0,
       0
@@ -6448,11 +6448,11 @@
     "ags": "16053",
     "name": "Jena",
     "type": "Kreisfreie Stadt",
-    "state": "Jena",
+    "state": "Thüringen",
     "population": 111343,
     "cases": 227,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 1.3215859030837,
     "lastDayCases": [
       2,
       0
@@ -6465,11 +6465,11 @@
     "ags": "16054",
     "name": "Suhl",
     "type": "Kreisfreie Stadt",
-    "state": "Suhl",
+    "state": "Thüringen",
     "population": 36789,
     "cases": 36,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 5.55555555555556,
     "lastDayCases": [
       1,
       2
@@ -6482,7 +6482,7 @@
     "ags": "16055",
     "name": "Weimar",
     "type": "Kreisfreie Stadt",
-    "state": "Weimar",
+    "state": "Thüringen",
     "population": 65228,
     "cases": 143,
     "deaths": 0,
@@ -6499,11 +6499,11 @@
     "ags": "16056",
     "name": "Eisenach",
     "type": "Kreisfreie Stadt",
-    "state": "Eisenach",
+    "state": "Thüringen",
     "population": 42250,
     "cases": 44,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 9.09090909090909,
     "lastDayCases": [
       0,
       0
@@ -6516,11 +6516,11 @@
     "ags": "16061",
     "name": "Eichsfeld",
     "type": "Landkreis",
-    "state": "Eichsfeld",
+    "state": "Thüringen",
     "population": 100006,
     "cases": 178,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 6.17977528089888,
     "lastDayCases": [
       0,
       0
@@ -6533,11 +6533,11 @@
     "ags": "16062",
     "name": "Nordhausen",
     "type": "Landkreis",
-    "state": "Nordhausen",
+    "state": "Thüringen",
     "population": 83416,
     "cases": 76,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 2.63157894736842,
     "lastDayCases": [
       0,
       0
@@ -6550,11 +6550,11 @@
     "ags": "16063",
     "name": "Wartburgkreis",
     "type": "Landkreis",
-    "state": "Wartburgkreis",
+    "state": "Thüringen",
     "population": 118974,
     "cases": 145,
     "deaths": 2,
-    "deathRate": 0.0,
+    "deathRate": 1.37931034482759,
     "lastDayCases": [
       3,
       3
@@ -6567,11 +6567,11 @@
     "ags": "16064",
     "name": "Unstrut-Hainich-Kreis",
     "type": "Landkreis",
-    "state": "Unstrut-Hainich-Kreis",
+    "state": "Thüringen",
     "population": 102232,
     "cases": 118,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.54237288135593,
     "lastDayCases": [
       2,
       1
@@ -6584,7 +6584,7 @@
     "ags": "16065",
     "name": "Kyffhäuserkreis",
     "type": "Landkreis",
-    "state": "Kyffhäuserkreis",
+    "state": "Thüringen",
     "population": 74212,
     "cases": 68,
     "deaths": 0,
@@ -6601,11 +6601,11 @@
     "ags": "16066",
     "name": "Schmalkalden-Meiningen",
     "type": "Landkreis",
-    "state": "Schmalkalden-Meiningen",
+    "state": "Thüringen",
     "population": 124916,
     "cases": 208,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 2.88461538461538,
     "lastDayCases": [
       0,
       0
@@ -6618,11 +6618,11 @@
     "ags": "16067",
     "name": "Gotha",
     "type": "Landkreis",
-    "state": "Gotha",
+    "state": "Thüringen",
     "population": 134908,
     "cases": 368,
     "deaths": 30,
-    "deathRate": 0.0,
+    "deathRate": 8.15217391304348,
     "lastDayCases": [
       0,
       3
@@ -6635,11 +6635,11 @@
     "ags": "16068",
     "name": "Sömmerda",
     "type": "Landkreis",
-    "state": "Sömmerda",
+    "state": "Thüringen",
     "population": 69427,
     "cases": 67,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.49253731343284,
     "lastDayCases": [
       1,
       0
@@ -6652,11 +6652,11 @@
     "ags": "16069",
     "name": "Hildburghausen",
     "type": "Landkreis",
-    "state": "Hildburghausen",
+    "state": "Thüringen",
     "population": 63197,
     "cases": 96,
     "deaths": 1,
-    "deathRate": 0.0,
+    "deathRate": 1.04166666666667,
     "lastDayCases": [
       0,
       0
@@ -6669,11 +6669,11 @@
     "ags": "16070",
     "name": "Ilm-Kreis",
     "type": "Landkreis",
-    "state": "Ilm-Kreis",
+    "state": "Thüringen",
     "population": 106249,
     "cases": 218,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 3.21100917431193,
     "lastDayCases": [
       0,
       0
@@ -6686,11 +6686,11 @@
     "ags": "16071",
     "name": "Weimarer Land",
     "type": "Landkreis",
-    "state": "Weimarer Land",
+    "state": "Thüringen",
     "population": 82156,
     "cases": 151,
     "deaths": 6,
-    "deathRate": 0.0,
+    "deathRate": 3.97350993377483,
     "lastDayCases": [
       2,
       0
@@ -6703,11 +6703,11 @@
     "ags": "16072",
     "name": "Sonneberg",
     "type": "Landkreis",
-    "state": "Sonneberg",
+    "state": "Thüringen",
     "population": 57717,
     "cases": 323,
     "deaths": 22,
-    "deathRate": 0.0,
+    "deathRate": 6.81114551083591,
     "lastDayCases": [
       0,
       0
@@ -6720,7 +6720,7 @@
     "ags": "16073",
     "name": "Saalfeld-Rudolstadt",
     "type": "Landkreis",
-    "state": "Saalfeld-Rudolstadt",
+    "state": "Thüringen",
     "population": 103199,
     "cases": 111,
     "deaths": 0,
@@ -6737,11 +6737,11 @@
     "ags": "16074",
     "name": "Saale-Holzland-Kreis",
     "type": "Landkreis",
-    "state": "Saale-Holzland-Kreis",
+    "state": "Thüringen",
     "population": 82950,
     "cases": 112,
     "deaths": 3,
-    "deathRate": 0.0,
+    "deathRate": 2.67857142857143,
     "lastDayCases": [
       1,
       3
@@ -6754,11 +6754,11 @@
     "ags": "16075",
     "name": "Saale-Orla-Kreis",
     "type": "Landkreis",
-    "state": "Saale-Orla-Kreis",
+    "state": "Thüringen",
     "population": 80312,
     "cases": 205,
     "deaths": 12,
-    "deathRate": 0.0,
+    "deathRate": 5.85365853658537,
     "lastDayCases": [
       1,
       0
@@ -6771,11 +6771,11 @@
     "ags": "16076",
     "name": "Greiz",
     "type": "Landkreis",
-    "state": "Greiz",
+    "state": "Thüringen",
     "population": 97398,
     "cases": 706,
     "deaths": 48,
-    "deathRate": 0.0,
+    "deathRate": 6.79886685552408,
     "lastDayCases": [
       1,
       1
@@ -6788,11 +6788,11 @@
     "ags": "16077",
     "name": "Altenburger Land",
     "type": "Landkreis",
-    "state": "Altenburger Land",
+    "state": "Thüringen",
     "population": 89393,
     "cases": 118,
     "deaths": 4,
-    "deathRate": 0.0,
+    "deathRate": 3.38983050847458,
     "lastDayCases": [
       2,
       2
@@ -6804,11 +6804,11 @@
     "objectId1": 0,
     "name": "Berlin Reinickendorf",
     "type": "Bezirk",
-    "state": "Berlin Reinickendorf",
+    "state": "Berlin",
     "population": 259689,
     "cases": 1158,
     "deaths": 21,
-    "deathRate": 0.0,
+    "deathRate": 1.81347150259067,
     "lastDayCases": [
       17,
       19
@@ -6820,11 +6820,11 @@
     "objectId1": 0,
     "name": "Berlin Charlottenburg-Wilmersdorf",
     "type": "Bezirk",
-    "state": "Berlin Charlottenburg-Wilmersdorf",
+    "state": "Berlin",
     "population": 334401,
     "cases": 1622,
     "deaths": 23,
-    "deathRate": 0.0,
+    "deathRate": 1.41800246609125,
     "lastDayCases": [
       27,
       40
@@ -6836,11 +6836,11 @@
     "objectId1": 0,
     "name": "Berlin Treptow-Köpenick",
     "type": "Bezirk",
-    "state": "Berlin Treptow-Köpenick",
+    "state": "Berlin",
     "population": 266488,
     "cases": 672,
     "deaths": 11,
-    "deathRate": 0.0,
+    "deathRate": 1.63690476190476,
     "lastDayCases": [
       15,
       8
@@ -6852,11 +6852,11 @@
     "objectId1": 0,
     "name": "Berlin Pankow",
     "type": "Bezirk",
-    "state": "Berlin Pankow",
+    "state": "Berlin",
     "population": 398036,
     "cases": 1381,
     "deaths": 37,
-    "deathRate": 0.0,
+    "deathRate": 2.67921795800145,
     "lastDayCases": [
       11,
       27
@@ -6868,11 +6868,11 @@
     "objectId1": 0,
     "name": "Berlin Neukölln",
     "type": "Bezirk",
-    "state": "Berlin Neukölln",
+    "state": "Berlin",
     "population": 321123,
     "cases": 2221,
     "deaths": 43,
-    "deathRate": 0.0,
+    "deathRate": 1.93606483565961,
     "lastDayCases": [
       61,
       61
@@ -6884,11 +6884,11 @@
     "objectId1": 0,
     "name": "Berlin Lichtenberg",
     "type": "Bezirk",
-    "state": "Berlin Lichtenberg",
+    "state": "Berlin",
     "population": 286522,
     "cases": 884,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.47058823529412,
     "lastDayCases": [
       9,
       23
@@ -6900,11 +6900,11 @@
     "objectId1": 0,
     "name": "Berlin Marzahn-Hellersdorf",
     "type": "Bezirk",
-    "state": "Berlin Marzahn-Hellersdorf",
+    "state": "Berlin",
     "population": 262967,
     "cases": 765,
     "deaths": 7,
-    "deathRate": 0.0,
+    "deathRate": 0.915032679738562,
     "lastDayCases": [
       5,
       16
@@ -6916,11 +6916,11 @@
     "objectId1": 0,
     "name": "Berlin Spandau",
     "type": "Bezirk",
-    "state": "Berlin Spandau",
+    "state": "Berlin",
     "population": 239019,
     "cases": 884,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 1.01809954751131,
     "lastDayCases": [
       5,
       9
@@ -6932,11 +6932,11 @@
     "objectId1": 0,
     "name": "Berlin Steglitz-Zehlendorf",
     "type": "Bezirk",
-    "state": "Berlin Steglitz-Zehlendorf",
+    "state": "Berlin",
     "population": 302177,
     "cases": 1066,
     "deaths": 13,
-    "deathRate": 0.0,
+    "deathRate": 1.21951219512195,
     "lastDayCases": [
       30,
       35
@@ -6948,11 +6948,11 @@
     "objectId1": 0,
     "name": "Berlin Mitte",
     "type": "Bezirk",
-    "state": "Berlin Mitte",
+    "state": "Berlin",
     "population": 375238,
     "cases": 2650,
     "deaths": 20,
-    "deathRate": 0.0,
+    "deathRate": 0.754716981132076,
     "lastDayCases": [
       43,
       76
@@ -6964,11 +6964,11 @@
     "objectId1": 0,
     "name": "Berlin Friedrichshain-Kreuzberg",
     "type": "Bezirk",
-    "state": "Berlin Friedrichshain-Kreuzberg",
+    "state": "Berlin",
     "population": 282059,
     "cases": 1683,
     "deaths": 9,
-    "deathRate": 0.0,
+    "deathRate": 0.53475935828877,
     "lastDayCases": [
       27,
       33
@@ -6980,11 +6980,11 @@
     "objectId1": 0,
     "name": "Berlin Tempelhof-Schöneberg",
     "type": "Bezirk",
-    "state": "Berlin Tempelhof-Schöneberg",
+    "state": "Berlin",
     "population": 341772,
     "cases": 1629,
     "deaths": 26,
-    "deathRate": 0.0,
+    "deathRate": 1.59607120933088,
     "lastDayCases": [
       38,
       31
