@@ -11,24 +11,25 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 
-public class FeatureDeserializer<T> implements JsonDeserializer<List<T>> {
-	private final Class<T> clazz;
+import de.iconten.client.rest.model.DataItem;
 
-	public FeatureDeserializer(Class<T> clazz) {
-		this.clazz = clazz;
+public class RKIRootDeserializer implements JsonDeserializer<List<DataItem>> {
+
+	public RKIRootDeserializer() {
+
 	}
 
 	@Override
-	public List<T> deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context) throws JsonParseException {
+	public List<DataItem> deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context) throws JsonParseException {
 		final JsonObject jsonObject = json.getAsJsonObject();
 		final JsonArray features = jsonObject.get("features").getAsJsonArray();
 
-		final List<T> collect = new ArrayList<>();
+		final List<DataItem> collect = new ArrayList<>();
 
 		for (final JsonElement jsonElement : features) {
 			final JsonObject jsonObject1 = jsonElement.getAsJsonObject();
 			final JsonElement attributesElement = jsonObject1.get("attributes");
-			final T feature = context.deserialize(attributesElement, clazz);
+			final DataItem feature = context.deserialize(attributesElement, DataItem.class);
 			collect.add(feature);
 		}
 		return collect;

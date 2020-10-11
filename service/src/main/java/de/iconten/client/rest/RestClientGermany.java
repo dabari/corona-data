@@ -1,7 +1,6 @@
 package de.iconten.client.rest;
 
 import java.lang.reflect.Type;
-import java.util.Date;
 import java.util.List;
 
 import javax.ws.rs.client.Client;
@@ -14,12 +13,11 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 
-import de.iconten.client.rest.json.DateFormatTypeAdapter;
-import de.iconten.client.rest.json.FeatureDeserializer;
-import de.iconten.client.rest.model.FeatureBundesland;
-import de.iconten.client.rest.model.FeatureLandkreis;
+import de.iconten.client.rest.json.RKIFeatureDeserializer;
+import de.iconten.client.rest.json.RKIRootDeserializer;
+import de.iconten.client.rest.model.DataItem;
 
-public class RestClient {
+public class RestClientGermany {
 	private static final String REST_URI = "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services";
 	private final Client client = ClientBuilder.newClient();
 
@@ -28,7 +26,7 @@ public class RestClient {
 	 * 
 	 * @return
 	 */
-	public List<FeatureLandkreis> getLandkreisData() {
+	public List<DataItem> getLandkreisData() {
 		return getLandkreisData((String[]) null);
 	}
 
@@ -38,7 +36,7 @@ public class RestClient {
 	 * @param objectIds
 	 * @return
 	 */
-	public List<FeatureLandkreis> getLandkreisData(String... objectIds) {
+	public List<DataItem> getLandkreisData(String... objectIds) {
 		WebTarget target = client.target(REST_URI).path("/RKI_Landkreisdaten/FeatureServer/0/query");
 
 		target = target.queryParam("f", "json");
@@ -54,7 +52,7 @@ public class RestClient {
 		}
 
 		final Builder requestBuilder = target.request().accept(MediaType.APPLICATION_JSON);
-		final List<FeatureLandkreis> features = fromJson(requestBuilder.get(String.class), FeatureLandkreis.class);
+		final List<DataItem> features = fromJson(requestBuilder.get(String.class));
 		return features;
 	}
 
@@ -63,7 +61,7 @@ public class RestClient {
 	 * 
 	 * @return
 	 */
-	public List<FeatureBundesland> getBundeslandData() {
+	public List<DataItem> getBundeslandData() {
 		return getBundeslandData((String[]) null);
 	}
 
@@ -73,7 +71,7 @@ public class RestClient {
 	 * @param objectIds
 	 * @return
 	 */
-	public List<FeatureBundesland> getBundeslandData(String... objectIds) {
+	public List<DataItem> getBundeslandData(String... objectIds) {
 		WebTarget target = client.target(REST_URI).path("/Coronafälle_in_den_Bundesländern/FeatureServer/0/query");
 
 		target = target.queryParam("f", "json");
@@ -89,21 +87,21 @@ public class RestClient {
 		}
 
 		final Builder requestBuilder = target.request().accept(MediaType.APPLICATION_JSON);
-		final List<FeatureBundesland> features = fromJson(requestBuilder.get(String.class), FeatureBundesland.class);
+		final List<DataItem> features = fromJson(requestBuilder.get(String.class));
 		return features;
 	}
 
-	private static <T> List<T> fromJson(String content, Class<T> clazz) {
+	private static List<DataItem> fromJson(String content) {
 		final GsonBuilder builder = new GsonBuilder();
 
-		final Type mapType = new TypeToken<List<T>>() {
+		final Type mapType = new TypeToken<List<DataItem>>() {
 		}.getType();
 
-		builder.registerTypeAdapter(mapType, new FeatureDeserializer<>(clazz));
-		builder.registerTypeAdapter(Date.class, new DateFormatTypeAdapter());
+		builder.registerTypeAdapter(mapType, new RKIRootDeserializer());
+		builder.registerTypeAdapter(DataItem.class, new RKIFeatureDeserializer());
 
 		final Gson gson = builder.create();
-		final List<T> features = gson.fromJson(content, mapType);
+		final List<DataItem> features = gson.fromJson(content, mapType);
 		return features;
 	}
 
