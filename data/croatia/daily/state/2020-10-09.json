@@ -1,0 +1,401 @@
+[
+  {
+    "objectId": 1,
+    "objectId1": 1,
+    "ags": "59",
+    "name": "Bjelovarsko-bilogorska",
+    "type": "Zupanija",
+    "state": "Bjelovarsko-bilogorska",
+    "population": 0,
+    "cases": 318,
+    "deaths": 3,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      8,
+      3,
+      14,
+      13
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 2,
+    "objectId1": 2,
+    "ags": "28",
+    "name": "Brodsko-posavska",
+    "type": "Zupanija",
+    "state": "Brodsko-posavska",
+    "population": 0,
+    "cases": 666,
+    "deaths": 6,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      3,
+      1,
+      8,
+      4
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 3,
+    "objectId1": 3,
+    "ags": "113",
+    "name": "Dubrovačko-neretvanska",
+    "type": "Zupanija",
+    "state": "Dubrovačko-neretvanska",
+    "population": 0,
+    "cases": 795,
+    "deaths": 15,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      24,
+      27,
+      23,
+      15
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 4,
+    "objectId1": 4,
+    "ags": "572",
+    "name": "Grad Zagreb",
+    "type": "Zupanija",
+    "state": "Grad Zagreb",
+    "population": 0,
+    "cases": 4149,
+    "deaths": 66,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      60,
+      70,
+      122,
+      127
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 5,
+    "objectId1": 5,
+    "ags": "12",
+    "name": "Istarska",
+    "type": "Zupanija",
+    "state": "Istarska",
+    "population": 0,
+    "cases": 490,
+    "deaths": 12,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      3,
+      2,
+      1
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 6,
+    "objectId1": 6,
+    "ags": "54",
+    "name": "Karlovačka",
+    "type": "Zupanija",
+    "state": "Karlovačka",
+    "population": 0,
+    "cases": 432,
+    "deaths": 4,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      19,
+      12,
+      15
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 7,
+    "objectId1": 7,
+    "ags": "27",
+    "name": "Koprivničko-križevačka",
+    "type": "Zupanija",
+    "state": "Koprivničko-križevačka",
+    "population": 0,
+    "cases": 254,
+    "deaths": 17,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      3,
+      0,
+      1,
+      4
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 8,
+    "objectId1": 8,
+    "ags": "149",
+    "name": "Krapinsko-zagorska županija",
+    "type": "Zupanija",
+    "state": "Krapinsko-zagorska županija",
+    "population": 0,
+    "cases": 556,
+    "deaths": 2,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      15,
+      23,
+      32,
+      30
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 9,
+    "objectId1": 9,
+    "ags": "55",
+    "name": "Ličko-senjska",
+    "type": "Zupanija",
+    "state": "Ličko-senjska",
+    "population": 0,
+    "cases": 246,
+    "deaths": 1,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      23,
+      2,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 10,
+    "objectId1": 10,
+    "ags": "98",
+    "name": "Međimurska",
+    "type": "Zupanija",
+    "state": "Međimurska",
+    "population": 0,
+    "cases": 264,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      12,
+      14,
+      18,
+      14
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 11,
+    "objectId1": 11,
+    "ags": "162",
+    "name": "Osječko-baranjska",
+    "type": "Zupanija",
+    "state": "Osječko-baranjska",
+    "population": 0,
+    "cases": 1210,
+    "deaths": 42,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      12,
+      34,
+      56,
+      34
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 12,
+    "objectId1": 12,
+    "ags": "47",
+    "name": "Požeško-slavonska",
+    "type": "Zupanija",
+    "state": "Požeško-slavonska",
+    "population": 0,
+    "cases": 475,
+    "deaths": 2,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      5,
+      6,
+      12,
+      6
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 13,
+    "objectId1": 13,
+    "ags": "109",
+    "name": "Primorsko-goranska",
+    "type": "Zupanija",
+    "state": "Primorsko-goranska",
+    "population": 0,
+    "cases": 801,
+    "deaths": 16,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      5,
+      17,
+      17,
+      19
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 14,
+    "objectId1": 14,
+    "ags": "23",
+    "name": "Šibensko-kninska",
+    "type": "Zupanija",
+    "state": "Šibensko-kninska",
+    "population": 0,
+    "cases": 586,
+    "deaths": 6,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      4,
+      3,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 15,
+    "objectId1": 15,
+    "ags": "165",
+    "name": "Sisačko-moslavačka",
+    "type": "Zupanija",
+    "state": "Sisačko-moslavačka",
+    "population": 0,
+    "cases": 473,
+    "deaths": 4,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      7,
+      36,
+      31,
+      18
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 16,
+    "objectId1": 16,
+    "ags": "270",
+    "name": "Splitsko-dalmatinska",
+    "type": "Zupanija",
+    "state": "Splitsko-dalmatinska",
+    "population": 0,
+    "cases": 4313,
+    "deaths": 79,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      52,
+      61,
+      48,
+      51
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 17,
+    "objectId1": 17,
+    "ags": "62",
+    "name": "Varaždinska",
+    "type": "Zupanija",
+    "state": "Varaždinska",
+    "population": 0,
+    "cases": 289,
+    "deaths": 4,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      14,
+      12,
+      20
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 18,
+    "objectId1": 18,
+    "ags": "45",
+    "name": "Virovitičko-podravska",
+    "type": "Zupanija",
+    "state": "Virovitičko-podravska",
+    "population": 0,
+    "cases": 285,
+    "deaths": 4,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      5,
+      1,
+      15,
+      9
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 19,
+    "objectId1": 19,
+    "ags": "139",
+    "name": "Vukovarsko-srijemska",
+    "type": "Zupanija",
+    "state": "Vukovarsko-srijemska",
+    "population": 0,
+    "cases": 1033,
+    "deaths": 11,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      16,
+      7,
+      41,
+      26
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 20,
+    "objectId1": 20,
+    "ags": "50",
+    "name": "Zadarska",
+    "type": "Zupanija",
+    "state": "Zadarska",
+    "population": 0,
+    "cases": 808,
+    "deaths": 9,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      10,
+      12,
+      15,
+      6
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  },
+  {
+    "objectId": 21,
+    "objectId1": 21,
+    "ags": "181",
+    "name": "Zagrebačka ",
+    "type": "Zupanija",
+    "state": "Zagrebačka ",
+    "population": 0,
+    "cases": 1003,
+    "deaths": 10,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      22,
+      10,
+      51,
+      39
+    ],
+    "lastUpdate": "2020-10-09 08:21:00"
+  }
+]

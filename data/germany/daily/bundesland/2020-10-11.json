@@ -1,0 +1,322 @@
+[
+  {
+    "objectId": 15,
+    "objectId1": 1,
+    "ags": "01",
+    "name": "Schleswig-Holstein",
+    "type": "Land",
+    "state": "Schleswig-Holstein",
+    "population": 2903773,
+    "cases": 5235,
+    "deaths": 162,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      54,
+      44,
+      79,
+      54,
+      26
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 6,
+    "objectId1": 2,
+    "ags": "02",
+    "name": "Hamburg",
+    "type": "Freie und Hansestadt",
+    "state": "Hamburg",
+    "population": 1847253,
+    "cases": 8912,
+    "deaths": 277,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      112,
+      93,
+      125,
+      145,
+      98
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 9,
+    "objectId1": 3,
+    "ags": "03",
+    "name": "Niedersachsen",
+    "type": "Land",
+    "state": "Niedersachsen",
+    "population": 7993608,
+    "cases": 22662,
+    "deaths": 697,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      172,
+      287,
+      399,
+      348,
+      172
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 5,
+    "objectId1": 4,
+    "ags": "04",
+    "name": "Bremen",
+    "type": "Freie Hansestadt",
+    "state": "Bremen",
+    "population": 681202,
+    "cases": 3058,
+    "deaths": 60,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      70,
+      103,
+      75,
+      0,
+      178
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 10,
+    "objectId1": 5,
+    "ags": "05",
+    "name": "Nordrhein-Westfalen",
+    "type": "Land",
+    "state": "Nordrhein-Westfalen",
+    "population": 17947221,
+    "cases": 79179,
+    "deaths": 1911,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      773,
+      1056,
+      1125,
+      1422,
+      961
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 7,
+    "objectId1": 6,
+    "ags": "06",
+    "name": "Hessen",
+    "type": "Land",
+    "state": "Hessen",
+    "population": 6288080,
+    "cases": 21911,
+    "deaths": 560,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      242,
+      307,
+      430,
+      494,
+      325
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 11,
+    "objectId1": 7,
+    "ags": "07",
+    "name": "Rheinland-Pfalz",
+    "type": "Land",
+    "state": "Rheinland-Pfalz",
+    "population": 4093903,
+    "cases": 11904,
+    "deaths": 256,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      93,
+      191,
+      103,
+      206,
+      96
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 1,
+    "objectId1": 8,
+    "ags": "08",
+    "name": "Baden-Württemberg",
+    "type": "Land",
+    "state": "Baden-Württemberg",
+    "population": 11100394,
+    "cases": 53868,
+    "deaths": 1901,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      388,
+      652,
+      583,
+      530,
+      524
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 2,
+    "objectId1": 9,
+    "ags": "09",
+    "name": "Bayern",
+    "type": "Freistaat",
+    "state": "Bayern",
+    "population": 13124737,
+    "cases": 72843,
+    "deaths": 2685,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      375,
+      653,
+      725,
+      643,
+      441
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 12,
+    "objectId1": 10,
+    "ags": "10",
+    "name": "Saarland",
+    "type": "Land",
+    "state": "Saarland",
+    "population": 986887,
+    "cases": 3673,
+    "deaths": 177,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      40,
+      10,
+      52,
+      35,
+      87
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 3,
+    "objectId1": 11,
+    "ags": "11",
+    "name": "Berlin",
+    "type": "Land",
+    "state": "Berlin",
+    "population": 3669491,
+    "cases": 17828,
+    "deaths": 234,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      288,
+      378,
+      497,
+      443,
+      273
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 4,
+    "objectId1": 12,
+    "ags": "12",
+    "name": "Brandenburg",
+    "type": "Land",
+    "state": "Brandenburg",
+    "population": 2521893,
+    "cases": 4740,
+    "deaths": 169,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      36,
+      78,
+      42,
+      89,
+      48
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 8,
+    "objectId1": 13,
+    "ags": "13",
+    "name": "Mecklenburg-Vorpommern",
+    "type": "Land",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 1608138,
+    "cases": 1373,
+    "deaths": 20,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      11,
+      28,
+      12,
+      29,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 13,
+    "objectId1": 14,
+    "ags": "14",
+    "name": "Sachsen",
+    "type": "Freistaat",
+    "state": "Sachsen",
+    "population": 4071971,
+    "cases": 8340,
+    "deaths": 247,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      146,
+      118,
+      190,
+      216,
+      137
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 14,
+    "objectId1": 15,
+    "ags": "15",
+    "name": "Sachsen-Anhalt",
+    "type": "Land",
+    "state": "Sachsen-Anhalt",
+    "population": 2194782,
+    "cases": 2903,
+    "deaths": 68,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      10,
+      41,
+      17,
+      26,
+      45
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 16,
+    "objectId1": 16,
+    "ags": "16",
+    "name": "Thüringen",
+    "type": "Freistaat",
+    "state": "Thüringen",
+    "population": 2133378,
+    "cases": 4435,
+    "deaths": 191,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      18,
+      19,
+      62,
+      41,
+      72
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  }
+]

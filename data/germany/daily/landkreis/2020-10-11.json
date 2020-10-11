@@ -1,0 +1,8242 @@
+[
+  {
+    "objectId": 1,
+    "objectId1": 0,
+    "ags": "01001",
+    "name": "Flensburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Schleswig-Holstein",
+    "population": 90164,
+    "cases": 136,
+    "deaths": 3,
+    "deathRate": 2.20588235294118,
+    "lastDayCases": [
+      0,
+      3,
+      5,
+      0,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 2,
+    "objectId1": 0,
+    "ags": "01002",
+    "name": "Kiel",
+    "type": "Kreisfreie Stadt",
+    "state": "Schleswig-Holstein",
+    "population": 246794,
+    "cases": 484,
+    "deaths": 12,
+    "deathRate": 2.47933884297521,
+    "lastDayCases": [
+      4,
+      1,
+      3,
+      0,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 3,
+    "objectId1": 0,
+    "ags": "01003",
+    "name": "Lübeck",
+    "type": "Kreisfreie Stadt",
+    "state": "Schleswig-Holstein",
+    "population": 216530,
+    "cases": 326,
+    "deaths": 1,
+    "deathRate": 0.306748466257669,
+    "lastDayCases": [
+      9,
+      6,
+      4,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 4,
+    "objectId1": 0,
+    "ags": "01004",
+    "name": "Neumünster",
+    "type": "Kreisfreie Stadt",
+    "state": "Schleswig-Holstein",
+    "population": 80196,
+    "cases": 178,
+    "deaths": 3,
+    "deathRate": 1.68539325842697,
+    "lastDayCases": [
+      1,
+      0,
+      1,
+      3,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 5,
+    "objectId1": 0,
+    "ags": "01051",
+    "name": "Dithmarschen",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 133193,
+    "cases": 248,
+    "deaths": 5,
+    "deathRate": 2.01612903225806,
+    "lastDayCases": [
+      9,
+      2,
+      11,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 6,
+    "objectId1": 0,
+    "ags": "01053",
+    "name": "Herzogtum Lauenburg",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 198019,
+    "cases": 377,
+    "deaths": 18,
+    "deathRate": 4.77453580901857,
+    "lastDayCases": [
+      0,
+      3,
+      4,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 7,
+    "objectId1": 0,
+    "ags": "01054",
+    "name": "Nordfriesland",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 165951,
+    "cases": 155,
+    "deaths": 2,
+    "deathRate": 1.29032258064516,
+    "lastDayCases": [
+      2,
+      -1,
+      4,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 8,
+    "objectId1": 0,
+    "ags": "01055",
+    "name": "Ostholstein",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 200539,
+    "cases": 159,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      5,
+      3,
+      5,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 9,
+    "objectId1": 0,
+    "ags": "01056",
+    "name": "Pinneberg",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 316103,
+    "cases": 931,
+    "deaths": 47,
+    "deathRate": 5.04833512352309,
+    "lastDayCases": [
+      7,
+      6,
+      7,
+      4,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 10,
+    "objectId1": 0,
+    "ags": "01057",
+    "name": "Plön",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 128686,
+    "cases": 170,
+    "deaths": 8,
+    "deathRate": 4.70588235294118,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 11,
+    "objectId1": 0,
+    "ags": "01058",
+    "name": "Rendsburg-Eckernförde",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 274098,
+    "cases": 388,
+    "deaths": 14,
+    "deathRate": 3.60824742268041,
+    "lastDayCases": [
+      4,
+      6,
+      9,
+      2,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 12,
+    "objectId1": 0,
+    "ags": "01059",
+    "name": "Schleswig-Flensburg",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 201156,
+    "cases": 212,
+    "deaths": 4,
+    "deathRate": 1.88679245283019,
+    "lastDayCases": [
+      0,
+      5,
+      3,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 13,
+    "objectId1": 0,
+    "ags": "01060",
+    "name": "Segeberg",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 277175,
+    "cases": 539,
+    "deaths": 7,
+    "deathRate": 1.2987012987013,
+    "lastDayCases": [
+      7,
+      0,
+      16,
+      25,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 14,
+    "objectId1": 0,
+    "ags": "01061",
+    "name": "Steinburg",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 131013,
+    "cases": 238,
+    "deaths": 3,
+    "deathRate": 1.26050420168067,
+    "lastDayCases": [
+      1,
+      2,
+      3,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 15,
+    "objectId1": 0,
+    "ags": "01062",
+    "name": "Stormarn",
+    "type": "Kreis",
+    "state": "Schleswig-Holstein",
+    "population": 244156,
+    "cases": 694,
+    "deaths": 35,
+    "deathRate": 5.04322766570605,
+    "lastDayCases": [
+      9,
+      5,
+      6,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 16,
+    "objectId1": 0,
+    "ags": "02000",
+    "name": "Hamburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Hamburg",
+    "population": 1847253,
+    "cases": 8912,
+    "deaths": 277,
+    "deathRate": 3.10816876122083,
+    "lastDayCases": [
+      112,
+      93,
+      125,
+      145,
+      98
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 17,
+    "objectId1": 0,
+    "ags": "03101",
+    "name": "Braunschweig",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 249406,
+    "cases": 543,
+    "deaths": 18,
+    "deathRate": 3.31491712707182,
+    "lastDayCases": [
+      2,
+      13,
+      15,
+      8,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 18,
+    "objectId1": 0,
+    "ags": "03102",
+    "name": "Salzgitter",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 104291,
+    "cases": 275,
+    "deaths": 10,
+    "deathRate": 3.63636363636364,
+    "lastDayCases": [
+      0,
+      0,
+      2,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 19,
+    "objectId1": 0,
+    "ags": "03103",
+    "name": "Wolfsburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 124371,
+    "cases": 457,
+    "deaths": 54,
+    "deathRate": 11.8161925601751,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 20,
+    "objectId1": 0,
+    "ags": "03151",
+    "name": "Gifhorn",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 176523,
+    "cases": 269,
+    "deaths": 5,
+    "deathRate": 1.85873605947955,
+    "lastDayCases": [
+      3,
+      0,
+      0,
+      2,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 21,
+    "objectId1": 0,
+    "ags": "03153",
+    "name": "Goslar",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 136292,
+    "cases": 321,
+    "deaths": 27,
+    "deathRate": 8.41121495327103,
+    "lastDayCases": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 22,
+    "objectId1": 0,
+    "ags": "03154",
+    "name": "Helmstedt",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 91297,
+    "cases": 176,
+    "deaths": 2,
+    "deathRate": 1.13636363636364,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 23,
+    "objectId1": 0,
+    "ags": "03155",
+    "name": "Northeim",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 132285,
+    "cases": 194,
+    "deaths": 6,
+    "deathRate": 3.09278350515464,
+    "lastDayCases": [
+      0,
+      5,
+      0,
+      1,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 24,
+    "objectId1": 0,
+    "ags": "03157",
+    "name": "Peine",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 134801,
+    "cases": 312,
+    "deaths": 12,
+    "deathRate": 3.84615384615385,
+    "lastDayCases": [
+      0,
+      11,
+      6,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 25,
+    "objectId1": 0,
+    "ags": "03158",
+    "name": "Wolfenbüttel",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 119622,
+    "cases": 242,
+    "deaths": 14,
+    "deathRate": 5.78512396694215,
+    "lastDayCases": [
+      0,
+      1,
+      3,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 26,
+    "objectId1": 0,
+    "ags": "03159",
+    "name": "Göttingen",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 326041,
+    "cases": 1490,
+    "deaths": 81,
+    "deathRate": 5.43624161073826,
+    "lastDayCases": [
+      6,
+      5,
+      1,
+      3,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 27,
+    "objectId1": 0,
+    "ags": "03241",
+    "name": "Region Hannover",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 1157115,
+    "cases": 4748,
+    "deaths": 133,
+    "deathRate": 2.80117944397641,
+    "lastDayCases": [
+      10,
+      45,
+      57,
+      89,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 28,
+    "objectId1": 0,
+    "ags": "03251",
+    "name": "Diepholz",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 217089,
+    "cases": 688,
+    "deaths": 27,
+    "deathRate": 3.92441860465116,
+    "lastDayCases": [
+      2,
+      0,
+      11,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 29,
+    "objectId1": 0,
+    "ags": "03252",
+    "name": "Hameln-Pyrmont",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 148549,
+    "cases": 247,
+    "deaths": 7,
+    "deathRate": 2.83400809716599,
+    "lastDayCases": [
+      3,
+      7,
+      1,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 30,
+    "objectId1": 0,
+    "ags": "03254",
+    "name": "Hildesheim",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 275817,
+    "cases": 630,
+    "deaths": 10,
+    "deathRate": 1.58730158730159,
+    "lastDayCases": [
+      2,
+      9,
+      12,
+      6,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 31,
+    "objectId1": 0,
+    "ags": "03255",
+    "name": "Holzminden",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 70458,
+    "cases": 138,
+    "deaths": 7,
+    "deathRate": 5.07246376811594,
+    "lastDayCases": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 32,
+    "objectId1": 0,
+    "ags": "03256",
+    "name": "Nienburg (Weser)",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 121390,
+    "cases": 135,
+    "deaths": 4,
+    "deathRate": 2.96296296296296,
+    "lastDayCases": [
+      3,
+      4,
+      3,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 33,
+    "objectId1": 0,
+    "ags": "03257",
+    "name": "Schaumburg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 157820,
+    "cases": 332,
+    "deaths": 7,
+    "deathRate": 2.10843373493976,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      8,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 34,
+    "objectId1": 0,
+    "ags": "03351",
+    "name": "Celle",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 179011,
+    "cases": 337,
+    "deaths": 15,
+    "deathRate": 4.45103857566766,
+    "lastDayCases": [
+      5,
+      3,
+      5,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 35,
+    "objectId1": 0,
+    "ags": "03352",
+    "name": "Cuxhaven",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 198038,
+    "cases": 445,
+    "deaths": 21,
+    "deathRate": 4.71910112359551,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 36,
+    "objectId1": 0,
+    "ags": "03353",
+    "name": "Harburg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 254431,
+    "cases": 911,
+    "deaths": 17,
+    "deathRate": 1.86608122941822,
+    "lastDayCases": [
+      13,
+      2,
+      9,
+      0,
+      21
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 37,
+    "objectId1": 0,
+    "ags": "03354",
+    "name": "Lüchow-Dannenberg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 48412,
+    "cases": 47,
+    "deaths": 3,
+    "deathRate": 6.38297872340426,
+    "lastDayCases": [
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 38,
+    "objectId1": 0,
+    "ags": "03355",
+    "name": "Lüneburg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 184139,
+    "cases": 267,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      6,
+      8,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 39,
+    "objectId1": 0,
+    "ags": "03356",
+    "name": "Osterholz",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 113928,
+    "cases": 209,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      2,
+      6,
+      13,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 40,
+    "objectId1": 0,
+    "ags": "03357",
+    "name": "Rotenburg (Wümme)",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 163782,
+    "cases": 339,
+    "deaths": 3,
+    "deathRate": 0.884955752212389,
+    "lastDayCases": [
+      16,
+      7,
+      12,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 41,
+    "objectId1": 0,
+    "ags": "03358",
+    "name": "Heidekreis",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 140673,
+    "cases": 134,
+    "deaths": 2,
+    "deathRate": 1.49253731343284,
+    "lastDayCases": [
+      1,
+      3,
+      3,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 42,
+    "objectId1": 0,
+    "ags": "03359",
+    "name": "Stade",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 204512,
+    "cases": 388,
+    "deaths": 9,
+    "deathRate": 2.31958762886598,
+    "lastDayCases": [
+      7,
+      6,
+      0,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 43,
+    "objectId1": 0,
+    "ags": "03360",
+    "name": "Uelzen",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 92389,
+    "cases": 104,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      0,
+      1,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 44,
+    "objectId1": 0,
+    "ags": "03361",
+    "name": "Verden",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 137133,
+    "cases": 403,
+    "deaths": 8,
+    "deathRate": 1.98511166253102,
+    "lastDayCases": [
+      2,
+      9,
+      6,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 45,
+    "objectId1": 0,
+    "ags": "03401",
+    "name": "Delmenhorst",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 77559,
+    "cases": 248,
+    "deaths": 4,
+    "deathRate": 1.61290322580645,
+    "lastDayCases": [
+      12,
+      0,
+      15,
+      16,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 46,
+    "objectId1": 0,
+    "ags": "03402",
+    "name": "Emden",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 49913,
+    "cases": 48,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 47,
+    "objectId1": 0,
+    "ags": "03403",
+    "name": "Oldenburg (Oldb)",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 169077,
+    "cases": 327,
+    "deaths": 3,
+    "deathRate": 0.917431192660551,
+    "lastDayCases": [
+      1,
+      1,
+      3,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 48,
+    "objectId1": 0,
+    "ags": "03404",
+    "name": "Osnabrück",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 165251,
+    "cases": 806,
+    "deaths": 18,
+    "deathRate": 2.23325062034739,
+    "lastDayCases": [
+      3,
+      8,
+      3,
+      6,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 49,
+    "objectId1": 0,
+    "ags": "03405",
+    "name": "Wilhelmshaven",
+    "type": "Kreisfreie Stadt",
+    "state": "Niedersachsen",
+    "population": 76089,
+    "cases": 68,
+    "deaths": 1,
+    "deathRate": 1.47058823529412,
+    "lastDayCases": [
+      0,
+      2,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 50,
+    "objectId1": 0,
+    "ags": "03451",
+    "name": "Ammerland",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 124859,
+    "cases": 244,
+    "deaths": 5,
+    "deathRate": 2.04918032786885,
+    "lastDayCases": [
+      2,
+      0,
+      0,
+      8,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 51,
+    "objectId1": 0,
+    "ags": "03452",
+    "name": "Aurich",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 189694,
+    "cases": 261,
+    "deaths": 9,
+    "deathRate": 3.44827586206897,
+    "lastDayCases": [
+      0,
+      19,
+      0,
+      15,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 52,
+    "objectId1": 0,
+    "ags": "03453",
+    "name": "Cloppenburg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 170682,
+    "cases": 858,
+    "deaths": 1,
+    "deathRate": 0.116550116550117,
+    "lastDayCases": [
+      0,
+      0,
+      124,
+      25,
+      22
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 53,
+    "objectId1": 0,
+    "ags": "03454",
+    "name": "Emsland",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 326954,
+    "cases": 954,
+    "deaths": 25,
+    "deathRate": 2.62054507337526,
+    "lastDayCases": [
+      18,
+      37,
+      26,
+      11,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 54,
+    "objectId1": 0,
+    "ags": "03455",
+    "name": "Friesland",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 98704,
+    "cases": 118,
+    "deaths": 2,
+    "deathRate": 1.69491525423729,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 55,
+    "objectId1": 0,
+    "ags": "03456",
+    "name": "Grafschaft Bentheim",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 137162,
+    "cases": 397,
+    "deaths": 18,
+    "deathRate": 4.53400503778338,
+    "lastDayCases": [
+      8,
+      14,
+      10,
+      21,
+      17
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 56,
+    "objectId1": 0,
+    "ags": "03457",
+    "name": "Leer",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 170756,
+    "cases": 288,
+    "deaths": 6,
+    "deathRate": 2.08333333333333,
+    "lastDayCases": [
+      1,
+      12,
+      0,
+      10,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 57,
+    "objectId1": 0,
+    "ags": "03458",
+    "name": "Oldenburg",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 130890,
+    "cases": 554,
+    "deaths": 14,
+    "deathRate": 2.52707581227437,
+    "lastDayCases": [
+      21,
+      26,
+      11,
+      -1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 58,
+    "objectId1": 0,
+    "ags": "03459",
+    "name": "Osnabrück",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 358080,
+    "cases": 1592,
+    "deaths": 67,
+    "deathRate": 4.20854271356784,
+    "lastDayCases": [
+      15,
+      13,
+      9,
+      25,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 59,
+    "objectId1": 0,
+    "ags": "03460",
+    "name": "Vechta",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 142814,
+    "cases": 796,
+    "deaths": 14,
+    "deathRate": 1.75879396984925,
+    "lastDayCases": [
+      1,
+      15,
+      11,
+      17,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 60,
+    "objectId1": 0,
+    "ags": "03461",
+    "name": "Wesermarsch",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 88583,
+    "cases": 239,
+    "deaths": 8,
+    "deathRate": 3.34728033472803,
+    "lastDayCases": [
+      1,
+      0,
+      28,
+      9,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 61,
+    "objectId1": 0,
+    "ags": "03462",
+    "name": "Wittmund",
+    "type": "Landkreis",
+    "state": "Niedersachsen",
+    "population": 56926,
+    "cases": 83,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 62,
+    "objectId1": 0,
+    "ags": "04011",
+    "name": "Bremen",
+    "type": "Kreisfreie Stadt",
+    "state": "Bremen",
+    "population": 567559,
+    "cases": 2768,
+    "deaths": 54,
+    "deathRate": 1.95086705202312,
+    "lastDayCases": [
+      70,
+      99,
+      73,
+      0,
+      172
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 63,
+    "objectId1": 0,
+    "ags": "04012",
+    "name": "Bremerhaven",
+    "type": "Kreisfreie Stadt",
+    "state": "Bremen",
+    "population": 113643,
+    "cases": 290,
+    "deaths": 6,
+    "deathRate": 2.06896551724138,
+    "lastDayCases": [
+      0,
+      4,
+      2,
+      0,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 64,
+    "objectId1": 0,
+    "ags": "05111",
+    "name": "Düsseldorf",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 621877,
+    "cases": 3599,
+    "deaths": 52,
+    "deathRate": 1.44484579049736,
+    "lastDayCases": [
+      39,
+      29,
+      0,
+      145,
+      48
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 65,
+    "objectId1": 0,
+    "ags": "05112",
+    "name": "Duisburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 498686,
+    "cases": 3207,
+    "deaths": 75,
+    "deathRate": 2.33863423760524,
+    "lastDayCases": [
+      29,
+      39,
+      43,
+      38,
+      40
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 66,
+    "objectId1": 0,
+    "ags": "05113",
+    "name": "Essen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 582760,
+    "cases": 2482,
+    "deaths": 49,
+    "deathRate": 1.97421434327156,
+    "lastDayCases": [
+      41,
+      65,
+      72,
+      22,
+      58
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 67,
+    "objectId1": 0,
+    "ags": "05114",
+    "name": "Krefeld",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 227417,
+    "cases": 1077,
+    "deaths": 28,
+    "deathRate": 2.59981429897864,
+    "lastDayCases": [
+      11,
+      7,
+      0,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 68,
+    "objectId1": 0,
+    "ags": "05116",
+    "name": "Mönchengladbach",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 261034,
+    "cases": 1183,
+    "deaths": 51,
+    "deathRate": 4.31107354184277,
+    "lastDayCases": [
+      5,
+      7,
+      0,
+      23,
+      18
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 69,
+    "objectId1": 0,
+    "ags": "05117",
+    "name": "Mülheim an der Ruhr",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 170632,
+    "cases": 678,
+    "deaths": 15,
+    "deathRate": 2.21238938053097,
+    "lastDayCases": [
+      5,
+      0,
+      4,
+      12,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 70,
+    "objectId1": 0,
+    "ags": "05119",
+    "name": "Oberhausen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 210764,
+    "cases": 672,
+    "deaths": 14,
+    "deathRate": 2.08333333333333,
+    "lastDayCases": [
+      10,
+      10,
+      5,
+      15,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 71,
+    "objectId1": 0,
+    "ags": "05120",
+    "name": "Remscheid",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 111338,
+    "cases": 622,
+    "deaths": 19,
+    "deathRate": 3.05466237942122,
+    "lastDayCases": [
+      10,
+      8,
+      8,
+      14,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 72,
+    "objectId1": 0,
+    "ags": "05122",
+    "name": "Solingen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 159245,
+    "cases": 770,
+    "deaths": 13,
+    "deathRate": 1.68831168831169,
+    "lastDayCases": [
+      9,
+      8,
+      12,
+      15,
+      20
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 73,
+    "objectId1": 0,
+    "ags": "05124",
+    "name": "Wuppertal",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 355100,
+    "cases": 2052,
+    "deaths": 88,
+    "deathRate": 4.28849902534113,
+    "lastDayCases": [
+      8,
+      35,
+      39,
+      62,
+      41
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 74,
+    "objectId1": 0,
+    "ags": "05154",
+    "name": "Kleve",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 312465,
+    "cases": 1252,
+    "deaths": 37,
+    "deathRate": 2.95527156549521,
+    "lastDayCases": [
+      7,
+      10,
+      12,
+      22,
+      15
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 75,
+    "objectId1": 0,
+    "ags": "05158",
+    "name": "Mettmann",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 485570,
+    "cases": 2283,
+    "deaths": 88,
+    "deathRate": 3.85457731055629,
+    "lastDayCases": [
+      27,
+      34,
+      32,
+      87,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 76,
+    "objectId1": 0,
+    "ags": "05162",
+    "name": "Rhein-Kreis Neuss",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 451730,
+    "cases": 1557,
+    "deaths": 26,
+    "deathRate": 1.66987797045601,
+    "lastDayCases": [
+      13,
+      22,
+      13,
+      13,
+      34
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 77,
+    "objectId1": 0,
+    "ags": "05166",
+    "name": "Viersen",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 298863,
+    "cases": 1110,
+    "deaths": 37,
+    "deathRate": 3.33333333333333,
+    "lastDayCases": [
+      2,
+      10,
+      10,
+      13,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 78,
+    "objectId1": 0,
+    "ags": "05170",
+    "name": "Wesel",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 459976,
+    "cases": 1505,
+    "deaths": 32,
+    "deathRate": 2.12624584717608,
+    "lastDayCases": [
+      15,
+      16,
+      20,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 79,
+    "objectId1": 0,
+    "ags": "05314",
+    "name": "Bonn",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 329673,
+    "cases": 1421,
+    "deaths": 9,
+    "deathRate": 0.633356790992259,
+    "lastDayCases": [
+      11,
+      29,
+      18,
+      10,
+      26
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 80,
+    "objectId1": 0,
+    "ags": "05315",
+    "name": "Köln",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 1087863,
+    "cases": 5954,
+    "deaths": 127,
+    "deathRate": 2.13301981860934,
+    "lastDayCases": [
+      72,
+      143,
+      134,
+      111,
+      117
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 81,
+    "objectId1": 0,
+    "ags": "05316",
+    "name": "Leverkusen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 163729,
+    "cases": 674,
+    "deaths": 9,
+    "deathRate": 1.3353115727003,
+    "lastDayCases": [
+      11,
+      13,
+      15,
+      14,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 82,
+    "objectId1": 0,
+    "ags": "05334",
+    "name": "Städteregion Aachen",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 557026,
+    "cases": 3029,
+    "deaths": 109,
+    "deathRate": 3.59854737537141,
+    "lastDayCases": [
+      23,
+      47,
+      62,
+      34,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 83,
+    "objectId1": 0,
+    "ags": "05358",
+    "name": "Düren",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 264638,
+    "cases": 1118,
+    "deaths": 42,
+    "deathRate": 3.7567084078712,
+    "lastDayCases": [
+      15,
+      12,
+      11,
+      19,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 84,
+    "objectId1": 0,
+    "ags": "05362",
+    "name": "Rhein-Erft-Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 470615,
+    "cases": 2002,
+    "deaths": 80,
+    "deathRate": 3.996003996004,
+    "lastDayCases": [
+      18,
+      47,
+      35,
+      40,
+      33
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 85,
+    "objectId1": 0,
+    "ags": "05366",
+    "name": "Euskirchen",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 193656,
+    "cases": 801,
+    "deaths": 27,
+    "deathRate": 3.37078651685393,
+    "lastDayCases": [
+      0,
+      0,
+      23,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 86,
+    "objectId1": 0,
+    "ags": "05370",
+    "name": "Heinsberg",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 255555,
+    "cases": 2231,
+    "deaths": 95,
+    "deathRate": 4.25818018825639,
+    "lastDayCases": [
+      6,
+      7,
+      6,
+      17,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 87,
+    "objectId1": 0,
+    "ags": "05374",
+    "name": "Oberbergischer Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 272057,
+    "cases": 998,
+    "deaths": 19,
+    "deathRate": 1.90380761523046,
+    "lastDayCases": [
+      13,
+      11,
+      11,
+      17,
+      15
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 88,
+    "objectId1": 0,
+    "ags": "05378",
+    "name": "Rheinisch-Bergischer Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 283271,
+    "cases": 878,
+    "deaths": 22,
+    "deathRate": 2.50569476082005,
+    "lastDayCases": [
+      6,
+      12,
+      20,
+      21,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 89,
+    "objectId1": 0,
+    "ags": "05382",
+    "name": "Rhein-Sieg-Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 600764,
+    "cases": 2394,
+    "deaths": 54,
+    "deathRate": 2.25563909774436,
+    "lastDayCases": [
+      31,
+      3,
+      34,
+      49,
+      35
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 90,
+    "objectId1": 0,
+    "ags": "05512",
+    "name": "Bottrop",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 117565,
+    "cases": 401,
+    "deaths": 7,
+    "deathRate": 1.74563591022444,
+    "lastDayCases": [
+      8,
+      0,
+      2,
+      6,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 91,
+    "objectId1": 0,
+    "ags": "05513",
+    "name": "Gelsenkirchen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 259645,
+    "cases": 1347,
+    "deaths": 19,
+    "deathRate": 1.4105419450631,
+    "lastDayCases": [
+      28,
+      26,
+      26,
+      23,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 92,
+    "objectId1": 0,
+    "ags": "05515",
+    "name": "Münster",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 315293,
+    "cases": 1209,
+    "deaths": 13,
+    "deathRate": 1.0752688172043,
+    "lastDayCases": [
+      0,
+      10,
+      16,
+      0,
+      43
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 93,
+    "objectId1": 0,
+    "ags": "05554",
+    "name": "Borken",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 371339,
+    "cases": 1479,
+    "deaths": 38,
+    "deathRate": 2.56930358350237,
+    "lastDayCases": [
+      3,
+      16,
+      15,
+      8,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 94,
+    "objectId1": 0,
+    "ags": "05558",
+    "name": "Coesfeld",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 220586,
+    "cases": 1048,
+    "deaths": 25,
+    "deathRate": 2.38549618320611,
+    "lastDayCases": [
+      9,
+      8,
+      20,
+      7,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 95,
+    "objectId1": 0,
+    "ags": "05562",
+    "name": "Recklinghausen",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 614137,
+    "cases": 2691,
+    "deaths": 47,
+    "deathRate": 1.74656261612783,
+    "lastDayCases": [
+      24,
+      56,
+      21,
+      165,
+      62
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 96,
+    "objectId1": 0,
+    "ags": "05566",
+    "name": "Steinfurt",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 448220,
+    "cases": 1981,
+    "deaths": 94,
+    "deathRate": 4.74507824331146,
+    "lastDayCases": [
+      5,
+      18,
+      21,
+      27,
+      29
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 97,
+    "objectId1": 0,
+    "ags": "05570",
+    "name": "Warendorf",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 277840,
+    "cases": 1170,
+    "deaths": 21,
+    "deathRate": 1.79487179487179,
+    "lastDayCases": [
+      0,
+      9,
+      32,
+      13,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 98,
+    "objectId1": 0,
+    "ags": "05711",
+    "name": "Bielefeld",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 334195,
+    "cases": 1062,
+    "deaths": 9,
+    "deathRate": 0.847457627118644,
+    "lastDayCases": [
+      10,
+      17,
+      3,
+      33,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 99,
+    "objectId1": 0,
+    "ags": "05754",
+    "name": "Gütersloh",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 364938,
+    "cases": 3132,
+    "deaths": 21,
+    "deathRate": 0.670498084291188,
+    "lastDayCases": [
+      13,
+      11,
+      30,
+      23,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 100,
+    "objectId1": 0,
+    "ags": "05758",
+    "name": "Herford",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 250578,
+    "cases": 721,
+    "deaths": 8,
+    "deathRate": 1.10957004160888,
+    "lastDayCases": [
+      13,
+      11,
+      10,
+      21,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 101,
+    "objectId1": 0,
+    "ags": "05762",
+    "name": "Höxter",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 140251,
+    "cases": 457,
+    "deaths": 19,
+    "deathRate": 4.15754923413567,
+    "lastDayCases": [
+      3,
+      1,
+      3,
+      4,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 102,
+    "objectId1": 0,
+    "ags": "05766",
+    "name": "Lippe",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 347514,
+    "cases": 1064,
+    "deaths": 31,
+    "deathRate": 2.91353383458647,
+    "lastDayCases": [
+      12,
+      6,
+      4,
+      22,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 103,
+    "objectId1": 0,
+    "ags": "05770",
+    "name": "Minden-Lübbecke",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 310409,
+    "cases": 1002,
+    "deaths": 15,
+    "deathRate": 1.49700598802395,
+    "lastDayCases": [
+      8,
+      3,
+      7,
+      14,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 104,
+    "objectId1": 0,
+    "ags": "05774",
+    "name": "Paderborn",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 307839,
+    "cases": 937,
+    "deaths": 34,
+    "deathRate": 3.62860192102455,
+    "lastDayCases": [
+      3,
+      5,
+      6,
+      7,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 105,
+    "objectId1": 0,
+    "ags": "05911",
+    "name": "Bochum",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 365587,
+    "cases": 1500,
+    "deaths": 28,
+    "deathRate": 1.86666666666667,
+    "lastDayCases": [
+      18,
+      33,
+      33,
+      31,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 106,
+    "objectId1": 0,
+    "ags": "05913",
+    "name": "Dortmund",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 588250,
+    "cases": 2364,
+    "deaths": 21,
+    "deathRate": 0.888324873096447,
+    "lastDayCases": [
+      30,
+      33,
+      26,
+      53,
+      47
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 107,
+    "objectId1": 0,
+    "ags": "05914",
+    "name": "Hagen",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 188686,
+    "cases": 961,
+    "deaths": 14,
+    "deathRate": 1.45681581685744,
+    "lastDayCases": [
+      28,
+      16,
+      8,
+      21,
+      41
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 108,
+    "objectId1": 0,
+    "ags": "05915",
+    "name": "Hamm",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 179916,
+    "cases": 1274,
+    "deaths": 38,
+    "deathRate": 2.98273155416013,
+    "lastDayCases": [
+      21,
+      4,
+      18,
+      17,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 109,
+    "objectId1": 0,
+    "ags": "05916",
+    "name": "Herne",
+    "type": "Kreisfreie Stadt",
+    "state": "Nordrhein-Westfalen",
+    "population": 156449,
+    "cases": 709,
+    "deaths": 9,
+    "deathRate": 1.26939351198872,
+    "lastDayCases": [
+      17,
+      17,
+      42,
+      24,
+      31
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 110,
+    "objectId1": 0,
+    "ags": "05954",
+    "name": "Ennepe-Ruhr-Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 324106,
+    "cases": 950,
+    "deaths": 15,
+    "deathRate": 1.57894736842105,
+    "lastDayCases": [
+      0,
+      6,
+      11,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 111,
+    "objectId1": 0,
+    "ags": "05958",
+    "name": "Hochsauerlandkreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 259777,
+    "cases": 933,
+    "deaths": 19,
+    "deathRate": 2.03644158628081,
+    "lastDayCases": [
+      8,
+      7,
+      3,
+      4,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 112,
+    "objectId1": 0,
+    "ags": "05962",
+    "name": "Märkischer Kreis",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 410222,
+    "cases": 1252,
+    "deaths": 32,
+    "deathRate": 2.55591054313099,
+    "lastDayCases": [
+      29,
+      17,
+      24,
+      25,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 113,
+    "objectId1": 0,
+    "ags": "05966",
+    "name": "Olpe",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 133955,
+    "cases": 861,
+    "deaths": 57,
+    "deathRate": 6.62020905923345,
+    "lastDayCases": [
+      3,
+      9,
+      7,
+      7,
+      18
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 114,
+    "objectId1": 0,
+    "ags": "05970",
+    "name": "Siegen-Wittgenstein",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 276944,
+    "cases": 831,
+    "deaths": 8,
+    "deathRate": 0.962695547533093,
+    "lastDayCases": [
+      15,
+      29,
+      10,
+      16,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 115,
+    "objectId1": 0,
+    "ags": "05974",
+    "name": "Soest",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 301785,
+    "cases": 664,
+    "deaths": 10,
+    "deathRate": 1.50602409638554,
+    "lastDayCases": [
+      2,
+      16,
+      25,
+      11,
+      13
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 116,
+    "objectId1": 0,
+    "ags": "05978",
+    "name": "Unna",
+    "type": "Kreis",
+    "state": "Nordrhein-Westfalen",
+    "population": 394891,
+    "cases": 1630,
+    "deaths": 42,
+    "deathRate": 2.57668711656442,
+    "lastDayCases": [
+      26,
+      48,
+      63,
+      17,
+      72
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 117,
+    "objectId1": 0,
+    "ags": "06411",
+    "name": "Darmstadt",
+    "type": "Kreisfreie Stadt",
+    "state": "Hessen",
+    "population": 159878,
+    "cases": 516,
+    "deaths": 18,
+    "deathRate": 3.48837209302326,
+    "lastDayCases": [
+      8,
+      0,
+      18,
+      14,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 118,
+    "objectId1": 0,
+    "ags": "06412",
+    "name": "Frankfurt am Main",
+    "type": "Kreisfreie Stadt",
+    "state": "Hessen",
+    "population": 763380,
+    "cases": 4185,
+    "deaths": 72,
+    "deathRate": 1.72043010752688,
+    "lastDayCases": [
+      23,
+      95,
+      149,
+      123,
+      51
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 119,
+    "objectId1": 0,
+    "ags": "06413",
+    "name": "Offenbach am Main",
+    "type": "Kreisfreie Stadt",
+    "state": "Hessen",
+    "population": 130280,
+    "cases": 721,
+    "deaths": 10,
+    "deathRate": 1.3869625520111,
+    "lastDayCases": [
+      11,
+      9,
+      28,
+      21,
+      19
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 120,
+    "objectId1": 0,
+    "ags": "06414",
+    "name": "Wiesbaden",
+    "type": "Kreisfreie Stadt",
+    "state": "Hessen",
+    "population": 278474,
+    "cases": 1211,
+    "deaths": 23,
+    "deathRate": 1.89925681255161,
+    "lastDayCases": [
+      24,
+      21,
+      23,
+      18,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 121,
+    "objectId1": 0,
+    "ags": "06431",
+    "name": "Bergstraße",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 270340,
+    "cases": 705,
+    "deaths": 3,
+    "deathRate": 0.425531914893617,
+    "lastDayCases": [
+      7,
+      6,
+      13,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 122,
+    "objectId1": 0,
+    "ags": "06432",
+    "name": "Darmstadt-Dieburg",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 297844,
+    "cases": 810,
+    "deaths": 22,
+    "deathRate": 2.71604938271605,
+    "lastDayCases": [
+      11,
+      0,
+      24,
+      12,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 123,
+    "objectId1": 0,
+    "ags": "06433",
+    "name": "Groß-Gerau",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 275726,
+    "cases": 1330,
+    "deaths": 17,
+    "deathRate": 1.2781954887218,
+    "lastDayCases": [
+      17,
+      27,
+      0,
+      39,
+      38
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 124,
+    "objectId1": 0,
+    "ags": "06434",
+    "name": "Hochtaunuskreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 236914,
+    "cases": 608,
+    "deaths": 6,
+    "deathRate": 0.986842105263158,
+    "lastDayCases": [
+      7,
+      9,
+      20,
+      15,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 125,
+    "objectId1": 0,
+    "ags": "06435",
+    "name": "Main-Kinzig-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 420552,
+    "cases": 1562,
+    "deaths": 55,
+    "deathRate": 3.52112676056338,
+    "lastDayCases": [
+      17,
+      0,
+      35,
+      14,
+      39
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 126,
+    "objectId1": 0,
+    "ags": "06436",
+    "name": "Main-Taunus-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 238558,
+    "cases": 866,
+    "deaths": 17,
+    "deathRate": 1.96304849884527,
+    "lastDayCases": [
+      20,
+      12,
+      31,
+      31,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 127,
+    "objectId1": 0,
+    "ags": "06437",
+    "name": "Odenwaldkreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 96703,
+    "cases": 507,
+    "deaths": 63,
+    "deathRate": 12.4260355029586,
+    "lastDayCases": [
+      1,
+      3,
+      2,
+      0,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 128,
+    "objectId1": 0,
+    "ags": "06438",
+    "name": "Offenbach",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 355813,
+    "cases": 1507,
+    "deaths": 46,
+    "deathRate": 3.05242203052422,
+    "lastDayCases": [
+      27,
+      19,
+      0,
+      65,
+      23
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 129,
+    "objectId1": 0,
+    "ags": "06439",
+    "name": "Rheingau-Taunus-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 187160,
+    "cases": 586,
+    "deaths": 8,
+    "deathRate": 1.36518771331058,
+    "lastDayCases": [
+      6,
+      5,
+      12,
+      1,
+      28
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 130,
+    "objectId1": 0,
+    "ags": "06440",
+    "name": "Wetteraukreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 308339,
+    "cases": 711,
+    "deaths": 13,
+    "deathRate": 1.82841068917018,
+    "lastDayCases": [
+      8,
+      9,
+      13,
+      20,
+      17
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 131,
+    "objectId1": 0,
+    "ags": "06531",
+    "name": "Gießen",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 270688,
+    "cases": 574,
+    "deaths": 6,
+    "deathRate": 1.04529616724739,
+    "lastDayCases": [
+      9,
+      12,
+      9,
+      19,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 132,
+    "objectId1": 0,
+    "ags": "06532",
+    "name": "Lahn-Dill-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 253319,
+    "cases": 606,
+    "deaths": 23,
+    "deathRate": 3.7953795379538,
+    "lastDayCases": [
+      9,
+      15,
+      6,
+      7,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 133,
+    "objectId1": 0,
+    "ags": "06533",
+    "name": "Limburg-Weilburg",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 171912,
+    "cases": 536,
+    "deaths": 7,
+    "deathRate": 1.30597014925373,
+    "lastDayCases": [
+      5,
+      0,
+      9,
+      3,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 134,
+    "objectId1": 0,
+    "ags": "06534",
+    "name": "Marburg-Biedenkopf",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 247084,
+    "cases": 586,
+    "deaths": 4,
+    "deathRate": 0.68259385665529,
+    "lastDayCases": [
+      5,
+      28,
+      16,
+      31,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 135,
+    "objectId1": 0,
+    "ags": "06535",
+    "name": "Vogelsbergkreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 105643,
+    "cases": 195,
+    "deaths": 6,
+    "deathRate": 3.07692307692308,
+    "lastDayCases": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 136,
+    "objectId1": 0,
+    "ags": "06611",
+    "name": "Kassel",
+    "type": "Kreisfreie Stadt",
+    "state": "Hessen",
+    "population": 202137,
+    "cases": 654,
+    "deaths": 9,
+    "deathRate": 1.37614678899083,
+    "lastDayCases": [
+      10,
+      4,
+      8,
+      19,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 137,
+    "objectId1": 0,
+    "ags": "06631",
+    "name": "Fulda",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 223145,
+    "cases": 645,
+    "deaths": 17,
+    "deathRate": 2.63565891472868,
+    "lastDayCases": [
+      3,
+      4,
+      3,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 138,
+    "objectId1": 0,
+    "ags": "06632",
+    "name": "Hersfeld-Rotenburg",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 120719,
+    "cases": 383,
+    "deaths": 23,
+    "deathRate": 6.00522193211488,
+    "lastDayCases": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 139,
+    "objectId1": 0,
+    "ags": "06633",
+    "name": "Kassel",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 236764,
+    "cases": 602,
+    "deaths": 32,
+    "deathRate": 5.3156146179402,
+    "lastDayCases": [
+      3,
+      4,
+      2,
+      7,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 140,
+    "objectId1": 0,
+    "ags": "06634",
+    "name": "Schwalm-Eder-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 179673,
+    "cases": 717,
+    "deaths": 39,
+    "deathRate": 5.43933054393306,
+    "lastDayCases": [
+      5,
+      2,
+      0,
+      8,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 141,
+    "objectId1": 0,
+    "ags": "06635",
+    "name": "Waldeck-Frankenberg",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 156406,
+    "cases": 283,
+    "deaths": 5,
+    "deathRate": 1.76678445229682,
+    "lastDayCases": [
+      1,
+      9,
+      2,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 142,
+    "objectId1": 0,
+    "ags": "06636",
+    "name": "Werra-Meißner-Kreis",
+    "type": "Landkreis",
+    "state": "Hessen",
+    "population": 100629,
+    "cases": 305,
+    "deaths": 16,
+    "deathRate": 5.24590163934426,
+    "lastDayCases": [
+      4,
+      12,
+      6,
+      10,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 143,
+    "objectId1": 0,
+    "ags": "07111",
+    "name": "Koblenz",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 114052,
+    "cases": 371,
+    "deaths": 20,
+    "deathRate": 5.39083557951483,
+    "lastDayCases": [
+      4,
+      0,
+      8,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 144,
+    "objectId1": 0,
+    "ags": "07131",
+    "name": "Ahrweiler",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 130086,
+    "cases": 392,
+    "deaths": 3,
+    "deathRate": 0.76530612244898,
+    "lastDayCases": [
+      6,
+      2,
+      5,
+      1,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 145,
+    "objectId1": 0,
+    "ags": "07132",
+    "name": "Altenkirchen (Westerwald)",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 128805,
+    "cases": 282,
+    "deaths": 12,
+    "deathRate": 4.25531914893617,
+    "lastDayCases": [
+      2,
+      4,
+      2,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 146,
+    "objectId1": 0,
+    "ags": "07133",
+    "name": "Bad Kreuznach",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 158345,
+    "cases": 379,
+    "deaths": 7,
+    "deathRate": 1.84696569920844,
+    "lastDayCases": [
+      8,
+      9,
+      6,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 147,
+    "objectId1": 0,
+    "ags": "07134",
+    "name": "Birkenfeld",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 80951,
+    "cases": 137,
+    "deaths": 3,
+    "deathRate": 2.18978102189781,
+    "lastDayCases": [
+      0,
+      0,
+      3,
+      9,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 148,
+    "objectId1": 0,
+    "ags": "07135",
+    "name": "Cochem-Zell",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 61375,
+    "cases": 174,
+    "deaths": 1,
+    "deathRate": 0.574712643678161,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 149,
+    "objectId1": 0,
+    "ags": "07137",
+    "name": "Mayen-Koblenz",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 214434,
+    "cases": 531,
+    "deaths": 17,
+    "deathRate": 3.2015065913371,
+    "lastDayCases": [
+      7,
+      0,
+      15,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 150,
+    "objectId1": 0,
+    "ags": "07138",
+    "name": "Neuwied",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 182811,
+    "cases": 550,
+    "deaths": 5,
+    "deathRate": 0.909090909090909,
+    "lastDayCases": [
+      11,
+      26,
+      17,
+      13,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 151,
+    "objectId1": 0,
+    "ags": "07140",
+    "name": "Rhein-Hunsrück-Kreis",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 103163,
+    "cases": 238,
+    "deaths": 6,
+    "deathRate": 2.52100840336134,
+    "lastDayCases": [
+      0,
+      3,
+      1,
+      1,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 152,
+    "objectId1": 0,
+    "ags": "07141",
+    "name": "Rhein-Lahn-Kreis",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 122297,
+    "cases": 228,
+    "deaths": 6,
+    "deathRate": 2.63157894736842,
+    "lastDayCases": [
+      1,
+      5,
+      1,
+      3,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 153,
+    "objectId1": 0,
+    "ags": "07143",
+    "name": "Westerwaldkreis",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 201904,
+    "cases": 627,
+    "deaths": 22,
+    "deathRate": 3.50877192982456,
+    "lastDayCases": [
+      3,
+      7,
+      5,
+      6,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 154,
+    "objectId1": 0,
+    "ags": "07211",
+    "name": "Trier",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 111528,
+    "cases": 249,
+    "deaths": 1,
+    "deathRate": 0.401606425702811,
+    "lastDayCases": [
+      3,
+      6,
+      7,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 155,
+    "objectId1": 0,
+    "ags": "07231",
+    "name": "Bernkastel-Wittlich",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 112483,
+    "cases": 291,
+    "deaths": 2,
+    "deathRate": 0.687285223367698,
+    "lastDayCases": [
+      5,
+      3,
+      1,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 156,
+    "objectId1": 0,
+    "ags": "07232",
+    "name": "Eifelkreis Bitburg-Prüm",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 99058,
+    "cases": 356,
+    "deaths": 6,
+    "deathRate": 1.68539325842697,
+    "lastDayCases": [
+      2,
+      2,
+      4,
+      28,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 157,
+    "objectId1": 0,
+    "ags": "07233",
+    "name": "Vulkaneifel",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 60646,
+    "cases": 154,
+    "deaths": 5,
+    "deathRate": 3.24675324675325,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      2,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 158,
+    "objectId1": 0,
+    "ags": "07235",
+    "name": "Trier-Saarburg",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 149398,
+    "cases": 430,
+    "deaths": 11,
+    "deathRate": 2.55813953488372,
+    "lastDayCases": [
+      1,
+      5,
+      7,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 159,
+    "objectId1": 0,
+    "ags": "07311",
+    "name": "Frankenthal (Pfalz)",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 48762,
+    "cases": 98,
+    "deaths": 2,
+    "deathRate": 2.04081632653061,
+    "lastDayCases": [
+      0,
+      2,
+      2,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 160,
+    "objectId1": 0,
+    "ags": "07312",
+    "name": "Kaiserslautern",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 100030,
+    "cases": 333,
+    "deaths": 6,
+    "deathRate": 1.8018018018018,
+    "lastDayCases": [
+      3,
+      6,
+      0,
+      2,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 161,
+    "objectId1": 0,
+    "ags": "07313",
+    "name": "Landau in der Pfalz",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 46881,
+    "cases": 97,
+    "deaths": 2,
+    "deathRate": 2.06185567010309,
+    "lastDayCases": [
+      0,
+      2,
+      2,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 162,
+    "objectId1": 0,
+    "ags": "07314",
+    "name": "Ludwigshafen am Rhein",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 172253,
+    "cases": 680,
+    "deaths": 2,
+    "deathRate": 0.294117647058824,
+    "lastDayCases": [
+      2,
+      6,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 163,
+    "objectId1": 0,
+    "ags": "07315",
+    "name": "Mainz",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 218578,
+    "cases": 1166,
+    "deaths": 28,
+    "deathRate": 2.40137221269297,
+    "lastDayCases": [
+      11,
+      27,
+      5,
+      23,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 164,
+    "objectId1": 0,
+    "ags": "07316",
+    "name": "Neustadt an der Weinstraße",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 53264,
+    "cases": 161,
+    "deaths": 2,
+    "deathRate": 1.24223602484472,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 165,
+    "objectId1": 0,
+    "ags": "07317",
+    "name": "Pirmasens",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 40231,
+    "cases": 54,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      2,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 166,
+    "objectId1": 0,
+    "ags": "07318",
+    "name": "Speyer",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 50561,
+    "cases": 173,
+    "deaths": 1,
+    "deathRate": 0.578034682080925,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 167,
+    "objectId1": 0,
+    "ags": "07319",
+    "name": "Worms",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 83542,
+    "cases": 343,
+    "deaths": 8,
+    "deathRate": 2.33236151603499,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 168,
+    "objectId1": 0,
+    "ags": "07320",
+    "name": "Zweibrücken",
+    "type": "Kreisfreie Stadt",
+    "state": "Rheinland-Pfalz",
+    "population": 34193,
+    "cases": 67,
+    "deaths": 1,
+    "deathRate": 1.49253731343284,
+    "lastDayCases": [
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 169,
+    "objectId1": 0,
+    "ags": "07331",
+    "name": "Alzey-Worms",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 129687,
+    "cases": 420,
+    "deaths": 11,
+    "deathRate": 2.61904761904762,
+    "lastDayCases": [
+      6,
+      5,
+      2,
+      5,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 170,
+    "objectId1": 0,
+    "ags": "07332",
+    "name": "Bad Dürkheim",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 132671,
+    "cases": 408,
+    "deaths": 12,
+    "deathRate": 2.94117647058824,
+    "lastDayCases": [
+      3,
+      5,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 171,
+    "objectId1": 0,
+    "ags": "07333",
+    "name": "Donnersbergkreis",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 75325,
+    "cases": 193,
+    "deaths": 9,
+    "deathRate": 4.66321243523316,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 172,
+    "objectId1": 0,
+    "ags": "07334",
+    "name": "Germersheim",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 129013,
+    "cases": 416,
+    "deaths": 6,
+    "deathRate": 1.44230769230769,
+    "lastDayCases": [
+      0,
+      7,
+      4,
+      10,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 173,
+    "objectId1": 0,
+    "ags": "07335",
+    "name": "Kaiserslautern",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 105979,
+    "cases": 286,
+    "deaths": 1,
+    "deathRate": 0.34965034965035,
+    "lastDayCases": [
+      9,
+      15,
+      0,
+      14,
+      28
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 174,
+    "objectId1": 0,
+    "ags": "07336",
+    "name": "Kusel",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 70219,
+    "cases": 141,
+    "deaths": 1,
+    "deathRate": 0.709219858156028,
+    "lastDayCases": [
+      0,
+      3,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 175,
+    "objectId1": 0,
+    "ags": "07337",
+    "name": "Südliche Weinstraße",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 110521,
+    "cases": 197,
+    "deaths": 4,
+    "deathRate": 2.03045685279188,
+    "lastDayCases": [
+      0,
+      3,
+      3,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 176,
+    "objectId1": 0,
+    "ags": "07338",
+    "name": "Rhein-Pfalz-Kreis",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 154609,
+    "cases": 437,
+    "deaths": 5,
+    "deathRate": 1.1441647597254,
+    "lastDayCases": [
+      2,
+      8,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 177,
+    "objectId1": 0,
+    "ags": "07339",
+    "name": "Mainz-Bingen",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 211417,
+    "cases": 696,
+    "deaths": 25,
+    "deathRate": 3.59195402298851,
+    "lastDayCases": [
+      2,
+      25,
+      2,
+      14,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 178,
+    "objectId1": 0,
+    "ags": "07340",
+    "name": "Südwestpfalz",
+    "type": "Landkreis",
+    "state": "Rheinland-Pfalz",
+    "population": 94831,
+    "cases": 149,
+    "deaths": 3,
+    "deathRate": 2.01342281879195,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 179,
+    "objectId1": 0,
+    "ags": "08111",
+    "name": "Stuttgart",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 635911,
+    "cases": 3277,
+    "deaths": 66,
+    "deathRate": 2.01403722917302,
+    "lastDayCases": [
+      38,
+      78,
+      66,
+      41,
+      82
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 180,
+    "objectId1": 0,
+    "ags": "08115",
+    "name": "Böblingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 392807,
+    "cases": 2331,
+    "deaths": 49,
+    "deathRate": 2.1021021021021,
+    "lastDayCases": [
+      21,
+      25,
+      25,
+      37,
+      33
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 181,
+    "objectId1": 0,
+    "ags": "08116",
+    "name": "Esslingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 535024,
+    "cases": 3182,
+    "deaths": 121,
+    "deathRate": 3.80263984915148,
+    "lastDayCases": [
+      56,
+      64,
+      47,
+      55,
+      60
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 182,
+    "objectId1": 0,
+    "ags": "08117",
+    "name": "Göppingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 258145,
+    "cases": 1282,
+    "deaths": 40,
+    "deathRate": 3.1201248049922,
+    "lastDayCases": [
+      16,
+      32,
+      14,
+      4,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 183,
+    "objectId1": 0,
+    "ags": "08118",
+    "name": "Ludwigsburg",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 545423,
+    "cases": 2945,
+    "deaths": 74,
+    "deathRate": 2.51273344651952,
+    "lastDayCases": [
+      41,
+      50,
+      59,
+      41,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 184,
+    "objectId1": 0,
+    "ags": "08119",
+    "name": "Rems-Murr-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 427248,
+    "cases": 2447,
+    "deaths": 99,
+    "deathRate": 4.04577033101757,
+    "lastDayCases": [
+      8,
+      8,
+      29,
+      19,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 185,
+    "objectId1": 0,
+    "ags": "08121",
+    "name": "Heilbronn",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 126592,
+    "cases": 797,
+    "deaths": 17,
+    "deathRate": 2.13299874529486,
+    "lastDayCases": [
+      6,
+      18,
+      5,
+      9,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 186,
+    "objectId1": 0,
+    "ags": "08125",
+    "name": "Heilbronn",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 344456,
+    "cases": 1452,
+    "deaths": 44,
+    "deathRate": 3.03030303030303,
+    "lastDayCases": [
+      0,
+      22,
+      14,
+      16,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 187,
+    "objectId1": 0,
+    "ags": "08126",
+    "name": "Hohenlohekreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 112655,
+    "cases": 893,
+    "deaths": 47,
+    "deathRate": 5.26315789473684,
+    "lastDayCases": [
+      7,
+      3,
+      1,
+      2,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 188,
+    "objectId1": 0,
+    "ags": "08127",
+    "name": "Schwäbisch Hall",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 196761,
+    "cases": 1227,
+    "deaths": 60,
+    "deathRate": 4.88997555012225,
+    "lastDayCases": [
+      9,
+      14,
+      22,
+      15,
+      17
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 189,
+    "objectId1": 0,
+    "ags": "08128",
+    "name": "Main-Tauber-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 132399,
+    "cases": 600,
+    "deaths": 11,
+    "deathRate": 1.83333333333333,
+    "lastDayCases": [
+      3,
+      0,
+      8,
+      14,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 190,
+    "objectId1": 0,
+    "ags": "08135",
+    "name": "Heidenheim",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 132777,
+    "cases": 641,
+    "deaths": 41,
+    "deathRate": 6.39625585023401,
+    "lastDayCases": [
+      1,
+      3,
+      5,
+      0,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 191,
+    "objectId1": 0,
+    "ags": "08136",
+    "name": "Ostalbkreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 314025,
+    "cases": 1953,
+    "deaths": 44,
+    "deathRate": 2.25294418842806,
+    "lastDayCases": [
+      9,
+      8,
+      0,
+      19,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 192,
+    "objectId1": 0,
+    "ags": "08211",
+    "name": "Baden-Baden",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 55185,
+    "cases": 248,
+    "deaths": 19,
+    "deathRate": 7.66129032258065,
+    "lastDayCases": [
+      1,
+      1,
+      2,
+      4,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 193,
+    "objectId1": 0,
+    "ags": "08212",
+    "name": "Karlsruhe",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 312060,
+    "cases": 760,
+    "deaths": 14,
+    "deathRate": 1.84210526315789,
+    "lastDayCases": [
+      4,
+      9,
+      13,
+      17,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 194,
+    "objectId1": 0,
+    "ags": "08215",
+    "name": "Karlsruhe",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 445101,
+    "cases": 1552,
+    "deaths": 82,
+    "deathRate": 5.28350515463918,
+    "lastDayCases": [
+      16,
+      34,
+      18,
+      20,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 195,
+    "objectId1": 0,
+    "ags": "08216",
+    "name": "Rastatt",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 231420,
+    "cases": 788,
+    "deaths": 19,
+    "deathRate": 2.41116751269036,
+    "lastDayCases": [
+      2,
+      5,
+      9,
+      15,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 196,
+    "objectId1": 0,
+    "ags": "08221",
+    "name": "Heidelberg",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 161485,
+    "cases": 575,
+    "deaths": 7,
+    "deathRate": 1.21739130434783,
+    "lastDayCases": [
+      7,
+      5,
+      5,
+      11,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 197,
+    "objectId1": 0,
+    "ags": "08222",
+    "name": "Mannheim",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 310658,
+    "cases": 1287,
+    "deaths": 13,
+    "deathRate": 1.01010101010101,
+    "lastDayCases": [
+      0,
+      42,
+      14,
+      1,
+      38
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 198,
+    "objectId1": 0,
+    "ags": "08225",
+    "name": "Neckar-Odenwald-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 143633,
+    "cases": 582,
+    "deaths": 23,
+    "deathRate": 3.95189003436426,
+    "lastDayCases": [
+      4,
+      9,
+      7,
+      9,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 199,
+    "objectId1": 0,
+    "ags": "08226",
+    "name": "Rhein-Neckar-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 548355,
+    "cases": 1795,
+    "deaths": 40,
+    "deathRate": 2.22841225626741,
+    "lastDayCases": [
+      8,
+      18,
+      26,
+      16,
+      35
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 200,
+    "objectId1": 0,
+    "ags": "08231",
+    "name": "Pforzheim",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 125957,
+    "cases": 676,
+    "deaths": 9,
+    "deathRate": 1.33136094674556,
+    "lastDayCases": [
+      4,
+      11,
+      5,
+      11,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 201,
+    "objectId1": 0,
+    "ags": "08235",
+    "name": "Calw",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 159201,
+    "cases": 968,
+    "deaths": 27,
+    "deathRate": 2.78925619834711,
+    "lastDayCases": [
+      11,
+      16,
+      4,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 202,
+    "objectId1": 0,
+    "ags": "08236",
+    "name": "Enzkreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 199556,
+    "cases": 961,
+    "deaths": 28,
+    "deathRate": 2.91363163371488,
+    "lastDayCases": [
+      8,
+      11,
+      6,
+      19,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 203,
+    "objectId1": 0,
+    "ags": "08237",
+    "name": "Freudenstadt",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 118243,
+    "cases": 678,
+    "deaths": 39,
+    "deathRate": 5.75221238938053,
+    "lastDayCases": [
+      0,
+      2,
+      0,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 204,
+    "objectId1": 0,
+    "ags": "08311",
+    "name": "Freiburg im Breisgau",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 231195,
+    "cases": 1355,
+    "deaths": 80,
+    "deathRate": 5.90405904059041,
+    "lastDayCases": [
+      1,
+      15,
+      14,
+      18,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 205,
+    "objectId1": 0,
+    "ags": "08315",
+    "name": "Breisgau-Hochschwarzwald",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 263601,
+    "cases": 1574,
+    "deaths": 72,
+    "deathRate": 4.57433290978399,
+    "lastDayCases": [
+      4,
+      13,
+      7,
+      9,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 206,
+    "objectId1": 0,
+    "ags": "08316",
+    "name": "Emmendingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 166408,
+    "cases": 746,
+    "deaths": 44,
+    "deathRate": 5.89812332439678,
+    "lastDayCases": [
+      8,
+      7,
+      9,
+      5,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 207,
+    "objectId1": 0,
+    "ags": "08317",
+    "name": "Ortenaukreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 430953,
+    "cases": 1778,
+    "deaths": 126,
+    "deathRate": 7.08661417322835,
+    "lastDayCases": [
+      30,
+      43,
+      28,
+      0,
+      31
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 208,
+    "objectId1": 0,
+    "ags": "08325",
+    "name": "Rottweil",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 139878,
+    "cases": 795,
+    "deaths": 26,
+    "deathRate": 3.27044025157233,
+    "lastDayCases": [
+      2,
+      3,
+      0,
+      5,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 209,
+    "objectId1": 0,
+    "ags": "08326",
+    "name": "Schwarzwald-Baar-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 212506,
+    "cases": 732,
+    "deaths": 35,
+    "deathRate": 4.78142076502732,
+    "lastDayCases": [
+      5,
+      7,
+      8,
+      7,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 210,
+    "objectId1": 0,
+    "ags": "08327",
+    "name": "Tuttlingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 140766,
+    "cases": 675,
+    "deaths": 25,
+    "deathRate": 3.7037037037037,
+    "lastDayCases": [
+      1,
+      17,
+      12,
+      14,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 211,
+    "objectId1": 0,
+    "ags": "08335",
+    "name": "Konstanz",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 286305,
+    "cases": 819,
+    "deaths": 17,
+    "deathRate": 2.07570207570208,
+    "lastDayCases": [
+      7,
+      8,
+      27,
+      7,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 212,
+    "objectId1": 0,
+    "ags": "08336",
+    "name": "Lörrach",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 228736,
+    "cases": 931,
+    "deaths": 65,
+    "deathRate": 6.98174006444683,
+    "lastDayCases": [
+      0,
+      3,
+      7,
+      4,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 213,
+    "objectId1": 0,
+    "ags": "08337",
+    "name": "Waldshut",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 171003,
+    "cases": 463,
+    "deaths": 35,
+    "deathRate": 7.55939524838013,
+    "lastDayCases": [
+      0,
+      6,
+      1,
+      1,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 214,
+    "objectId1": 0,
+    "ags": "08415",
+    "name": "Reutlingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 287034,
+    "cases": 2049,
+    "deaths": 82,
+    "deathRate": 4.00195217179112,
+    "lastDayCases": [
+      17,
+      7,
+      0,
+      29,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 215,
+    "objectId1": 0,
+    "ags": "08416",
+    "name": "Tübingen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 228678,
+    "cases": 1629,
+    "deaths": 60,
+    "deathRate": 3.68324125230203,
+    "lastDayCases": [
+      7,
+      0,
+      22,
+      0,
+      28
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 216,
+    "objectId1": 0,
+    "ags": "08417",
+    "name": "Zollernalbkreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 189363,
+    "cases": 1441,
+    "deaths": 78,
+    "deathRate": 5.41290770298404,
+    "lastDayCases": [
+      0,
+      4,
+      4,
+      4,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 217,
+    "objectId1": 0,
+    "ags": "08421",
+    "name": "Ulm",
+    "type": "Stadtkreis",
+    "state": "Baden-Württemberg",
+    "population": 126790,
+    "cases": 654,
+    "deaths": 10,
+    "deathRate": 1.52905198776758,
+    "lastDayCases": [
+      11,
+      5,
+      5,
+      0,
+      23
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 218,
+    "objectId1": 0,
+    "ags": "08425",
+    "name": "Alb-Donau-Kreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 197076,
+    "cases": 971,
+    "deaths": 26,
+    "deathRate": 2.67765190525232,
+    "lastDayCases": [
+      5,
+      8,
+      9,
+      0,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 219,
+    "objectId1": 0,
+    "ags": "08426",
+    "name": "Biberach",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 201282,
+    "cases": 917,
+    "deaths": 36,
+    "deathRate": 3.92584514721919,
+    "lastDayCases": [
+      7,
+      6,
+      9,
+      5,
+      12
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 220,
+    "objectId1": 0,
+    "ags": "08435",
+    "name": "Bodenseekreis",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 217470,
+    "cases": 574,
+    "deaths": 8,
+    "deathRate": 1.39372822299652,
+    "lastDayCases": [
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 221,
+    "objectId1": 0,
+    "ags": "08436",
+    "name": "Ravensburg",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 285424,
+    "cases": 950,
+    "deaths": 7,
+    "deathRate": 0.736842105263158,
+    "lastDayCases": [
+      0,
+      6,
+      8,
+      12,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 222,
+    "objectId1": 0,
+    "ags": "08437",
+    "name": "Sigmaringen",
+    "type": "Landkreis",
+    "state": "Baden-Württemberg",
+    "population": 130849,
+    "cases": 918,
+    "deaths": 36,
+    "deathRate": 3.92156862745098,
+    "lastDayCases": [
+      2,
+      4,
+      6,
+      5,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 223,
+    "objectId1": 0,
+    "ags": "09161",
+    "name": "Ingolstadt",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 137392,
+    "cases": 860,
+    "deaths": 39,
+    "deathRate": 4.53488372093023,
+    "lastDayCases": [
+      10,
+      9,
+      5,
+      10,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 224,
+    "objectId1": 0,
+    "ags": "09162",
+    "name": "München",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 1484226,
+    "cases": 12539,
+    "deaths": 229,
+    "deathRate": 1.82630193795359,
+    "lastDayCases": [
+      118,
+      112,
+      169,
+      143,
+      113
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 225,
+    "objectId1": 0,
+    "ags": "09163",
+    "name": "Rosenheim",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 63551,
+    "cases": 774,
+    "deaths": 23,
+    "deathRate": 2.97157622739018,
+    "lastDayCases": [
+      10,
+      9,
+      12,
+      3,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 226,
+    "objectId1": 0,
+    "ags": "09171",
+    "name": "Altötting",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 111516,
+    "cases": 758,
+    "deaths": 57,
+    "deathRate": 7.5197889182058,
+    "lastDayCases": [
+      2,
+      1,
+      -1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 227,
+    "objectId1": 0,
+    "ags": "09172",
+    "name": "Berchtesgadener Land",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 105929,
+    "cases": 469,
+    "deaths": 25,
+    "deathRate": 5.33049040511727,
+    "lastDayCases": [
+      0,
+      8,
+      12,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 228,
+    "objectId1": 0,
+    "ags": "09173",
+    "name": "Bad Tölz-Wolfratshausen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 127917,
+    "cases": 662,
+    "deaths": 10,
+    "deathRate": 1.51057401812689,
+    "lastDayCases": [
+      4,
+      3,
+      6,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 229,
+    "objectId1": 0,
+    "ags": "09174",
+    "name": "Dachau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 154899,
+    "cases": 1300,
+    "deaths": 35,
+    "deathRate": 2.69230769230769,
+    "lastDayCases": [
+      12,
+      5,
+      9,
+      11,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 230,
+    "objectId1": 0,
+    "ags": "09175",
+    "name": "Ebersberg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 143649,
+    "cases": 845,
+    "deaths": 6,
+    "deathRate": 0.710059171597633,
+    "lastDayCases": [
+      6,
+      15,
+      14,
+      16,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 231,
+    "objectId1": 0,
+    "ags": "09176",
+    "name": "Eichstätt",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 132881,
+    "cases": 440,
+    "deaths": 20,
+    "deathRate": 4.54545454545455,
+    "lastDayCases": [
+      0,
+      1,
+      1,
+      0,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 232,
+    "objectId1": 0,
+    "ags": "09177",
+    "name": "Erding",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 138182,
+    "cases": 883,
+    "deaths": 11,
+    "deathRate": 1.24575311438279,
+    "lastDayCases": [
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 233,
+    "objectId1": 0,
+    "ags": "09178",
+    "name": "Freising",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 180007,
+    "cases": 1370,
+    "deaths": 47,
+    "deathRate": 3.43065693430657,
+    "lastDayCases": [
+      1,
+      8,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 234,
+    "objectId1": 0,
+    "ags": "09179",
+    "name": "Fürstenfeldbruck",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 219311,
+    "cases": 1503,
+    "deaths": 36,
+    "deathRate": 2.39520958083832,
+    "lastDayCases": [
+      20,
+      23,
+      23,
+      24,
+      39
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 235,
+    "objectId1": 0,
+    "ags": "09180",
+    "name": "Garmisch-Partenkirchen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 88424,
+    "cases": 439,
+    "deaths": 20,
+    "deathRate": 4.55580865603645,
+    "lastDayCases": [
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 236,
+    "objectId1": 0,
+    "ags": "09181",
+    "name": "Landsberg am Lech",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 120302,
+    "cases": 504,
+    "deaths": 10,
+    "deathRate": 1.98412698412698,
+    "lastDayCases": [
+      2,
+      5,
+      4,
+      6,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 237,
+    "objectId1": 0,
+    "ags": "09182",
+    "name": "Miesbach",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 100010,
+    "cases": 792,
+    "deaths": 11,
+    "deathRate": 1.38888888888889,
+    "lastDayCases": [
+      4,
+      4,
+      3,
+      8,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 238,
+    "objectId1": 0,
+    "ags": "09183",
+    "name": "Mühldorf a. Inn",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 115872,
+    "cases": 681,
+    "deaths": 27,
+    "deathRate": 3.9647577092511,
+    "lastDayCases": [
+      0,
+      4,
+      6,
+      3,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 239,
+    "objectId1": 0,
+    "ags": "09184",
+    "name": "München",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 350473,
+    "cases": 2258,
+    "deaths": 96,
+    "deathRate": 4.25155004428698,
+    "lastDayCases": [
+      13,
+      20,
+      26,
+      23,
+      37
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 240,
+    "objectId1": 0,
+    "ags": "09185",
+    "name": "Neuburg-Schrobenhausen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 97303,
+    "cases": 465,
+    "deaths": 18,
+    "deathRate": 3.87096774193548,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      12,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 241,
+    "objectId1": 0,
+    "ags": "09186",
+    "name": "Pfaffenhofen a.d. Ilm",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 128227,
+    "cases": 540,
+    "deaths": 22,
+    "deathRate": 4.07407407407407,
+    "lastDayCases": [
+      0,
+      8,
+      7,
+      2,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 242,
+    "objectId1": 0,
+    "ags": "09187",
+    "name": "Rosenheim",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 261330,
+    "cases": 2736,
+    "deaths": 199,
+    "deathRate": 7.2733918128655,
+    "lastDayCases": [
+      9,
+      14,
+      29,
+      20,
+      20
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 243,
+    "objectId1": 0,
+    "ags": "09188",
+    "name": "Starnberg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 136667,
+    "cases": 841,
+    "deaths": 13,
+    "deathRate": 1.54577883472057,
+    "lastDayCases": [
+      0,
+      7,
+      0,
+      0,
+      36
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 244,
+    "objectId1": 0,
+    "ags": "09189",
+    "name": "Traunstein",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 177319,
+    "cases": 1506,
+    "deaths": 88,
+    "deathRate": 5.84329349269588,
+    "lastDayCases": [
+      2,
+      11,
+      10,
+      4,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 245,
+    "objectId1": 0,
+    "ags": "09190",
+    "name": "Weilheim-Schongau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 135478,
+    "cases": 496,
+    "deaths": 3,
+    "deathRate": 0.604838709677419,
+    "lastDayCases": [
+      2,
+      0,
+      7,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 246,
+    "objectId1": 0,
+    "ags": "09261",
+    "name": "Landshut",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 73411,
+    "cases": 471,
+    "deaths": 9,
+    "deathRate": 1.91082802547771,
+    "lastDayCases": [
+      0,
+      2,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 247,
+    "objectId1": 0,
+    "ags": "09262",
+    "name": "Passau",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 52803,
+    "cases": 233,
+    "deaths": 18,
+    "deathRate": 7.72532188841202,
+    "lastDayCases": [
+      -1,
+      0,
+      -1,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 248,
+    "objectId1": 0,
+    "ags": "09263",
+    "name": "Straubing",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 47791,
+    "cases": 507,
+    "deaths": 48,
+    "deathRate": 9.46745562130178,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      0,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 249,
+    "objectId1": 0,
+    "ags": "09271",
+    "name": "Deggendorf",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 119478,
+    "cases": 505,
+    "deaths": 19,
+    "deathRate": 3.76237623762376,
+    "lastDayCases": [
+      2,
+      9,
+      12,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 250,
+    "objectId1": 0,
+    "ags": "09272",
+    "name": "Freyung-Grafenau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 78362,
+    "cases": 261,
+    "deaths": 12,
+    "deathRate": 4.59770114942529,
+    "lastDayCases": [
+      4,
+      3,
+      0,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 251,
+    "objectId1": 0,
+    "ags": "09273",
+    "name": "Kelheim",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 123058,
+    "cases": 687,
+    "deaths": 35,
+    "deathRate": 5.09461426491994,
+    "lastDayCases": [
+      2,
+      3,
+      3,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 252,
+    "objectId1": 0,
+    "ags": "09274",
+    "name": "Landshut",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 159895,
+    "cases": 877,
+    "deaths": 34,
+    "deathRate": 3.87685290763968,
+    "lastDayCases": [
+      1,
+      5,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 253,
+    "objectId1": 0,
+    "ags": "09275",
+    "name": "Passau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 192656,
+    "cases": 857,
+    "deaths": 31,
+    "deathRate": 3.61726954492415,
+    "lastDayCases": [
+      1,
+      4,
+      8,
+      8,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 254,
+    "objectId1": 0,
+    "ags": "09276",
+    "name": "Regen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 77410,
+    "cases": 292,
+    "deaths": 12,
+    "deathRate": 4.10958904109589,
+    "lastDayCases": [
+      2,
+      0,
+      4,
+      18,
+      23
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 255,
+    "objectId1": 0,
+    "ags": "09277",
+    "name": "Rottal-Inn",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 121502,
+    "cases": 930,
+    "deaths": 51,
+    "deathRate": 5.48387096774194,
+    "lastDayCases": [
+      0,
+      12,
+      19,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 256,
+    "objectId1": 0,
+    "ags": "09278",
+    "name": "Straubing-Bogen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 101120,
+    "cases": 642,
+    "deaths": 29,
+    "deathRate": 4.51713395638629,
+    "lastDayCases": [
+      1,
+      3,
+      2,
+      1,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 257,
+    "objectId1": 0,
+    "ags": "09279",
+    "name": "Dingolfing-Landau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 96683,
+    "cases": 1015,
+    "deaths": 10,
+    "deathRate": 0.985221674876847,
+    "lastDayCases": [
+      9,
+      5,
+      5,
+      3,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 258,
+    "objectId1": 0,
+    "ags": "09361",
+    "name": "Amberg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 42207,
+    "cases": 150,
+    "deaths": 4,
+    "deathRate": 2.66666666666667,
+    "lastDayCases": [
+      2,
+      2,
+      7,
+      1,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 259,
+    "objectId1": 0,
+    "ags": "09362",
+    "name": "Regensburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 153094,
+    "cases": 984,
+    "deaths": 10,
+    "deathRate": 1.01626016260163,
+    "lastDayCases": [
+      9,
+      6,
+      9,
+      6,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 260,
+    "objectId1": 0,
+    "ags": "09363",
+    "name": "Weiden i.d. OPf.",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 42743,
+    "cases": 412,
+    "deaths": 20,
+    "deathRate": 4.85436893203883,
+    "lastDayCases": [
+      1,
+      2,
+      3,
+      0,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 261,
+    "objectId1": 0,
+    "ags": "09371",
+    "name": "Amberg-Sulzbach",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 103049,
+    "cases": 560,
+    "deaths": 54,
+    "deathRate": 9.64285714285714,
+    "lastDayCases": [
+      3,
+      2,
+      0,
+      1,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 262,
+    "objectId1": 0,
+    "ags": "09372",
+    "name": "Cham",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 127998,
+    "cases": 553,
+    "deaths": 21,
+    "deathRate": 3.79746835443038,
+    "lastDayCases": [
+      3,
+      0,
+      16,
+      6,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 263,
+    "objectId1": 0,
+    "ags": "09373",
+    "name": "Neumarkt i.d. OPf.",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 134573,
+    "cases": 592,
+    "deaths": 17,
+    "deathRate": 2.87162162162162,
+    "lastDayCases": [
+      1,
+      5,
+      0,
+      12,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 264,
+    "objectId1": 0,
+    "ags": "09374",
+    "name": "Neustadt a.d. Waldnaab",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 94450,
+    "cases": 949,
+    "deaths": 73,
+    "deathRate": 7.69230769230769,
+    "lastDayCases": [
+      6,
+      8,
+      1,
+      7,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 265,
+    "objectId1": 0,
+    "ags": "09375",
+    "name": "Regensburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 194070,
+    "cases": 793,
+    "deaths": 16,
+    "deathRate": 2.01765447667087,
+    "lastDayCases": [
+      6,
+      8,
+      6,
+      6,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 266,
+    "objectId1": 0,
+    "ags": "09376",
+    "name": "Schwandorf",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 147872,
+    "cases": 623,
+    "deaths": 20,
+    "deathRate": 3.21027287319422,
+    "lastDayCases": [
+      4,
+      1,
+      6,
+      4,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 267,
+    "objectId1": 0,
+    "ags": "09377",
+    "name": "Tirschenreuth",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 72046,
+    "cases": 1253,
+    "deaths": 140,
+    "deathRate": 11.1731843575419,
+    "lastDayCases": [
+      6,
+      3,
+      6,
+      4,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 268,
+    "objectId1": 0,
+    "ags": "09461",
+    "name": "Bamberg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 77373,
+    "cases": 282,
+    "deaths": 22,
+    "deathRate": 7.80141843971631,
+    "lastDayCases": [
+      0,
+      4,
+      4,
+      4,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 269,
+    "objectId1": 0,
+    "ags": "09462",
+    "name": "Bayreuth",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 74783,
+    "cases": 294,
+    "deaths": 11,
+    "deathRate": 3.74149659863946,
+    "lastDayCases": [
+      0,
+      2,
+      3,
+      3,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 270,
+    "objectId1": 0,
+    "ags": "09463",
+    "name": "Coburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 41072,
+    "cases": 150,
+    "deaths": 4,
+    "deathRate": 2.66666666666667,
+    "lastDayCases": [
+      1,
+      -1,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 271,
+    "objectId1": 0,
+    "ags": "09464",
+    "name": "Hof",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 45825,
+    "cases": 192,
+    "deaths": 5,
+    "deathRate": 2.60416666666667,
+    "lastDayCases": [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 272,
+    "objectId1": 0,
+    "ags": "09471",
+    "name": "Bamberg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 147163,
+    "cases": 550,
+    "deaths": 38,
+    "deathRate": 6.90909090909091,
+    "lastDayCases": [
+      3,
+      9,
+      7,
+      8,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 273,
+    "objectId1": 0,
+    "ags": "09472",
+    "name": "Bayreuth",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 103664,
+    "cases": 463,
+    "deaths": 28,
+    "deathRate": 6.0475161987041,
+    "lastDayCases": [
+      2,
+      0,
+      3,
+      0,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 274,
+    "objectId1": 0,
+    "ags": "09473",
+    "name": "Coburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 86747,
+    "cases": 453,
+    "deaths": 30,
+    "deathRate": 6.62251655629139,
+    "lastDayCases": [
+      1,
+      0,
+      2,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 275,
+    "objectId1": 0,
+    "ags": "09474",
+    "name": "Forchheim",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 116203,
+    "cases": 320,
+    "deaths": 4,
+    "deathRate": 1.25,
+    "lastDayCases": [
+      0,
+      5,
+      3,
+      5,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 276,
+    "objectId1": 0,
+    "ags": "09475",
+    "name": "Hof",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 94801,
+    "cases": 555,
+    "deaths": 32,
+    "deathRate": 5.76576576576577,
+    "lastDayCases": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 277,
+    "objectId1": 0,
+    "ags": "09476",
+    "name": "Kronach",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 66743,
+    "cases": 197,
+    "deaths": 3,
+    "deathRate": 1.52284263959391,
+    "lastDayCases": [
+      4,
+      0,
+      4,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 278,
+    "objectId1": 0,
+    "ags": "09477",
+    "name": "Kulmbach",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 71566,
+    "cases": 324,
+    "deaths": 11,
+    "deathRate": 3.39506172839506,
+    "lastDayCases": [
+      1,
+      1,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 279,
+    "objectId1": 0,
+    "ags": "09478",
+    "name": "Lichtenfels",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 66776,
+    "cases": 395,
+    "deaths": 17,
+    "deathRate": 4.30379746835443,
+    "lastDayCases": [
+      5,
+      3,
+      2,
+      6,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 280,
+    "objectId1": 0,
+    "ags": "09479",
+    "name": "Wunsiedel i. Fichtelgebirge",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 72655,
+    "cases": 795,
+    "deaths": 43,
+    "deathRate": 5.40880503144654,
+    "lastDayCases": [
+      1,
+      5,
+      0,
+      7,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 281,
+    "objectId1": 0,
+    "ags": "09561",
+    "name": "Ansbach",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 41798,
+    "cases": 200,
+    "deaths": 8,
+    "deathRate": 4.0,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 282,
+    "objectId1": 0,
+    "ags": "09562",
+    "name": "Erlangen",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 112528,
+    "cases": 416,
+    "deaths": 12,
+    "deathRate": 2.88461538461538,
+    "lastDayCases": [
+      0,
+      0,
+      2,
+      9,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 283,
+    "objectId1": 0,
+    "ags": "09563",
+    "name": "Fürth",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 128497,
+    "cases": 642,
+    "deaths": 38,
+    "deathRate": 5.9190031152648,
+    "lastDayCases": [
+      4,
+      5,
+      2,
+      4,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 284,
+    "objectId1": 0,
+    "ags": "09564",
+    "name": "Nürnberg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 518370,
+    "cases": 2305,
+    "deaths": 53,
+    "deathRate": 2.29934924078091,
+    "lastDayCases": [
+      0,
+      53,
+      37,
+      49,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 285,
+    "objectId1": 0,
+    "ags": "09565",
+    "name": "Schwabach",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 40981,
+    "cases": 131,
+    "deaths": 2,
+    "deathRate": 1.52671755725191,
+    "lastDayCases": [
+      0,
+      5,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 286,
+    "objectId1": 0,
+    "ags": "09571",
+    "name": "Ansbach",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 184591,
+    "cases": 732,
+    "deaths": 28,
+    "deathRate": 3.82513661202186,
+    "lastDayCases": [
+      0,
+      10,
+      0,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 287,
+    "objectId1": 0,
+    "ags": "09572",
+    "name": "Erlangen-Höchstadt",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 137262,
+    "cases": 414,
+    "deaths": 11,
+    "deathRate": 2.65700483091787,
+    "lastDayCases": [
+      1,
+      4,
+      5,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 288,
+    "objectId1": 0,
+    "ags": "09573",
+    "name": "Fürth",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 117853,
+    "cases": 625,
+    "deaths": 58,
+    "deathRate": 9.28,
+    "lastDayCases": [
+      2,
+      4,
+      3,
+      5,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 289,
+    "objectId1": 0,
+    "ags": "09574",
+    "name": "Nürnberger Land",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 170792,
+    "cases": 806,
+    "deaths": 44,
+    "deathRate": 5.4590570719603,
+    "lastDayCases": [
+      0,
+      5,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 290,
+    "objectId1": 0,
+    "ags": "09575",
+    "name": "Neustadt a.d. Aisch-Bad Windsheim",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 101014,
+    "cases": 305,
+    "deaths": 6,
+    "deathRate": 1.9672131147541,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 291,
+    "objectId1": 0,
+    "ags": "09576",
+    "name": "Roth",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 126749,
+    "cases": 382,
+    "deaths": 7,
+    "deathRate": 1.83246073298429,
+    "lastDayCases": [
+      3,
+      3,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 292,
+    "objectId1": 0,
+    "ags": "09577",
+    "name": "Weißenburg-Gunzenhausen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 94734,
+    "cases": 462,
+    "deaths": 25,
+    "deathRate": 5.41125541125541,
+    "lastDayCases": [
+      1,
+      1,
+      1,
+      0,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 293,
+    "objectId1": 0,
+    "ags": "09661",
+    "name": "Aschaffenburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 71002,
+    "cases": 207,
+    "deaths": 1,
+    "deathRate": 0.483091787439614,
+    "lastDayCases": [
+      1,
+      0,
+      8,
+      4,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 294,
+    "objectId1": 0,
+    "ags": "09662",
+    "name": "Schweinfurt",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 53426,
+    "cases": 277,
+    "deaths": 18,
+    "deathRate": 6.49819494584837,
+    "lastDayCases": [
+      0,
+      12,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 295,
+    "objectId1": 0,
+    "ags": "09663",
+    "name": "Würzburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 127934,
+    "cases": 853,
+    "deaths": 52,
+    "deathRate": 6.09613130128957,
+    "lastDayCases": [
+      10,
+      4,
+      6,
+      7,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 296,
+    "objectId1": 0,
+    "ags": "09671",
+    "name": "Aschaffenburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 174200,
+    "cases": 741,
+    "deaths": 42,
+    "deathRate": 5.66801619433198,
+    "lastDayCases": [
+      5,
+      0,
+      7,
+      6,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 297,
+    "objectId1": 0,
+    "ags": "09672",
+    "name": "Bad Kissingen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 103235,
+    "cases": 298,
+    "deaths": 18,
+    "deathRate": 6.04026845637584,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 298,
+    "objectId1": 0,
+    "ags": "09673",
+    "name": "Rhön-Grabfeld",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 79635,
+    "cases": 315,
+    "deaths": 8,
+    "deathRate": 2.53968253968254,
+    "lastDayCases": [
+      1,
+      3,
+      2,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 299,
+    "objectId1": 0,
+    "ags": "09674",
+    "name": "Haßberge",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 84384,
+    "cases": 247,
+    "deaths": 6,
+    "deathRate": 2.42914979757085,
+    "lastDayCases": [
+      2,
+      1,
+      7,
+      1,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 300,
+    "objectId1": 0,
+    "ags": "09675",
+    "name": "Kitzingen",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 91155,
+    "cases": 304,
+    "deaths": 4,
+    "deathRate": 1.31578947368421,
+    "lastDayCases": [
+      0,
+      0,
+      -1,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 301,
+    "objectId1": 0,
+    "ags": "09676",
+    "name": "Miltenberg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 128743,
+    "cases": 472,
+    "deaths": 6,
+    "deathRate": 1.27118644067797,
+    "lastDayCases": [
+      4,
+      6,
+      2,
+      7,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 302,
+    "objectId1": 0,
+    "ags": "09677",
+    "name": "Main-Spessart",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 126158,
+    "cases": 264,
+    "deaths": 6,
+    "deathRate": 2.27272727272727,
+    "lastDayCases": [
+      6,
+      1,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 303,
+    "objectId1": 0,
+    "ags": "09678",
+    "name": "Schweinfurt",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 115445,
+    "cases": 721,
+    "deaths": 25,
+    "deathRate": 3.46740638002774,
+    "lastDayCases": [
+      0,
+      11,
+      11,
+      7,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 304,
+    "objectId1": 0,
+    "ags": "09679",
+    "name": "Würzburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 162302,
+    "cases": 689,
+    "deaths": 7,
+    "deathRate": 1.01596516690856,
+    "lastDayCases": [
+      6,
+      7,
+      7,
+      2,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 305,
+    "objectId1": 0,
+    "ags": "09761",
+    "name": "Augsburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 296582,
+    "cases": 1151,
+    "deaths": 16,
+    "deathRate": 1.39009556907037,
+    "lastDayCases": [
+      0,
+      11,
+      29,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 306,
+    "objectId1": 0,
+    "ags": "09762",
+    "name": "Kaufbeuren",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 44398,
+    "cases": 212,
+    "deaths": 9,
+    "deathRate": 4.24528301886792,
+    "lastDayCases": [
+      1,
+      3,
+      0,
+      3,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 307,
+    "objectId1": 0,
+    "ags": "09763",
+    "name": "Kempten (Allgäu)",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 69151,
+    "cases": 198,
+    "deaths": 10,
+    "deathRate": 5.05050505050505,
+    "lastDayCases": [
+      3,
+      3,
+      1,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 308,
+    "objectId1": 0,
+    "ags": "09764",
+    "name": "Memmingen",
+    "type": "Kreisfreie Stadt",
+    "state": "Bayern",
+    "population": 44100,
+    "cases": 179,
+    "deaths": 1,
+    "deathRate": 0.558659217877095,
+    "lastDayCases": [
+      0,
+      4,
+      2,
+      13,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 309,
+    "objectId1": 0,
+    "ags": "09771",
+    "name": "Aichach-Friedberg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 134655,
+    "cases": 539,
+    "deaths": 20,
+    "deathRate": 3.71057513914657,
+    "lastDayCases": [
+      0,
+      5,
+      16,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 310,
+    "objectId1": 0,
+    "ags": "09772",
+    "name": "Augsburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 253468,
+    "cases": 818,
+    "deaths": 11,
+    "deathRate": 1.34474327628362,
+    "lastDayCases": [
+      0,
+      62,
+      9,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 311,
+    "objectId1": 0,
+    "ags": "09773",
+    "name": "Dillingen a.d. Donau",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 96562,
+    "cases": 390,
+    "deaths": 29,
+    "deathRate": 7.43589743589744,
+    "lastDayCases": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 312,
+    "objectId1": 0,
+    "ags": "09774",
+    "name": "Günzburg",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 127027,
+    "cases": 453,
+    "deaths": 4,
+    "deathRate": 0.883002207505519,
+    "lastDayCases": [
+      4,
+      6,
+      7,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 313,
+    "objectId1": 0,
+    "ags": "09775",
+    "name": "Neu-Ulm",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 175204,
+    "cases": 888,
+    "deaths": 26,
+    "deathRate": 2.92792792792793,
+    "lastDayCases": [
+      0,
+      0,
+      40,
+      4,
+      15
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 314,
+    "objectId1": 0,
+    "ags": "09776",
+    "name": "Lindau (Bodensee)",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 81981,
+    "cases": 336,
+    "deaths": 8,
+    "deathRate": 2.38095238095238,
+    "lastDayCases": [
+      4,
+      4,
+      4,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 315,
+    "objectId1": 0,
+    "ags": "09777",
+    "name": "Ostallgäu",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 141182,
+    "cases": 734,
+    "deaths": 40,
+    "deathRate": 5.44959128065395,
+    "lastDayCases": [
+      6,
+      11,
+      1,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 316,
+    "objectId1": 0,
+    "ags": "09778",
+    "name": "Unterallgäu",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 145341,
+    "cases": 530,
+    "deaths": 17,
+    "deathRate": 3.20754716981132,
+    "lastDayCases": [
+      3,
+      18,
+      18,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 317,
+    "objectId1": 0,
+    "ags": "09779",
+    "name": "Donau-Ries",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 133783,
+    "cases": 523,
+    "deaths": 26,
+    "deathRate": 4.97131931166348,
+    "lastDayCases": [
+      1,
+      3,
+      9,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 318,
+    "objectId1": 0,
+    "ags": "09780",
+    "name": "Oberallgäu",
+    "type": "Landkreis",
+    "state": "Bayern",
+    "population": 156008,
+    "cases": 307,
+    "deaths": 7,
+    "deathRate": 2.28013029315961,
+    "lastDayCases": [
+      5,
+      3,
+      2,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 319,
+    "objectId1": 0,
+    "ags": "10041",
+    "name": "Regionalverband Saarbrücken",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 328714,
+    "cases": 1454,
+    "deaths": 114,
+    "deathRate": 7.8404401650619,
+    "lastDayCases": [
+      7,
+      0,
+      8,
+      0,
+      32
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 320,
+    "objectId1": 0,
+    "ags": "10042",
+    "name": "Merzig-Wadern",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 103243,
+    "cases": 341,
+    "deaths": 3,
+    "deathRate": 0.879765395894428,
+    "lastDayCases": [
+      8,
+      0,
+      0,
+      14,
+      12
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 321,
+    "objectId1": 0,
+    "ags": "10043",
+    "name": "Neunkirchen",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 131408,
+    "cases": 373,
+    "deaths": 12,
+    "deathRate": 3.2171581769437,
+    "lastDayCases": [
+      9,
+      3,
+      0,
+      6,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 322,
+    "objectId1": 0,
+    "ags": "10044",
+    "name": "Saarlouis",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 194319,
+    "cases": 769,
+    "deaths": 24,
+    "deathRate": 3.12093628088427,
+    "lastDayCases": [
+      5,
+      0,
+      12,
+      0,
+      21
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 323,
+    "objectId1": 0,
+    "ags": "10045",
+    "name": "Saarpfalz-Kreis",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 142196,
+    "cases": 493,
+    "deaths": 18,
+    "deathRate": 3.65111561866126,
+    "lastDayCases": [
+      11,
+      7,
+      15,
+      2,
+      12
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 324,
+    "objectId1": 0,
+    "ags": "10046",
+    "name": "St. Wendel",
+    "type": "Landkreis",
+    "state": "Saarland",
+    "population": 87007,
+    "cases": 243,
+    "deaths": 6,
+    "deathRate": 2.46913580246914,
+    "lastDayCases": [
+      0,
+      0,
+      17,
+      13,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 326,
+    "objectId1": 0,
+    "ags": "12051",
+    "name": "Brandenburg an der Havel",
+    "type": "Kreisfreie Stadt",
+    "state": "Brandenburg",
+    "population": 72184,
+    "cases": 85,
+    "deaths": 1,
+    "deathRate": 1.17647058823529,
+    "lastDayCases": [
+      0,
+      4,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 327,
+    "objectId1": 0,
+    "ags": "12052",
+    "name": "Cottbus",
+    "type": "Kreisfreie Stadt",
+    "state": "Brandenburg",
+    "population": 99678,
+    "cases": 82,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      10,
+      0,
+      0,
+      10,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 328,
+    "objectId1": 0,
+    "ags": "12053",
+    "name": "Frankfurt (Oder)",
+    "type": "Kreisfreie Stadt",
+    "state": "Brandenburg",
+    "population": 57751,
+    "cases": 84,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      3,
+      2,
+      3,
+      0,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 329,
+    "objectId1": 0,
+    "ags": "12054",
+    "name": "Potsdam",
+    "type": "Kreisfreie Stadt",
+    "state": "Brandenburg",
+    "population": 180334,
+    "cases": 762,
+    "deaths": 51,
+    "deathRate": 6.69291338582677,
+    "lastDayCases": [
+      0,
+      7,
+      13,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 330,
+    "objectId1": 0,
+    "ags": "12060",
+    "name": "Barnim",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 185244,
+    "cases": 519,
+    "deaths": 29,
+    "deathRate": 5.58766859344894,
+    "lastDayCases": [
+      3,
+      0,
+      3,
+      4,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 331,
+    "objectId1": 0,
+    "ags": "12061",
+    "name": "Dahme-Spreewald",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 170791,
+    "cases": 359,
+    "deaths": 8,
+    "deathRate": 2.22841225626741,
+    "lastDayCases": [
+      6,
+      7,
+      0,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 332,
+    "objectId1": 0,
+    "ags": "12062",
+    "name": "Elbe-Elster",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 101827,
+    "cases": 118,
+    "deaths": 3,
+    "deathRate": 2.54237288135593,
+    "lastDayCases": [
+      2,
+      4,
+      0,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 333,
+    "objectId1": 0,
+    "ags": "12063",
+    "name": "Havelland",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 162996,
+    "cases": 291,
+    "deaths": 6,
+    "deathRate": 2.06185567010309,
+    "lastDayCases": [
+      2,
+      2,
+      7,
+      3,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 334,
+    "objectId1": 0,
+    "ags": "12064",
+    "name": "Märkisch-Oderland",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 195751,
+    "cases": 317,
+    "deaths": 4,
+    "deathRate": 1.26182965299685,
+    "lastDayCases": [
+      2,
+      5,
+      0,
+      10,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 335,
+    "objectId1": 0,
+    "ags": "12065",
+    "name": "Oberhavel",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 212914,
+    "cases": 434,
+    "deaths": 9,
+    "deathRate": 2.07373271889401,
+    "lastDayCases": [
+      6,
+      12,
+      6,
+      6,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 336,
+    "objectId1": 0,
+    "ags": "12066",
+    "name": "Oberspreewald-Lausitz",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 109371,
+    "cases": 97,
+    "deaths": 2,
+    "deathRate": 2.06185567010309,
+    "lastDayCases": [
+      2,
+      0,
+      2,
+      8,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 337,
+    "objectId1": 0,
+    "ags": "12067",
+    "name": "Oder-Spree",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 178803,
+    "cases": 249,
+    "deaths": 3,
+    "deathRate": 1.20481927710843,
+    "lastDayCases": [
+      0,
+      16,
+      0,
+      13,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 338,
+    "objectId1": 0,
+    "ags": "12068",
+    "name": "Ostprignitz-Ruppin",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 98861,
+    "cases": 117,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 339,
+    "objectId1": 0,
+    "ags": "12069",
+    "name": "Potsdam-Mittelmark",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 216566,
+    "cases": 701,
+    "deaths": 38,
+    "deathRate": 5.42082738944365,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      11,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 340,
+    "objectId1": 0,
+    "ags": "12070",
+    "name": "Prignitz",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 76158,
+    "cases": 58,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      1,
+      3,
+      0,
+      5
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 341,
+    "objectId1": 0,
+    "ags": "12071",
+    "name": "Spree-Neiße",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 113720,
+    "cases": 103,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      10,
+      4,
+      0,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 342,
+    "objectId1": 0,
+    "ags": "12072",
+    "name": "Teltow-Fläming",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 169997,
+    "cases": 299,
+    "deaths": 13,
+    "deathRate": 4.34782608695652,
+    "lastDayCases": [
+      0,
+      3,
+      0,
+      9,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 343,
+    "objectId1": 0,
+    "ags": "12073",
+    "name": "Uckermark",
+    "type": "Landkreis",
+    "state": "Brandenburg",
+    "population": 118947,
+    "cases": 65,
+    "deaths": 2,
+    "deathRate": 3.07692307692308,
+    "lastDayCases": [
+      0,
+      4,
+      0,
+      1,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 344,
+    "objectId1": 0,
+    "ags": "13003",
+    "name": "Rostock",
+    "type": "Kreisfreie Stadt",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 209191,
+    "cases": 214,
+    "deaths": 2,
+    "deathRate": 0.934579439252336,
+    "lastDayCases": [
+      2,
+      5,
+      1,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 345,
+    "objectId1": 0,
+    "ags": "13004",
+    "name": "Schwerin",
+    "type": "Kreisfreie Stadt",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 95653,
+    "cases": 135,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 346,
+    "objectId1": 0,
+    "ags": "13071",
+    "name": "Mecklenburgische Seenplatte",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 258074,
+    "cases": 219,
+    "deaths": 3,
+    "deathRate": 1.36986301369863,
+    "lastDayCases": [
+      0,
+      7,
+      0,
+      15,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 347,
+    "objectId1": 0,
+    "ags": "13072",
+    "name": "Rostock",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 215794,
+    "cases": 109,
+    "deaths": 3,
+    "deathRate": 2.75229357798165,
+    "lastDayCases": [
+      3,
+      0,
+      2,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 348,
+    "objectId1": 0,
+    "ags": "13073",
+    "name": "Vorpommern-Rügen",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 224702,
+    "cases": 134,
+    "deaths": 2,
+    "deathRate": 1.49253731343284,
+    "lastDayCases": [
+      3,
+      1,
+      0,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 349,
+    "objectId1": 0,
+    "ags": "13074",
+    "name": "Nordwestmecklenburg",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 157322,
+    "cases": 153,
+    "deaths": 1,
+    "deathRate": 0.65359477124183,
+    "lastDayCases": [
+      0,
+      1,
+      1,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 350,
+    "objectId1": 0,
+    "ags": "13075",
+    "name": "Vorpommern-Greifswald",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 235623,
+    "cases": 228,
+    "deaths": 7,
+    "deathRate": 3.07017543859649,
+    "lastDayCases": [
+      0,
+      13,
+      6,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 351,
+    "objectId1": 0,
+    "ags": "13076",
+    "name": "Ludwigslust-Parchim",
+    "type": "Landkreis",
+    "state": "Mecklenburg-Vorpommern",
+    "population": 211779,
+    "cases": 181,
+    "deaths": 2,
+    "deathRate": 1.10497237569061,
+    "lastDayCases": [
+      3,
+      1,
+      1,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 352,
+    "objectId1": 0,
+    "ags": "14511",
+    "name": "Chemnitz",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen",
+    "population": 246334,
+    "cases": 384,
+    "deaths": 6,
+    "deathRate": 1.5625,
+    "lastDayCases": [
+      6,
+      5,
+      11,
+      9,
+      8
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 353,
+    "objectId1": 0,
+    "ags": "14521",
+    "name": "Erzgebirgskreis",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 334948,
+    "cases": 1016,
+    "deaths": 49,
+    "deathRate": 4.82283464566929,
+    "lastDayCases": [
+      58,
+      52,
+      0,
+      71,
+      13
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 354,
+    "objectId1": 0,
+    "ags": "14522",
+    "name": "Mittelsachsen",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 304099,
+    "cases": 469,
+    "deaths": 10,
+    "deathRate": 2.13219616204691,
+    "lastDayCases": [
+      2,
+      0,
+      13,
+      5,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 355,
+    "objectId1": 0,
+    "ags": "14523",
+    "name": "Vogtlandkreis",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 225997,
+    "cases": 742,
+    "deaths": 30,
+    "deathRate": 4.04312668463612,
+    "lastDayCases": [
+      8,
+      1,
+      1,
+      13,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 356,
+    "objectId1": 0,
+    "ags": "14524",
+    "name": "Zwickau",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 315002,
+    "cases": 1089,
+    "deaths": 53,
+    "deathRate": 4.86685032139578,
+    "lastDayCases": [
+      13,
+      15,
+      39,
+      0,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 357,
+    "objectId1": 0,
+    "ags": "14612",
+    "name": "Dresden",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen",
+    "population": 556780,
+    "cases": 1020,
+    "deaths": 12,
+    "deathRate": 1.17647058823529,
+    "lastDayCases": [
+      26,
+      10,
+      26,
+      46,
+      20
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 358,
+    "objectId1": 0,
+    "ags": "14625",
+    "name": "Bautzen",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 299758,
+    "cases": 703,
+    "deaths": 24,
+    "deathRate": 3.41394025604552,
+    "lastDayCases": [
+      16,
+      9,
+      27,
+      11,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 359,
+    "objectId1": 0,
+    "ags": "14626",
+    "name": "Görlitz",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 252725,
+    "cases": 454,
+    "deaths": 25,
+    "deathRate": 5.50660792951542,
+    "lastDayCases": [
+      0,
+      0,
+      13,
+      9,
+      17
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 360,
+    "objectId1": 0,
+    "ags": "14627",
+    "name": "Meißen",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 241717,
+    "cases": 377,
+    "deaths": 20,
+    "deathRate": 5.30503978779841,
+    "lastDayCases": [
+      0,
+      10,
+      10,
+      27,
+      34
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 361,
+    "objectId1": 0,
+    "ags": "14628",
+    "name": "Sächsische Schweiz-Osterzgebirge",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 245586,
+    "cases": 533,
+    "deaths": 2,
+    "deathRate": 0.375234521575985,
+    "lastDayCases": [
+      6,
+      5,
+      18,
+      13,
+      17
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 362,
+    "objectId1": 0,
+    "ags": "14713",
+    "name": "Leipzig",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen",
+    "population": 593145,
+    "cases": 984,
+    "deaths": 12,
+    "deathRate": 1.21951219512195,
+    "lastDayCases": [
+      8,
+      8,
+      27,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 363,
+    "objectId1": 0,
+    "ags": "14729",
+    "name": "Leipzig",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 258139,
+    "cases": 281,
+    "deaths": 4,
+    "deathRate": 1.42348754448399,
+    "lastDayCases": [
+      2,
+      3,
+      5,
+      7,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 364,
+    "objectId1": 0,
+    "ags": "14730",
+    "name": "Nordsachsen",
+    "type": "Landkreis",
+    "state": "Sachsen",
+    "population": 197741,
+    "cases": 288,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      1,
+      0,
+      0,
+      5,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 365,
+    "objectId1": 0,
+    "ags": "15001",
+    "name": "Dessau-Roßlau",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen-Anhalt",
+    "population": 80103,
+    "cases": 136,
+    "deaths": 3,
+    "deathRate": 2.20588235294118,
+    "lastDayCases": [
+      0,
+      4,
+      1,
+      3,
+      9
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 366,
+    "objectId1": 0,
+    "ags": "15002",
+    "name": "Halle (Saale)",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen-Anhalt",
+    "population": 238762,
+    "cases": 552,
+    "deaths": 14,
+    "deathRate": 2.53623188405797,
+    "lastDayCases": [
+      0,
+      9,
+      6,
+      8,
+      19
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 367,
+    "objectId1": 0,
+    "ags": "15003",
+    "name": "Magdeburg",
+    "type": "Kreisfreie Stadt",
+    "state": "Sachsen-Anhalt",
+    "population": 237565,
+    "cases": 417,
+    "deaths": 5,
+    "deathRate": 1.19904076738609,
+    "lastDayCases": [
+      0,
+      1,
+      1,
+      2,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 368,
+    "objectId1": 0,
+    "ags": "15081",
+    "name": "Altmarkkreis Salzwedel",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 83173,
+    "cases": 59,
+    "deaths": 1,
+    "deathRate": 1.69491525423729,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 369,
+    "objectId1": 0,
+    "ags": "15082",
+    "name": "Anhalt-Bitterfeld",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 158486,
+    "cases": 116,
+    "deaths": 2,
+    "deathRate": 1.72413793103448,
+    "lastDayCases": [
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 370,
+    "objectId1": 0,
+    "ags": "15083",
+    "name": "Börde",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 170923,
+    "cases": 216,
+    "deaths": 13,
+    "deathRate": 6.01851851851852,
+    "lastDayCases": [
+      0,
+      4,
+      0,
+      1,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 371,
+    "objectId1": 0,
+    "ags": "15084",
+    "name": "Burgenlandkreis",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 178846,
+    "cases": 236,
+    "deaths": 3,
+    "deathRate": 1.27118644067797,
+    "lastDayCases": [
+      0,
+      10,
+      1,
+      5,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 372,
+    "objectId1": 0,
+    "ags": "15085",
+    "name": "Harz",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 213310,
+    "cases": 301,
+    "deaths": 6,
+    "deathRate": 1.99335548172757,
+    "lastDayCases": [
+      0,
+      6,
+      1,
+      2,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 373,
+    "objectId1": 0,
+    "ags": "15086",
+    "name": "Jerichower Land",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 89589,
+    "cases": 74,
+    "deaths": 2,
+    "deathRate": 2.7027027027027,
+    "lastDayCases": [
+      3,
+      1,
+      2,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 374,
+    "objectId1": 0,
+    "ags": "15087",
+    "name": "Mansfeld-Südharz",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 134942,
+    "cases": 89,
+    "deaths": 2,
+    "deathRate": 2.24719101123596,
+    "lastDayCases": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 375,
+    "objectId1": 0,
+    "ags": "15088",
+    "name": "Saalekreis",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 183815,
+    "cases": 204,
+    "deaths": 7,
+    "deathRate": 3.43137254901961,
+    "lastDayCases": [
+      2,
+      3,
+      1,
+      1,
+      6
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 376,
+    "objectId1": 0,
+    "ags": "15089",
+    "name": "Salzlandkreis",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 189125,
+    "cases": 129,
+    "deaths": 1,
+    "deathRate": 0.775193798449612,
+    "lastDayCases": [
+      0,
+      1,
+      0,
+      1,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 377,
+    "objectId1": 0,
+    "ags": "15090",
+    "name": "Stendal",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 111190,
+    "cases": 129,
+    "deaths": 6,
+    "deathRate": 4.65116279069767,
+    "lastDayCases": [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 378,
+    "objectId1": 0,
+    "ags": "15091",
+    "name": "Wittenberg",
+    "type": "Landkreis",
+    "state": "Sachsen-Anhalt",
+    "population": 124953,
+    "cases": 245,
+    "deaths": 3,
+    "deathRate": 1.22448979591837,
+    "lastDayCases": [
+      3,
+      1,
+      1,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 379,
+    "objectId1": 0,
+    "ags": "16051",
+    "name": "Erfurt",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 213981,
+    "cases": 253,
+    "deaths": 2,
+    "deathRate": 0.790513833992095,
+    "lastDayCases": [
+      2,
+      0,
+      5,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 380,
+    "objectId1": 0,
+    "ags": "16052",
+    "name": "Gera",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 93125,
+    "cases": 313,
+    "deaths": 22,
+    "deathRate": 7.02875399361022,
+    "lastDayCases": [
+      0,
+      0,
+      10,
+      8,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 381,
+    "objectId1": 0,
+    "ags": "16053",
+    "name": "Jena",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 111343,
+    "cases": 240,
+    "deaths": 3,
+    "deathRate": 1.25,
+    "lastDayCases": [
+      2,
+      0,
+      9,
+      0,
+      4
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 382,
+    "objectId1": 0,
+    "ags": "16054",
+    "name": "Suhl",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 36789,
+    "cases": 37,
+    "deaths": 2,
+    "deathRate": 5.40540540540541,
+    "lastDayCases": [
+      1,
+      2,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 383,
+    "objectId1": 0,
+    "ags": "16055",
+    "name": "Weimar",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 65228,
+    "cases": 144,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      2,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 384,
+    "objectId1": 0,
+    "ags": "16056",
+    "name": "Eisenach",
+    "type": "Kreisfreie Stadt",
+    "state": "Thüringen",
+    "population": 42250,
+    "cases": 44,
+    "deaths": 4,
+    "deathRate": 9.09090909090909,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 385,
+    "objectId1": 0,
+    "ags": "16061",
+    "name": "Eichsfeld",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 100006,
+    "cases": 215,
+    "deaths": 11,
+    "deathRate": 5.11627906976744,
+    "lastDayCases": [
+      0,
+      0,
+      6,
+      1,
+      30
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 386,
+    "objectId1": 0,
+    "ags": "16062",
+    "name": "Nordhausen",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 83416,
+    "cases": 77,
+    "deaths": 2,
+    "deathRate": 2.5974025974026,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 387,
+    "objectId1": 0,
+    "ags": "16063",
+    "name": "Wartburgkreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 118974,
+    "cases": 148,
+    "deaths": 2,
+    "deathRate": 1.35135135135135,
+    "lastDayCases": [
+      3,
+      3,
+      0,
+      3,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 388,
+    "objectId1": 0,
+    "ags": "16064",
+    "name": "Unstrut-Hainich-Kreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 102232,
+    "cases": 119,
+    "deaths": 3,
+    "deathRate": 2.52100840336134,
+    "lastDayCases": [
+      2,
+      1,
+      1,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 389,
+    "objectId1": 0,
+    "ags": "16065",
+    "name": "Kyffhäuserkreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 74212,
+    "cases": 70,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 390,
+    "objectId1": 0,
+    "ags": "16066",
+    "name": "Schmalkalden-Meiningen",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 124916,
+    "cases": 215,
+    "deaths": 6,
+    "deathRate": 2.7906976744186,
+    "lastDayCases": [
+      0,
+      0,
+      3,
+      4,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 391,
+    "objectId1": 0,
+    "ags": "16067",
+    "name": "Gotha",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 134908,
+    "cases": 390,
+    "deaths": 30,
+    "deathRate": 7.69230769230769,
+    "lastDayCases": [
+      0,
+      3,
+      5,
+      1,
+      16
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 392,
+    "objectId1": 0,
+    "ags": "16068",
+    "name": "Sömmerda",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 69427,
+    "cases": 78,
+    "deaths": 1,
+    "deathRate": 1.28205128205128,
+    "lastDayCases": [
+      1,
+      0,
+      2,
+      6,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 393,
+    "objectId1": 0,
+    "ags": "16069",
+    "name": "Hildburghausen",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 63197,
+    "cases": 96,
+    "deaths": 1,
+    "deathRate": 1.04166666666667,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 394,
+    "objectId1": 0,
+    "ags": "16070",
+    "name": "Ilm-Kreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 106249,
+    "cases": 225,
+    "deaths": 7,
+    "deathRate": 3.11111111111111,
+    "lastDayCases": [
+      0,
+      0,
+      2,
+      2,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 395,
+    "objectId1": 0,
+    "ags": "16071",
+    "name": "Weimarer Land",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 82156,
+    "cases": 158,
+    "deaths": 6,
+    "deathRate": 3.79746835443038,
+    "lastDayCases": [
+      2,
+      0,
+      5,
+      2,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 396,
+    "objectId1": 0,
+    "ags": "16072",
+    "name": "Sonneberg",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 57717,
+    "cases": 324,
+    "deaths": 22,
+    "deathRate": 6.79012345679012,
+    "lastDayCases": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 397,
+    "objectId1": 0,
+    "ags": "16073",
+    "name": "Saalfeld-Rudolstadt",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 103199,
+    "cases": 114,
+    "deaths": 0,
+    "deathRate": 0.0,
+    "lastDayCases": [
+      0,
+      2,
+      2,
+      0,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 398,
+    "objectId1": 0,
+    "ags": "16074",
+    "name": "Saale-Holzland-Kreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 82950,
+    "cases": 124,
+    "deaths": 3,
+    "deathRate": 2.41935483870968,
+    "lastDayCases": [
+      1,
+      3,
+      3,
+      2,
+      7
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 399,
+    "objectId1": 0,
+    "ags": "16075",
+    "name": "Saale-Orla-Kreis",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 80312,
+    "cases": 215,
+    "deaths": 12,
+    "deathRate": 5.58139534883721,
+    "lastDayCases": [
+      1,
+      0,
+      7,
+      2,
+      1
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 400,
+    "objectId1": 0,
+    "ags": "16076",
+    "name": "Greiz",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 97398,
+    "cases": 711,
+    "deaths": 48,
+    "deathRate": 6.75105485232067,
+    "lastDayCases": [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 401,
+    "objectId1": 0,
+    "ags": "16077",
+    "name": "Altenburger Land",
+    "type": "Landkreis",
+    "state": "Thüringen",
+    "population": 89393,
+    "cases": 125,
+    "deaths": 4,
+    "deathRate": 3.2,
+    "lastDayCases": [
+      2,
+      2,
+      0,
+      4,
+      3
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 404,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Reinickendorf",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 259689,
+    "cases": 1267,
+    "deaths": 22,
+    "deathRate": 1.73638516179953,
+    "lastDayCases": [
+      17,
+      19,
+      30,
+      52,
+      27
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 405,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Charlottenburg-Wilmersdorf",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 334401,
+    "cases": 1717,
+    "deaths": 23,
+    "deathRate": 1.33954571927781,
+    "lastDayCases": [
+      27,
+      40,
+      34,
+      47,
+      14
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 406,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Treptow-Köpenick",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 266488,
+    "cases": 706,
+    "deaths": 11,
+    "deathRate": 1.55807365439093,
+    "lastDayCases": [
+      15,
+      8,
+      17,
+      17,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 407,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Pankow",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 398036,
+    "cases": 1447,
+    "deaths": 37,
+    "deathRate": 2.55701451278507,
+    "lastDayCases": [
+      11,
+      27,
+      36,
+      30,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 408,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Neukölln",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 321123,
+    "cases": 2434,
+    "deaths": 43,
+    "deathRate": 1.76663927691044,
+    "lastDayCases": [
+      61,
+      61,
+      150,
+      63,
+      0
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 409,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Lichtenberg",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 286522,
+    "cases": 909,
+    "deaths": 13,
+    "deathRate": 1.43014301430143,
+    "lastDayCases": [
+      9,
+      23,
+      7,
+      8,
+      10
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 410,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Marzahn-Hellersdorf",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 262967,
+    "cases": 797,
+    "deaths": 7,
+    "deathRate": 0.878293601003764,
+    "lastDayCases": [
+      5,
+      16,
+      5,
+      16,
+      11
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 411,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Spandau",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 239019,
+    "cases": 967,
+    "deaths": 9,
+    "deathRate": 0.93071354705274,
+    "lastDayCases": [
+      5,
+      9,
+      33,
+      11,
+      39
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 412,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Steglitz-Zehlendorf",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 302177,
+    "cases": 1136,
+    "deaths": 13,
+    "deathRate": 1.1443661971831,
+    "lastDayCases": [
+      30,
+      35,
+      28,
+      10,
+      32
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 413,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Mitte",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 375238,
+    "cases": 2868,
+    "deaths": 21,
+    "deathRate": 0.732217573221757,
+    "lastDayCases": [
+      43,
+      76,
+      59,
+      113,
+      46
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 414,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Friedrichshain-Kreuzberg",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 282059,
+    "cases": 1781,
+    "deaths": 9,
+    "deathRate": 0.505334081976418,
+    "lastDayCases": [
+      27,
+      33,
+      33,
+      27,
+      38
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  },
+  {
+    "objectId": 415,
+    "objectId1": 0,
+    "ags": "",
+    "name": "Berlin Tempelhof-Schöneberg",
+    "type": "Bezirk",
+    "state": "Berlin",
+    "population": 341772,
+    "cases": 1799,
+    "deaths": 26,
+    "deathRate": 1.44524735964425,
+    "lastDayCases": [
+      38,
+      31,
+      65,
+      49,
+      56
+    ],
+    "lastUpdate": "2020-10-11 00:00:00"
+  }
+]
