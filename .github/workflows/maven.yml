@@ -20,4 +20,4 @@ jobs:
         java-version: 1.8
     - name: Build with Maven
       working-directory: service
-      run: mvn surefire:test -Dtest=TestCircle
+      run: mvn surefire:test -Dtest=BaseTest
