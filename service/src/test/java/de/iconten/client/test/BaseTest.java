@@ -6,6 +6,6 @@ public class BaseTest {
 
 	@Test
 	public void createFileTest() {
-		System.out.println("");
+		System.out.println("Ein Test");
 	}
 }
