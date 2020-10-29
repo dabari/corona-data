@@ -39,20 +39,17 @@ public class CreateGermanyDataTest {
 		dataProvider.writeBundeslandData();
 	}
 
-	@Test
 	public void writeLandkreisAllDataTest() throws Exception {
 		final DataProviderGermany dataProvider = new DataProviderGermany();
 		dataProvider.writeLandkreisData();
 	}
 
-	@Test
 	public void writeLandkreisCsvTest() throws Exception {
 		final RestClientGermany client = new RestClientGermany();
 		final List<DataItem> features = client.getLandkreisData();
 		DataProviderGermany.writeLandkreisCsvData(DataProviderGermany.FEATURE_LANDKREIS_NAME, features);
 	}
 
-	@Test
 	public void writeLandkreisJsonTest() throws Exception {
 		final RestClientGermany client = new RestClientGermany();
 		final List<DataItem> features = client.getLandkreisData();
@@ -64,20 +61,17 @@ public class CreateGermanyDataTest {
 				.getJsonFile(DataProviderGermany.COUNTRY, DataProviderGermany.FEATURE_LANDKREIS_NAME, AbsDataProvider.calendarToday.getTime()));
 	}
 
-	@Test
 	public void writeBundeslandAllDataTest() throws Exception {
 		final DataProviderGermany dataProvider = new DataProviderGermany();
 		dataProvider.writeBundeslandData();
 	}
 
-	@Test
 	public void writeBundeslandCsvTest() throws Exception {
 		final RestClientGermany client = new RestClientGermany();
 		final List<DataItem> features = client.getBundeslandData();
 		DataProviderGermany.writeBundeslandCsvData(DataProviderGermany.FEATURE_BUNDESLAND_NAME, features);
 	}
 
-	@Test
 	public void writeBundeslandJsonTest() throws Exception {
 		final RestClientGermany client = new RestClientGermany();
 		final List<DataItem> features = client.getBundeslandData();
@@ -92,7 +86,6 @@ public class CreateGermanyDataTest {
 		return new File(Util.USERDIR.getParentFile(), "data/germany/daily/" + featureType + "/" + dateFormat + ".json");
 	}
 
-	@Test
 	public void ffTest() throws Exception {
 		final Calendar calendar = Util.getCalendar();
 		calendar.add(Calendar.DAY_OF_MONTH, -4);
